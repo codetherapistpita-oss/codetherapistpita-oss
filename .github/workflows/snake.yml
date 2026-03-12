@@ -1,0 +1,29 @@
+# Snake animation - copy this to your profile repo: .github/workflows/snake.yml
+# Repo: https://github.com/Platane/snk
+
+name: Generate snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Runs daily at midnight
+  workflow_dispatch:      # Allows manual run
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: codetherapistpita-oss
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg
+
+      - name: Push to output branch
+        uses: platane/gh-pages-deploy@v4
+        with:
+          base: output
+          dir: dist
+          branch_output: output
+          token: ${{ secrets.GITHUB_TOKEN }}
