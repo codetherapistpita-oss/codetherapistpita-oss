@@ -81,11 +81,15 @@ When I'm not coding, you'll find me exploring new technologies, contributing to 
 
 ## 📦 Featured Repo Stats (OSS Insight)
 
-<div align="center">
-  <a href="https://ossinsight.io/analyze/codetherapistpita-oss/codetherapist-portfolio" target="_blank" title="View on OSS Insight">
-    <img src="https://next.ossinsight.io/widgets/official/analyze-repo-stars-history/thumbnail.png?repo_id=1178814383&image_size=auto" alt="Portfolio repo star history" />
-  </a>
-</div>
+*[codetherapist-portfolio](https://github.com/codetherapistpita-oss/codetherapist-portfolio) · [View full analytics →](https://ossinsight.io/analyze/codetherapistpita-oss/codetherapist-portfolio)*
+
+| Star History | Activity Trends |
+|:---:|:---:|
+| <a href="https://ossinsight.io/analyze/codetherapistpita-oss/codetherapist-portfolio" target="_blank"><img src="https://next.ossinsight.io/widgets/official/analyze-repo-stars-history/thumbnail.png?repo_id=1178814383&image_size=auto" alt="Star History" /></a> | <a href="https://ossinsight.io/analyze/codetherapistpita-oss/codetherapist-portfolio" target="_blank"><img src="https://next.ossinsight.io/widgets/official/compose-activity-trends/thumbnail.png?repo_id=1178814383&image_size=auto" alt="Activity Trends" /></a> |
+
+| Performance (28 days) | Lines of Code |
+|:---:|:---:|
+| <a href="https://ossinsight.io/analyze/codetherapistpita-oss/codetherapist-portfolio" target="_blank"><img src="https://next.ossinsight.io/widgets/official/compose-last-28-days-stats/thumbnail.png?repo_id=1178814383&image_size=auto" alt="Performance Stats" /></a> | <a href="https://ossinsight.io/analyze/codetherapistpita-oss/codetherapist-portfolio" target="_blank"><img src="https://next.ossinsight.io/widgets/official/analyze-repo-loc-per-month/thumbnail.png?repo_id=1178814383&image_size=auto" alt="Lines of Code" /></a> |
 
 ---
 
