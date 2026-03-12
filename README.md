@@ -1,6 +1,16 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&random=false&width=520&lines=Hi+there!+👋;I'm+codetherapist;Creative+Developer+%7C+Available+for+work&repeat=false" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=codetherapist&fontSize=70&animation=fadeIn&fontAlignY=35" alt="Header" />
 </div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=800&color=2E9EF7&center=true&vCenter=true&random=false&width=480&lines=Hi+there!+👋;I'm+codetherapist;Creative+Developer;Available+for+work&repeat=true" alt="Typing SVG" />
+</div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/💻_Working_on-CODE%20THERAPIST%20EMPIRE-e8b86d?style=for-the-badge" alt="Working on" />
+  <img src="https://img.shields.io/badge/🌱_Learning-AI%20%7C%20Unity%20%7C%20Full--Stack-2E9EF7?style=for-the-badge" alt="Learning" />
+  <img src="https://img.shields.io/badge/⚡_Status-Open%20to%20work-25D366?style=for-the-badge" alt="Status" />
+</p>
 
 ---
 
