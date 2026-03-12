@@ -17,7 +17,7 @@
 
 ## 👋 About Me
 
-I'm a passionate developer with a keen eye for design—though not quite perfect yet! I write **C# & Unity**, build **AI agents**, code **Python**, and work with **PHP**, **Node.js**, and **Express.js**. I'm good at **MySQL** and love creating things that live on the web.
+I'm a passionate developer with a keen eye for design! I write **C# & Unity**, build **AI agents**, code **Python**, and work with **PHP**, **Node.js**, and **Express.js**. I'm good at **MySQL** and love creating things that live on the web.
 
 When I'm not coding, you'll find me exploring new technologies, contributing to open source, or enjoying a good cup of coffee while learning something new.
 
