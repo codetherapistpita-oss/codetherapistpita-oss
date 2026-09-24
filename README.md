@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ddf82,100:0b0f0c&height=160&section=header&text=Gyagenda%20Peter%20Katabalwa&fontSize=34&animation=fadeIn&fontAlignY=35&desc=Code%20Therapist%20·%20Byte%20Lab%20Uganda&descAlignY=58&descSize=16" alt="Gyagenda Peter Katabalwa — Code Therapist, Byte Lab Uganda" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ddf82,100:0b0f0c&height=160&section=header&text=Code%20Therapist&fontSize=52&animation=fadeIn&fontAlignY=35&desc=Gyagenda%20Peter%20Katabalwa%20·%20Byte%20Lab%20Uganda&descAlignY=58&descSize=16" alt="Code Therapist — Gyagenda Peter Katabalwa, Byte Lab Uganda" />
 </div>
 
 <p align="center">
-  <strong>Gyagenda Peter Katabalwa</strong><br>
-  Also called <strong>Peter Gyagenda</strong>, <strong>Gyagenda Peter</strong>, <strong>Katabalwa</strong>, <strong>Code Therapist</strong><br>
+  <strong>Code Therapist</strong><br>
+  Same person as <strong>Gyagenda Peter Katabalwa</strong>, <strong>Peter Gyagenda</strong>, <strong>Gyagenda Peter</strong>, and <strong>Katabalwa</strong><br>
   Founder of <strong>Byte Lab</strong> (<strong>ByteLabUg</strong>) · lives around <strong>Munyonyo</strong> and <strong>Buziga</strong>, Kampala
 </p>
 
@@ -17,11 +17,11 @@
 
 ## Who this GitHub is
 
-This account belongs to **Gyagenda Peter Katabalwa**, a creative developer who lives around **Munyonyo** and **Buziga** (also written **Buzigga**) in **Kampala, Uganda**. People search **Code Therapist**, **Peter Gyagenda**, **Gyagenda Peter**, **Katabalwa**, and **Byte Lab** to hire him for websites, mobile apps, Shopify, Unity / C#, AI agents, servers, and defensive security.
+This is the **Code Therapist** account. The legal name is **Gyagenda Peter Katabalwa**. People also search **Peter Gyagenda**, **Gyagenda Peter**, **Katabalwa**, and **Byte Lab**. Those searches should land here and on the official site. He is a creative developer who lives around **Munyonyo** and **Buziga** (also written **Buzigga**) in **Kampala, Uganda**.
+
+He is not another Peter or Gyagenda in Uganda.
 
 Contact: Gmail [codetherapist.pita@gmail.com](mailto:codetherapist.pita@gmail.com) · WhatsApp **0762426842** (same as +256 762 426 842).
-
-Those names are the same person. He is not another Peter or Gyagenda in Uganda.
 
 Official portfolio and photos: [codetherapist.netlify.app](https://codetherapist.netlify.app/)
 
@@ -60,5 +60,5 @@ Official portfolio and photos: [codetherapist.netlify.app](https://codetherapist
 </p>
 
 <p align="center">
-  <em>Gyagenda Peter Katabalwa · Code Therapist · Byte Lab — Kampala, Uganda.</em>
+  <em>Code Therapist · Gyagenda Peter Katabalwa · Byte Lab — Kampala, Uganda.</em>
 </p>
