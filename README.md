@@ -23,7 +23,7 @@ He is not another Peter or Gyagenda in Uganda.
 
 Contact: Gmail [codetherapist.pita@gmail.com](mailto:codetherapist.pita@gmail.com) · WhatsApp **0762426842** (same as +256 762 426 842).
 
-Official portfolio and photos: [codetherapist.netlify.app](https://codetherapist.netlify.app/)
+Official portfolio and photos: [codetherapist.netlify.app](https://codetherapist.netlify.app/) · identity: [who-is](https://codetherapist.netlify.app/who-is.html)
 
 <p align="center">
   <strong>25+</strong> Projects · <strong>2+</strong> Years · Kampala HQ
