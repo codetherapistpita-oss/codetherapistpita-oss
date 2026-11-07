@@ -66,4 +66,4 @@ Try `UPDATE`, `DELETE`, joins, indexes, transactions and database roles in a tes
 
 ---
 
-[← SQL & NoSQL](./README.md) · [← Knowledge Hub](../../README.md)
+[← SQL & NoSQL](./README.md) · [← Knowledge Hub](../../../README.md)
