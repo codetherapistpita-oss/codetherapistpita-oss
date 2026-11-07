@@ -35,6 +35,18 @@ Practical developer resources, free code, safe technology guides, curated news a
 | **[🎬 Design & Animation](./15-DESIGN-ANIMATION-GRAPHICS/README.md)** | UI design, CSS motion, 2D/3D and computer graphics |
 | **[🧠 Machine Learning & Data](./16-MACHINE-LEARNING-DATA/README.md)** | Data analysis, models, computer vision and evaluation |
 
+## 🎓 New learning series: Google Workspace
+
+**[Start the Google Workspace course →](./01-DEVELOPER-ACADEMY/GOOGLE-WORKSPACE/README.md)**
+
+| Lesson | Practical focus |
+| --- | --- |
+| [GW-001](./01-DEVELOPER-ACADEMY/GOOGLE-WORKSPACE/GW-001.md) | Workspace apps and setup |
+| [GW-002](./01-DEVELOPER-ACADEMY/GOOGLE-WORKSPACE/GW-002.md) | Gmail and professional email |
+| [GW-003](./01-DEVELOPER-ACADEMY/GOOGLE-WORKSPACE/GW-003.md) | Drive, Docs, Sheets and practice budget |
+
+**[Questions, useful websites and repository submissions →](./QUESTION_TO_PUBLICATION_WORKFLOW.md)** — How Code Therapist turns reader requests into sourced articles without duplicates.
+
 ## Featured public projects
 
 | Project | Repository |
