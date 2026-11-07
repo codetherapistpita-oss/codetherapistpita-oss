@@ -1,43 +1,58 @@
-# Code Therapist — Knowledge Hub
+<div align="center">
 
-> Technical notes, software guidance, curated references, security learning and development updates, organized separately from source-code projects.
+# 🧭 Code Therapist — Knowledge Hub
 
-**Author:** [Code Therapist / Gyagenda Peter Katabalwa](https://github.com/codetherapistpita-oss) · **Portfolio:** [codetherapist.netlify.app](https://codetherapist.netlify.app/) · **ByteLab:** [bytelabug.com](https://bytelabug.com/)
+### Learn • Build • Secure • Explore • Stay Informed
 
-## Browse by topic
+Practical developer resources, free code, safe technology guides, curated news and original technical publications.
 
-| Category | Read |
-|---|---|
-| 💻 Windows & Microsoft Office | [Windows and Office](./windows-and-office/README.md) |
-| 🐧 Linux & Kali Linux | [Linux](./linux/README.md) |
-| 🛡️ Cybersecurity & Networking | [Cybersecurity](./cybersecurity/README.md) |
-| 🤖 AI & Automation | [AI and Automation](./ai-and-automation/README.md) |
-| 🧑‍💻 Software Engineering | [Software Engineering](./software-engineering/README.md) |
-| 📣 Announcements & Changelogs | [Announcements](./announcements/README.md) |
+[![GitHub](https://img.shields.io/badge/GitHub-Code%20Therapist-171515?logo=github)](https://github.com/codetherapistpita-oss)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Explore-0b9580)](https://codetherapist.netlify.app/)
+[![ByteLab](https://img.shields.io/badge/ByteLab-Uganda-C21D33)](https://bytelabug.com/)
 
-## Recent publications
-
-| Date | Topic | Entry |
-|---|---|---|
-| 2026-11-07 | Windows and Office | [Microsoft Activation Scripts — attributed project reference](./windows-and-office/README.md) |
-
-## Projects live elsewhere
-
-The Knowledge Hub is for **posts, learning notes, guides, references and announcements**. Each substantial app or product keeps its own GitHub repository.
-
-- [ByteLab Academy](https://github.com/codetherapistpita-oss/bytelab-academy)
-- [Code Therapist portfolio](https://github.com/codetherapistpita-oss/codetherapist-portfolio)
-- [Projects and repositories](https://github.com/codetherapistpita-oss?tab=repositories)
-- [Microsoft Activation Scripts community reference](https://github.com/codetherapistpita-oss/MICROSOFT_OFFICE_ACTIVATION)
-
-## Publication conventions
-
-- New posts: `YYYY-MM-DD-descriptive-title.md` in the relevant category.
-- Every post should include a title, publication date, summary, sources, and related project links.
-- Curated third-party resources must link to and credit their original authors.
-- Keep drafts and private/security-sensitive details out of public publication.
-- Update this homepage's **Recent publications** table whenever a post is published.
+</div>
 
 ---
 
-Maintained by **Code Therapist** · [Portfolio](https://codetherapist.netlify.app/) · [ByteLab Uganda](https://bytelabug.com/).
+## Explore the library
+
+| Category | What you'll find |
+| :--- | :--- |
+| **[🎓 Developer Academy](./01-DEVELOPER-ACADEMY/README.md)** | Beginner and intermediate learning paths |
+| **[🧩 Free Source Code](./02-FREE-SOURCE-CODE/README.md)** | Reusable components and starter projects |
+| **[💾 Free Software & Tools](./03-SOFTWARE-AND-TOOLS/README.md)** | Official and open-source tools |
+| **[🛡️ Cybersecurity Lab](./04-CYBERSECURITY/README.md)** | Defensive security and authorized labs |
+| **[🤖 AI & Automation](./05-AI-AND-LLMS/README.md)** | Models, prompt design and agents |
+| **[📰 Technology News](./06-TECH-NEWS/README.md)** | Verified company news and product releases |
+| **[📣 Creator & Social Media](./07-SOCIAL-MEDIA/README.md)** | Platform policy and creator changes |
+| **[📚 Documentation Library](./08-DOCUMENTATION/README.md)** | PDFs, research and technical guides |
+| **[🗓️ Notices & Changelogs](./09-UPDATES-AND-NOTICES/README.md)** | Release notes and announcements |
+
+## Featured public projects
+
+| Project | Repository |
+| --- | --- |
+| ByteLab Academy | [View source](https://github.com/codetherapistpita-oss/bytelab-academy) |
+| Code Therapist Portfolio | [View source](https://github.com/codetherapistpita-oss/codetherapist-portfolio) |
+| Code Therapist School | [View repository](https://github.com/codetherapistpita-oss/codetherapistschool) |
+
+## Recent publications
+
+| Published | Resource | Subject |
+| --- | --- | --- |
+| 2026-11-07 | [Microsoft Activation Scripts — Community Reference](https://github.com/codetherapistpita-oss/MICROSOFT_OFFICE_ACTIVATION) | Windows & Office; attributed third-party project |
+
+## For contributors and readers
+
+- **Programming resources:** Include source code, a demonstration, prerequisites, instructions, and license information.
+- **Software listings:** Link to official project/vendor downloads; avoid repackaged installers, credential tools or dubious activators.
+- **Security content:** Use authorized lab environments, emphasize defensive learning, and do not publish stolen secrets or unauthorized access methods.
+- **Technical news:** Record the original publication date, reliable source links and what has been independently verified.
+- **Third-party projects:** Clearly credit maintainers and preserve license requirements.
+- **Editorial workflow:** Use the [article template](./ARTICLE_TEMPLATE.md) for every new publication; add the post to its category and the recent publications index.
+
+> **Publishing status:** The new folders and indexes are live. Empty sections are intentionally marked as awaiting content; listed articles must actually exist.
+
+---
+
+[← Return to Code Therapist's profile](https://github.com/codetherapistpita-oss) · [Portfolio](https://codetherapist.netlify.app/) · [ByteLab Uganda](https://bytelabug.com/)
