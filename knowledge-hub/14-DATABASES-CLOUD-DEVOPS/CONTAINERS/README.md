@@ -2,6 +2,13 @@
 
 [← Category](../README.md) · [← Knowledge Hub](../../README.md)
 
+
+## Published guide — 7 November 2026
+
+| Date | Article | Reference |
+| --- | --- | --- |
+| 2026-11-07 | **[Docker Images vs Containers](./2026-11-07-docker-image-vs-container.md)** | Docker Docs |
+
 ## Resource index
 
 | Date | Resource | Description |
