@@ -43,4 +43,4 @@ Why was the invention of a transistor not enough, by itself, to produce a modern
 
 ---
 
-[← Computer Generations](./README.md) · [← History of Computing](../README.md) · [← Knowledge Hub](../../README.md)
+[← Computer Generations](./README.md) · [← History of Computing](../README.md) · [← Knowledge Hub](../../../README.md)
