@@ -42,6 +42,8 @@ Practical developer resources, free code, safe technology guides, curated news a
 | --- | --- | --- |
 | 2026-11-07 | [Microsoft Activation Scripts — Community Reference](https://github.com/codetherapistpita-oss/MICROSOFT_OFFICE_ACTIVATION) | Windows & Office; attributed third-party project |
 
+| 2026-11-07 | [Responsive Login Form — HTML & CSS](./01-DEVELOPER-ACADEMY/HTML-CSS/login-form/README.md) | Original beginner frontend code example |
+
 ## For contributors and readers
 
 - **Programming resources:** Include source code, a demonstration, prerequisites, instructions, and license information.
