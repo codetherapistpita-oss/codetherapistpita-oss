@@ -29,9 +29,16 @@
 | 🛡️ **[Cybersecurity Lab](./knowledge-hub/04-CYBERSECURITY/README.md)** | Defensive security, authorized labs and networking |
 | 🤖 **[AI & Automation](./knowledge-hub/05-AI-AND-LLMS/README.md)** | AI models, prompts, agents and automation guides |
 | 📰 **[Tech News & Updates](./knowledge-hub/06-TECH-NEWS/README.md)** | Sourced innovations, announcements and releases |
-| 📣 **[Creator & Social Media Hub](./knowledge-hub/07-SOCIAL-MEDIA/README.md)** | YouTube, TikTok, Facebook, Instagram and LinkedIn developments |
+| 📣 **[Creator & Social Media Hub](./knowledge-hub/07-SOCIAL-MEDIA/README.md)** | 16 platforms: YouTube, TikTok, Instagram, WhatsApp, Telegram, Discord, Reddit and more |
 | 📚 **[Documentation Library](./knowledge-hub/08-DOCUMENTATION/README.md)** | Practical guides, research, technical notes and documents |
 | 🗓️ **[Notices & Changelogs](./knowledge-hub/09-UPDATES-AND-NOTICES/README.md)** | Important announcements and project updates |
+| 🔎 **[Cybercrime History & Law](./knowledge-hub/10-CYBER-INCIDENTS-AND-LAW/README.md)** | Cyber heists, historical cases, incident dates and applicable laws |
+| 💳 **[Banking & FinTech](./knowledge-hub/11-FINTECH-AND-BANKING/README.md)** | Financial services, banking innovations, payments and mobile money |
+| 🕰️ **[Computer History](./knowledge-hub/12-COMPUTER-HISTORY/README.md)** | Early computers, generations, pioneers and internet history |
+| 🖥️ **[Hardware & Systems](./knowledge-hub/13-HARDWARE-AND-SYSTEMS/README.md)** | PCs, servers, CPU/GPU hardware and computer systems |
+| ☁️ **[Databases, Cloud & DevOps](./knowledge-hub/14-DATABASES-CLOUD-DEVOPS/README.md)** | SQL, NoSQL, cloud deployments, infrastructure and CI/CD |
+| 🎬 **[Design & Animation](./knowledge-hub/15-DESIGN-ANIMATION-GRAPHICS/README.md)** | 2D/3D, UI/UX, motion design and computer graphics |
+| 🧠 **[Machine Learning & Data](./knowledge-hub/16-MACHINE-LEARNING-DATA/README.md)** | ML models, data science, computer vision and evaluation |
 | 🧭 **[Knowledge Hub — All Topics](./knowledge-hub/README.md)** | The full indexed library of technical publications |
 | 🏢 **[ByteLab Uganda](https://bytelabug.com/)** | Company website, technology solutions and products |
 | 🌐 **[Portfolio & Contact](https://codetherapist.netlify.app/)** | Published portfolio, background and contact details |
@@ -82,19 +89,45 @@ Official portfolio and photos: [codetherapist.netlify.app](https://codetherapist
 
 ---
 
-## Tech stack
+## Tech stack & technical interests
+
+Core tools, programming languages and technical areas I develop with or actively explore.
+
+### Programming, web & mobile
 
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP">
+<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart">
+<img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="C sharp">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
 </p>
+
+### Frameworks, runtimes & application development
+
+<p>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter">
+<img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" alt="Unity">
+</p>
+
+### Databases, cloud, operations & security
+
+| Area | Tools and topics |
+| :--- | :--- |
+| 🗄️ **Databases** | MySQL, PostgreSQL, SQLite, Supabase, database design and SQL |
+| ☁️ **Cloud & hosting** | Netlify, cloud infrastructure concepts, deployment and hosting |
+| ⚙️ **DevOps & systems** | Git, GitHub, Linux, Kali Linux, server administration and automation |
+| 🛡️ **Security & networking** | Secure coding, network security, authorized testing and system hardening |
+| 🧠 **AI / ML & data** | LLMs, AI agents, prompt engineering, model concepts, Python data analysis |
+| 🎨 **Design & animation** | UI/UX, CSS animations, responsive interfaces, computer graphics and 2D/3D workflows |
+
+**Browse hands-on resources:** [Developer Academy](./knowledge-hub/01-DEVELOPER-ACADEMY/README.md) · [ML & Data](./knowledge-hub/16-MACHINE-LEARNING-DATA/README.md) · [Design & Animation](./knowledge-hub/15-DESIGN-ANIMATION-GRAPHICS/README.md)
 
 ---
 
