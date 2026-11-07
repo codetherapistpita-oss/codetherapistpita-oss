@@ -2,6 +2,13 @@
 
 [← Category](../README.md) · [← Knowledge Hub](../../README.md)
 
+
+## Published guide — 7 November 2026
+
+| Date | Article | Reference |
+| --- | --- | --- |
+| 2026-11-07 | **[History 02: The Transistor Revolution](./2026-11-07-transistors-transform-computers.md)** | CHM |
+
 ## Article index
 
 | Date | Topic | Source or notes |
