@@ -44,4 +44,4 @@ Avoid reuploading someone else's copyrighted article as your own, and avoid post
 
 ---
 
-[← WhatsApp](./README.md) · [← Creator Hub](../README.md) · [← Knowledge Hub](../../README.md)
+[← WhatsApp](./README.md) · [← Creator Hub](../README.md) · [← Knowledge Hub](../../../README.md)
