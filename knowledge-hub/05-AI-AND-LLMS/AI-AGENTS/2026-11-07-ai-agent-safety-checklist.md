@@ -45,4 +45,4 @@ Before connecting a new tool, ask: What can the agent see? What can it modify? W
 
 ---
 
-[← AI Agents](./README.md) · [← Knowledge Hub](../../README.md)
+[← AI Agents](./README.md) · [← Knowledge Hub](../../../README.md)
