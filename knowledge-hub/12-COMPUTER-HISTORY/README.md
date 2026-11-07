@@ -14,6 +14,10 @@ Chronological learning paths on computing from early mechanical devices to conte
 | [INTERNET HISTORY](./INTERNET-HISTORY/README.md) | Guides, documented research and verified resources |
 | [COMPUTING PIONEERS](./COMPUTING-PIONEERS/README.md) | Guides, documented research and verified resources |
 
+## Start with the chronology
+
+Follow the [History of Computing — 9-part planned reading path](./HISTORY_READING_PATH.md). Chapters will be written and sourced separately.
+
 ## Published resources
 
 _No completed articles in this category yet._
