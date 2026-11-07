@@ -17,15 +17,51 @@
 
 ## Explore my work
 
-| 🧭 Navigation | What you'll find |
-| --- | --- |
-| 📚 **[Knowledge Hub](./knowledge-hub/README.md)** | Categorized technical posts, tutorials and important updates |
-| 🧑‍💻 **[My Projects](https://github.com/codetherapistpita-oss?tab=repositories)** | Software projects, applications and repositories |
-| 🌐 **[Portfolio](https://codetherapist.netlify.app/)** | My work, background and contact information |
-| 🏢 **[ByteLab Uganda](https://bytelabug.com/)** | Technology products and company information |
-| 🪟 **[Windows & Office Reference](https://github.com/codetherapistpita-oss/MICROSOFT_OFFICE_ACTIVATION)** | Attributed reference to the original Massgrave project |
+> **Start here:** Browse software projects, practical code, tutorials, curated tools and sourced technology updates without digging through dozens of repositories.
 
-> **Reading a post?** Each technical publication links back here so you can discover more of my work.
+| Explore | What you'll find |
+| :--- | :--- |
+| 👤 **[About Me](#who-this-github-is)** | Developer background, skills and professional experience |
+| 🧑‍💻 **[My Projects](https://github.com/codetherapistpita-oss?tab=repositories)** | Standalone apps, websites and open-source repositories |
+| 🎓 **[Developer Academy](./knowledge-hub/01-DEVELOPER-ACADEMY/README.md)** | HTML, CSS, JavaScript, Python, PHP, Flutter and hands-on tutorials |
+| 🧩 **[Free Source Code](./knowledge-hub/02-FREE-SOURCE-CODE/README.md)** | UI components, starter applications and reusable code |
+| 💾 **[Free Software & Tools](./knowledge-hub/03-SOFTWARE-AND-TOOLS/README.md)** | Official downloads, developer utilities and open-source options |
+| 🛡️ **[Cybersecurity Lab](./knowledge-hub/04-CYBERSECURITY/README.md)** | Defensive security, authorized labs and networking |
+| 🤖 **[AI & Automation](./knowledge-hub/05-AI-AND-LLMS/README.md)** | AI models, prompts, agents and automation guides |
+| 📰 **[Tech News & Updates](./knowledge-hub/06-TECH-NEWS/README.md)** | Sourced innovations, announcements and releases |
+| 📣 **[Creator & Social Media Hub](./knowledge-hub/07-SOCIAL-MEDIA/README.md)** | YouTube, TikTok, Facebook, Instagram and LinkedIn developments |
+| 📚 **[Documentation Library](./knowledge-hub/08-DOCUMENTATION/README.md)** | Practical guides, research, technical notes and documents |
+| 🗓️ **[Notices & Changelogs](./knowledge-hub/09-UPDATES-AND-NOTICES/README.md)** | Important announcements and project updates |
+| 🧭 **[Knowledge Hub — All Topics](./knowledge-hub/README.md)** | The full indexed library of technical publications |
+| 🏢 **[ByteLab Uganda](https://bytelabug.com/)** | Company website, technology solutions and products |
+| 🌐 **[Portfolio & Contact](https://codetherapist.netlify.app/)** | Published portfolio, background and contact details |
+
+---
+
+## Featured projects
+
+These are selected **public** repositories. My product source code and private client projects remain in their own repositories.
+
+| Project | Overview | Explore |
+| :--- | :--- | :--- |
+| 🎓 **ByteLab Academy** | Learning and education platform | [Repository](https://github.com/codetherapistpita-oss/bytelab-academy) |
+| 🌐 **Code Therapist Portfolio** | Portfolio source, design and web work | [Repository](https://github.com/codetherapistpita-oss/codetherapist-portfolio) |
+| 🏫 **Code Therapist School** | Educational software project | [Repository](https://github.com/codetherapistpita-oss/codetherapistschool) |
+| 🪟 **Windows & Office Reference** | Attributed community reference to the original MAS project | [Repository](https://github.com/codetherapistpita-oss/MICROSOFT_OFFICE_ACTIVATION) |
+
+**[Browse all public projects →](https://github.com/codetherapistpita-oss?tab=repositories)**
+
+---
+
+## Latest publications
+
+| Date (UTC) | Publication | Topic |
+| :--- | :--- | :--- |
+| 2026-11-07 | [Microsoft Activation Scripts — Community Reference](https://github.com/codetherapistpita-oss/MICROSOFT_OFFICE_ACTIVATION) | Windows & Office |
+
+**[Browse the full Knowledge Hub →](./knowledge-hub/README.md)**
+
+> New technical posts will be indexed by category, with publication dates, credible sources, appropriate licenses and working project links. Repositories are for projects; the Knowledge Hub is for articles and learning resources.
 
 ---
 
