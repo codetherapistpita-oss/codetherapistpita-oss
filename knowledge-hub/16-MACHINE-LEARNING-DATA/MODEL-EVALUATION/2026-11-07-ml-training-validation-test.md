@@ -49,4 +49,4 @@ You have 1,000 labeled records. A **hypothetical** 70/15/15 split yields 700 tra
 
 ---
 
-[← Model Evaluation](./README.md) · [← Knowledge Hub](../../README.md)
+[← Model Evaluation](./README.md) · [← Knowledge Hub](../../../README.md)
