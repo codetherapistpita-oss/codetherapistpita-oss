@@ -24,6 +24,7 @@
 | 👤 **[About Me](#who-this-github-is)** | Developer background, skills and professional experience |
 | 🧑‍💻 **[My Projects](https://github.com/codetherapistpita-oss?tab=repositories)** | Standalone apps, websites and open-source repositories |
 | 🎓 **[Developer Academy](./knowledge-hub/01-DEVELOPER-ACADEMY/README.md)** | HTML, CSS, JavaScript, Python, PHP, Flutter and hands-on tutorials |
+| 📗 **[Google Workspace Course](./knowledge-hub/01-DEVELOPER-ACADEMY/GOOGLE-WORKSPACE/README.md)** | GW-001, GW-002 and GW-003: practical beginner training with official app links |
 | 🧩 **[Free Source Code](./knowledge-hub/02-FREE-SOURCE-CODE/README.md)** | UI components, starter applications and reusable code |
 | 💾 **[Free Software & Tools](./knowledge-hub/03-SOFTWARE-AND-TOOLS/README.md)** | Official downloads, developer utilities and open-source options |
 | 🛡️ **[Cybersecurity Lab](./knowledge-hub/04-CYBERSECURITY/README.md)** | Defensive security, authorized labs and networking |
