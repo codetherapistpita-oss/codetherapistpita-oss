@@ -74,4 +74,4 @@ JavaScript in a browser can be bypassed or modified by the user. Backend validat
 
 ---
 
-[← JavaScript Academy](./README.md) · [← Knowledge Hub](../../README.md)
+[← JavaScript Academy](./README.md) · [← Knowledge Hub](../../../README.md)
