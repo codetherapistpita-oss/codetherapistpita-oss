@@ -62,21 +62,24 @@ These are selected **public** repositories. My product source code and private c
 
 ## Latest publications
 
-The following articles have been **published and indexed**. Dates are publication dates—not live traffic measurements.
+**New batch — 12 illustrated developer and technology articles, published 7 November 2026.** Each article includes practical guidance, links to original documentation and a GitHub-rendered diagram or table.
 
-| Date (UTC) | Publication | Topic |
+| Published | Featured article | Section |
 | --- | --- | --- |
-| 2026-11-07 | [Protect Your Online Accounts](./knowledge-hub/04-CYBERSECURITY/SECURITY-LABS/2026-11-07-protect-online-accounts-mfa.md) | Security |
-| 2026-11-07 | [Secure GitHub Dependencies with Dependabot](./knowledge-hub/04-CYBERSECURITY/SECURITY-LABS/2026-11-07-github-dependabot-beginner-guide.md) | GitHub Security |
-| 2026-11-07 | [Linux APT: Update vs Upgrade](./knowledge-hub/03-SOFTWARE-AND-TOOLS/LINUX/2026-11-07-apt-update-vs-upgrade.md) | Linux |
-| 2026-11-07 | [Computer History 01: ENIAC](./knowledge-hub/12-COMPUTER-HISTORY/EARLY-COMPUTING/2026-11-07-eniac-and-electronic-computers.md) | History |
-| 2026-11-07 | [Search Visibility for Developers](./knowledge-hub/06-TECH-NEWS/INNOVATIONS/2026-11-07-search-engine-visibility-for-developers.md) | Web & Search |
-| 2026-11-07 | [Responsive Login Form — HTML & CSS](./knowledge-hub/01-DEVELOPER-ACADEMY/HTML-CSS/login-form/README.md) | Free source code |
-| 2026-11-07 | [Microsoft Activation Scripts — Community Reference](https://github.com/codetherapistpita-oss/MICROSOFT_OFFICE_ACTIVATION) | Attributed reference |
+| 2026-11-07 | [Accessible CSS Animation](./knowledge-hub/15-DESIGN-ANIMATION-GRAPHICS/CSS-ANIMATIONS/2026-11-07-css-motion-accessibility.md) | Design |
+| 2026-11-07 | [PostgreSQL: First Database Table](./knowledge-hub/14-DATABASES-CLOUD-DEVOPS/SQL-AND-NOSQL/2026-11-07-postgresql-first-database.md) | Database |
+| 2026-11-07 | [Docker Images vs Containers](./knowledge-hub/14-DATABASES-CLOUD-DEVOPS/CONTAINERS/2026-11-07-docker-image-vs-container.md) | DevOps |
+| 2026-11-07 | [ML Training, Validation & Testing](./knowledge-hub/16-MACHINE-LEARNING-DATA/MODEL-EVALUATION/2026-11-07-ml-training-validation-test.md) | Machine Learning |
+| 2026-11-07 | [Ransomware Incident Research](./knowledge-hub/10-CYBER-INCIDENTS-AND-LAW/RANSOMWARE-AND-FRAUD/2026-11-07-ransomware-incident-explained.md) | Cybersecurity |
+| 2026-11-07 | [Bank & Mobile Money Scam Safety](./knowledge-hub/11-FINTECH-AND-BANKING/FINANCIAL-CYBERSECURITY/2026-11-07-spot-bank-impersonation-scams.md) | FinTech |
+| 2026-11-07 | [Computer History 02: Transistors](./knowledge-hub/12-COMPUTER-HISTORY/COMPUTER-GENERATIONS/2026-11-07-transistors-transform-computers.md) | Computing History |
+| 2026-11-07 | [CPU, RAM, SSD & GPU Explained](./knowledge-hub/13-HARDWARE-AND-SYSTEMS/PC-COMPONENTS/2026-11-07-cpu-ram-ssd-gpu-explained.md) | Hardware |
+| 2026-11-07 | [AI Agent Safety Checklist](./knowledge-hub/05-AI-AND-LLMS/AI-AGENTS/2026-11-07-ai-agent-safety-checklist.md) | AI |
+| 2026-11-07 | [WhatsApp Channels vs Groups](./knowledge-hub/07-SOCIAL-MEDIA/WHATSAPP/2026-11-07-whatsapp-channels-vs-groups.md) | Social Media |
+| 2026-11-07 | [JavaScript Form Validation](./knowledge-hub/01-DEVELOPER-ACADEMY/JAVASCRIPT/2026-11-07-javascript-form-validation.md) | Code Tutorial |
+| 2026-11-07 | [Publish with GitHub Pages](./knowledge-hub/08-DOCUMENTATION/TECHNICAL-NOTES/2026-11-07-github-pages-publishing-basics.md) | Web Publishing |
 
-**[Read all topics and technical notes →](./knowledge-hub/README.md)**
-
-> New articles include checked source links, practical examples and publication dates. Engagement figures are not claimed without genuine measurement.
+**[Browse the complete Knowledge Hub and previous articles →](./knowledge-hub/README.md)**
 
 ---
 
