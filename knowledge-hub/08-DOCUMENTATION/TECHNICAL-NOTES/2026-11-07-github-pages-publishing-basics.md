@@ -64,4 +64,4 @@ Publishing a page does **not** guarantee search-engine indexing or first-page ra
 
 ---
 
-[← Technical Notes](./README.md) · [← Knowledge Hub](../../README.md) · [Portfolio](https://codetherapist.netlify.app/)
+[← Technical Notes](./README.md) · [← Knowledge Hub](../../../README.md) · [Portfolio](https://codetherapist.netlify.app/)
