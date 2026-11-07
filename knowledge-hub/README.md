@@ -45,6 +45,25 @@ Practical developer resources, free code, safe technology guides, curated news a
 
 ## Recent publications
 
+### 12 newly published guides · 7 November 2026
+
+| Date | Article | Section |
+| --- | --- | --- |
+| 2026-11-07 | [Accessible CSS Animation](./15-DESIGN-ANIMATION-GRAPHICS/CSS-ANIMATIONS/2026-11-07-css-motion-accessibility.md) | Design |
+| 2026-11-07 | [PostgreSQL: First Database Table](./14-DATABASES-CLOUD-DEVOPS/SQL-AND-NOSQL/2026-11-07-postgresql-first-database.md) | Database |
+| 2026-11-07 | [Docker Images vs Containers](./14-DATABASES-CLOUD-DEVOPS/CONTAINERS/2026-11-07-docker-image-vs-container.md) | DevOps |
+| 2026-11-07 | [ML Training, Validation & Testing](./16-MACHINE-LEARNING-DATA/MODEL-EVALUATION/2026-11-07-ml-training-validation-test.md) | Machine Learning |
+| 2026-11-07 | [Ransomware Incident Research](./10-CYBER-INCIDENTS-AND-LAW/RANSOMWARE-AND-FRAUD/2026-11-07-ransomware-incident-explained.md) | Cybersecurity |
+| 2026-11-07 | [Bank & Mobile Money Scam Safety](./11-FINTECH-AND-BANKING/FINANCIAL-CYBERSECURITY/2026-11-07-spot-bank-impersonation-scams.md) | FinTech |
+| 2026-11-07 | [Computer History 02: Transistors](./12-COMPUTER-HISTORY/COMPUTER-GENERATIONS/2026-11-07-transistors-transform-computers.md) | Computing History |
+| 2026-11-07 | [CPU, RAM, SSD & GPU Explained](./13-HARDWARE-AND-SYSTEMS/PC-COMPONENTS/2026-11-07-cpu-ram-ssd-gpu-explained.md) | Hardware |
+| 2026-11-07 | [AI Agent Safety Checklist](./05-AI-AND-LLMS/AI-AGENTS/2026-11-07-ai-agent-safety-checklist.md) | AI |
+| 2026-11-07 | [WhatsApp Channels vs Groups](./07-SOCIAL-MEDIA/WHATSAPP/2026-11-07-whatsapp-channels-vs-groups.md) | Social Media |
+| 2026-11-07 | [JavaScript Form Validation](./01-DEVELOPER-ACADEMY/JAVASCRIPT/2026-11-07-javascript-form-validation.md) | Code Tutorial |
+| 2026-11-07 | [Publish with GitHub Pages](./08-DOCUMENTATION/TECHNICAL-NOTES/2026-11-07-github-pages-publishing-basics.md) | Web Publishing |
+
+### Earlier resources
+
 | Date | Resource | Category |
 | --- | --- | --- |
 | 2026-11-07 | [Protect Your Online Accounts](./04-CYBERSECURITY/SECURITY-LABS/2026-11-07-protect-online-accounts-mfa.md) | Security |
@@ -54,8 +73,6 @@ Practical developer resources, free code, safe technology guides, curated news a
 | 2026-11-07 | [Search Visibility for Developers](./06-TECH-NEWS/INNOVATIONS/2026-11-07-search-engine-visibility-for-developers.md) | Web & Search |
 | 2026-11-07 | [Responsive Login Form — HTML & CSS](./01-DEVELOPER-ACADEMY/HTML-CSS/login-form/README.md) | Beginner UI code |
 | 2026-11-07 | [Microsoft Activation Scripts — Community Reference](https://github.com/codetherapistpita-oss/MICROSOFT_OFFICE_ACTIVATION) | Curated third-party reference |
-
-**[Publication & analytics workbook](./PUBLISHING_AND_SEARCH_VISIBILITY.md)** — Tracking documentation and data source notes.
 
 ## How to use the Knowledge Hub
 
