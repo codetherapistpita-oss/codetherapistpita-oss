@@ -15,6 +15,20 @@
 
 ---
 
+## Explore my work
+
+| 🧭 Navigation | What you'll find |
+| --- | --- |
+| 📚 **[Knowledge Hub](./knowledge-hub/README.md)** | Categorized technical posts, tutorials and important updates |
+| 🧑‍💻 **[My Projects](https://github.com/codetherapistpita-oss?tab=repositories)** | Software projects, applications and repositories |
+| 🌐 **[Portfolio](https://codetherapist.netlify.app/)** | My work, background and contact information |
+| 🏢 **[ByteLab Uganda](https://bytelabug.com/)** | Technology products and company information |
+| 🪟 **[Windows & Office Reference](https://github.com/codetherapistpita-oss/MICROSOFT_OFFICE_ACTIVATION)** | Attributed reference to the original Massgrave project |
+
+> **Reading a post?** Each technical publication links back here so you can discover more of my work.
+
+---
+
 ## Who this GitHub is
 
 This is the **Code Therapist** account. The legal name is **Gyagenda Peter Katabalwa**. People also search **Peter Gyagenda**, **Gyagenda Peter**, **Katabalwa**, and **Byte Lab**. Those searches should land here and on the official site. He is a creative developer who lives around **Munyonyo** and **Buziga** (also written **Buzigga**) in **Kampala, Uganda**.
