@@ -69,4 +69,4 @@ Use keyboard navigation, a touch device, and the operating system's **Reduce Mot
 
 ---
 
-[← CSS Animation resources](./README.md) · [← Knowledge Hub](../../README.md) · [Portfolio](https://codetherapist.netlify.app/)
+[← CSS Animation resources](./README.md) · [← Knowledge Hub](../../../README.md) · [Portfolio](https://codetherapist.netlify.app/)
