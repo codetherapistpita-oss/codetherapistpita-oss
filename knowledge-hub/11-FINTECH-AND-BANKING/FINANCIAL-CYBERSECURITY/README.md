@@ -2,6 +2,13 @@
 
 [← Category](../README.md) · [← Knowledge Hub](../../README.md)
 
+
+## Published guide — 7 November 2026
+
+| Date | Article | Reference |
+| --- | --- | --- |
+| 2026-11-07 | **[Identify Bank and Mobile Money Scams](./2026-11-07-spot-bank-impersonation-scams.md)** | FTC / BOU |
+
 ## Article index
 
 | Date | Topic | Source or notes |
