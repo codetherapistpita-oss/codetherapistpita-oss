@@ -45,10 +45,17 @@ Practical developer resources, free code, safe technology guides, curated news a
 
 ## Recent publications
 
-| Published | Resource | Subject |
+| Date | Resource | Category |
 | --- | --- | --- |
-| 2026-11-07 | [Microsoft Activation Scripts — Community Reference](https://github.com/codetherapistpita-oss/MICROSOFT_OFFICE_ACTIVATION) | Windows & Office; attributed third-party project |
-| 2026-11-07 | [Responsive Login Form — HTML & CSS](./01-DEVELOPER-ACADEMY/HTML-CSS/login-form/README.md) | Original beginner frontend code example |
+| 2026-11-07 | [Protect Your Online Accounts](./04-CYBERSECURITY/SECURITY-LABS/2026-11-07-protect-online-accounts-mfa.md) | Security |
+| 2026-11-07 | [Secure GitHub Dependencies with Dependabot](./04-CYBERSECURITY/SECURITY-LABS/2026-11-07-github-dependabot-beginner-guide.md) | GitHub Security |
+| 2026-11-07 | [Linux APT: Update vs Upgrade](./03-SOFTWARE-AND-TOOLS/LINUX/2026-11-07-apt-update-vs-upgrade.md) | Linux |
+| 2026-11-07 | [Computer History 01: ENIAC](./12-COMPUTER-HISTORY/EARLY-COMPUTING/2026-11-07-eniac-and-electronic-computers.md) | History |
+| 2026-11-07 | [Search Visibility for Developers](./06-TECH-NEWS/INNOVATIONS/2026-11-07-search-engine-visibility-for-developers.md) | Web & Search |
+| 2026-11-07 | [Responsive Login Form — HTML & CSS](./01-DEVELOPER-ACADEMY/HTML-CSS/login-form/README.md) | Beginner UI code |
+| 2026-11-07 | [Microsoft Activation Scripts — Community Reference](https://github.com/codetherapistpita-oss/MICROSOFT_OFFICE_ACTIVATION) | Curated third-party reference |
+
+**[Publication & analytics workbook](./PUBLISHING_AND_SEARCH_VISIBILITY.md)** — Tracking documentation and data source notes.
 
 ## How to use the Knowledge Hub
 
