@@ -49,4 +49,4 @@ flowchart LR
 
 ---
 
-[← PC Components](./README.md) · [← Knowledge Hub](../../README.md)
+[← PC Components](./README.md) · [← Knowledge Hub](../../../README.md)
