@@ -62,14 +62,21 @@ These are selected **public** repositories. My product source code and private c
 
 ## Latest publications
 
+The following articles have been **published and indexed**. Dates are publication dates—not live traffic measurements.
+
 | Date (UTC) | Publication | Topic |
-| :--- | :--- | :--- |
-| 2026-11-07 | [Microsoft Activation Scripts — Community Reference](https://github.com/codetherapistpita-oss/MICROSOFT_OFFICE_ACTIVATION) | Windows & Office |
-| 2026-11-07 | [Responsive Login Form — HTML & CSS](./knowledge-hub/01-DEVELOPER-ACADEMY/HTML-CSS/login-form/README.md) | Beginner source code |
+| --- | --- | --- |
+| 2026-11-07 | [Protect Your Online Accounts](./knowledge-hub/04-CYBERSECURITY/SECURITY-LABS/2026-11-07-protect-online-accounts-mfa.md) | Security |
+| 2026-11-07 | [Secure GitHub Dependencies with Dependabot](./knowledge-hub/04-CYBERSECURITY/SECURITY-LABS/2026-11-07-github-dependabot-beginner-guide.md) | GitHub Security |
+| 2026-11-07 | [Linux APT: Update vs Upgrade](./knowledge-hub/03-SOFTWARE-AND-TOOLS/LINUX/2026-11-07-apt-update-vs-upgrade.md) | Linux |
+| 2026-11-07 | [Computer History 01: ENIAC](./knowledge-hub/12-COMPUTER-HISTORY/EARLY-COMPUTING/2026-11-07-eniac-and-electronic-computers.md) | History |
+| 2026-11-07 | [Search Visibility for Developers](./knowledge-hub/06-TECH-NEWS/INNOVATIONS/2026-11-07-search-engine-visibility-for-developers.md) | Web & Search |
+| 2026-11-07 | [Responsive Login Form — HTML & CSS](./knowledge-hub/01-DEVELOPER-ACADEMY/HTML-CSS/login-form/README.md) | Free source code |
+| 2026-11-07 | [Microsoft Activation Scripts — Community Reference](https://github.com/codetherapistpita-oss/MICROSOFT_OFFICE_ACTIVATION) | Attributed reference |
 
-**[Browse the full Knowledge Hub →](./knowledge-hub/README.md)**
+**[Read all topics and technical notes →](./knowledge-hub/README.md)**
 
-> New technical posts will be indexed by category, with publication dates, credible sources, appropriate licenses and working project links. Repositories are for projects; the Knowledge Hub is for articles and learning resources.
+> New articles include checked source links, practical examples and publication dates. Engagement figures are not claimed without genuine measurement.
 
 ---
 
