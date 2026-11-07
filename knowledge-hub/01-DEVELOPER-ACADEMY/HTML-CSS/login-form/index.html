@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Code Therapist beginner HTML and CSS login form demo.">
+  <title>Login UI Demo | Code Therapist</title>
+  <link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+  <main class="page">
+    <section class="login-card" aria-labelledby="login-heading">
+      <p class="eyebrow">Code Therapist • UI Lab</p>
+      <h1 id="login-heading">Welcome back</h1>
+      <p class="subtitle">Frontend demonstration for learning HTML and CSS.</p>
+      <form action="#" method="get" onsubmit="event.preventDefault(); alert('Demo only: no authentication is configured.');">
+        <label for="email">Email address</label>
+        <input id="email" name="email" type="email" autocomplete="email" placeholder="you@example.com" required>
+        <label for="password">Password</label>
+        <input id="password" name="password" type="password" autocomplete="current-password" placeholder="Enter a sample password" required>
+        <button type="submit">Sign in (demo)</button>
+      </form>
+      <p class="note">Demo only. Do not enter a real password; this page does not sign you in.</p>
+    </section>
+  </main>
+</body>
+</html>
