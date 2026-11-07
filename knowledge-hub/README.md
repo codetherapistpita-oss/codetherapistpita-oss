@@ -27,6 +27,13 @@ Practical developer resources, free code, safe technology guides, curated news a
 | **[📣 Creator & Social Media](./07-SOCIAL-MEDIA/README.md)** | Platform policy and creator changes |
 | **[📚 Documentation Library](./08-DOCUMENTATION/README.md)** | PDFs, research and technical guides |
 | **[🗓️ Notices & Changelogs](./09-UPDATES-AND-NOTICES/README.md)** | Release notes and announcements |
+| **[🔎 Cyber Incidents, Heists & Law](./10-CYBER-INCIDENTS-AND-LAW/README.md)** | Historical incident cases, verified timelines and legal context |
+| **[💳 FinTech & Banking](./11-FINTECH-AND-BANKING/README.md)** | Banks, mobile money, payments, financial technology |
+| **[🕰️ History of Computing](./12-COMPUTER-HISTORY/README.md)** | Computing generations, pioneers, operating systems and the internet |
+| **[🖥️ Hardware & Systems](./13-HARDWARE-AND-SYSTEMS/README.md)** | PCs, GPUs, servers, networking equipment and OS administration |
+| **[☁️ Databases, Cloud & DevOps](./14-DATABASES-CLOUD-DEVOPS/README.md)** | SQL, NoSQL, deployment, CI/CD and infrastructure |
+| **[🎬 Design & Animation](./15-DESIGN-ANIMATION-GRAPHICS/README.md)** | UI design, CSS motion, 2D/3D and computer graphics |
+| **[🧠 Machine Learning & Data](./16-MACHINE-LEARNING-DATA/README.md)** | Data analysis, models, computer vision and evaluation |
 
 ## Featured public projects
 
@@ -41,8 +48,13 @@ Practical developer resources, free code, safe technology guides, curated news a
 | Published | Resource | Subject |
 | --- | --- | --- |
 | 2026-11-07 | [Microsoft Activation Scripts — Community Reference](https://github.com/codetherapistpita-oss/MICROSOFT_OFFICE_ACTIVATION) | Windows & Office; attributed third-party project |
-
 | 2026-11-07 | [Responsive Login Form — HTML & CSS](./01-DEVELOPER-ACADEMY/HTML-CSS/login-form/README.md) | Original beginner frontend code example |
+
+## How to use the Knowledge Hub
+
+Browse a category, open its topic index, then select an article or source-code project. Articles cite evidence and publication dates; empty topic indexes clearly say **No articles yet**. For incident and law reports, use both **incident date** and **jurisdiction**, and avoid treating allegations as convictions.
+
+The GitHub repository is a public reference library, **not an automatically refreshed news feed**. A searchable public site and scheduled publishing pipeline would be a separate deployment phase.
 
 ## For contributors and readers
 
