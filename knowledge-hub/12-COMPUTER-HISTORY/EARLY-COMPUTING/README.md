@@ -1,11 +1,11 @@
-# EARLY COMPUTING
+# 12 COMPUTER HISTORY / EARLY COMPUTING
 
-[← Category](../README.md) · [← Knowledge Hub](../../README.md)
+[← Topic category](../README.md) · [← Knowledge Hub](../../README.md)
 
-## Article index
+## Published technical guides
 
-| Date | Topic | Source or notes |
+| Published | Article | Primary source |
 | --- | --- | --- |
-| — | _No articles published yet._ | — |
+| 2026-11-07 | [Computer History 01: ENIAC and Early Electronic Computing](./2026-11-07-eniac-and-electronic-computers.md) | Computer History Museum |
 
-Future content will cite reliable sources and identify dates and jurisdictions where relevant. This directory is an index, not an automatically updated live feed.
+All article links lead to original Code Therapist write-ups with official source citations. Verified examples are educational; posts do not represent live news feeds.
