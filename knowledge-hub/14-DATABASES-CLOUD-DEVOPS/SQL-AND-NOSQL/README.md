@@ -2,6 +2,13 @@
 
 [← Category](../README.md) · [← Knowledge Hub](../../README.md)
 
+
+## Published guide — 7 November 2026
+
+| Date | Article | Reference |
+| --- | --- | --- |
+| 2026-11-07 | **[PostgreSQL Basics: Your First Database Table](./2026-11-07-postgresql-first-database.md)** | PostgreSQL |
+
 ## Resource index
 
 | Date | Resource | Description |
