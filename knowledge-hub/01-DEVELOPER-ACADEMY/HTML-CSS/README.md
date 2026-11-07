@@ -1,11 +1,13 @@
-# 🎓 Developer Academy / HTML CSS
+# HTML & CSS — Beginner Resources
 
-[← 🎓 Developer Academy](../README.md) · [← Knowledge Hub](../../README.md)
+[← Developer Academy](../README.md) · [← Knowledge Hub](../../README.md)
 
-This section is reserved for reviewed, attributed and practical resources. Entries will be added to the index as they are published.
+## Starter examples
 
-| Date | Resource | Description |
+| Published | Resource | What you'll learn |
 | --- | --- | --- |
-| — | _No resources published yet_ | — |
+| 2026-11-07 | **[Responsive Login Form](./login-form/README.md)** | Semantic forms, email/password inputs, accessible labels and responsive CSS |
 
-For source code, include the license, setup instructions, expected output and a preview when applicable. For technical/news references, record the original publication date and source.
+This is a front-end learning example, **not** a working authentication service. Real sign-in requires a secure server-side implementation.
+
+More templates and guides will be added as they are tested and documented.
