@@ -1,21 +1,47 @@
 # 📣 Creator & Social Media Hub
 
-Platform policy updates, creator tools and original tutorials.
+A research and educational directory for creator tools, feature announcements, monetization policies, moderation rules, platform safety, and social publishing workflows.
 
 [← Knowledge Hub](../README.md) · [Code Therapist profile](https://github.com/codetherapistpita-oss)
 
-## Browse topics
+## Major social networks
 
-| Topic | Content |
+| Platform | Topics |
 | --- | --- |
-| [YOUTUBE](./YOUTUBE/README.md) | Indexed guides, references and publications |
-| [TIKTOK](./TIKTOK/README.md) | Indexed guides, references and publications |
-| [FACEBOOK](./FACEBOOK/README.md) | Indexed guides, references and publications |
-| [INSTAGRAM](./INSTAGRAM/README.md) | Indexed guides, references and publications |
-| [LINKEDIN](./LINKEDIN/README.md) | Indexed guides, references and publications |
+| **[FACEBOOK](./FACEBOOK/README.md)** | Policies, features, creator tools and cited updates |
+| **[INSTAGRAM](./INSTAGRAM/README.md)** | Policies, features, creator tools and cited updates |
+| **[THREADS](./THREADS/README.md)** | Policies, features, creator tools and cited updates |
+| **[X TWITTER](./X-TWITTER/README.md)** | Policies, features, creator tools and cited updates |
+| **[BLUESKY](./BLUESKY/README.md)** | Policies, features, creator tools and cited updates |
+| **[MASTODON](./MASTODON/README.md)** | Policies, features, creator tools and cited updates |
 
-## Publications
+## Messaging & communities
 
-_No articles published in this category yet._
+| Platform | Topics |
+| --- | --- |
+| **[WHATSAPP](./WHATSAPP/README.md)** | Policies, features, creator tools and cited updates |
+| **[TELEGRAM](./TELEGRAM/README.md)** | Policies, features, creator tools and cited updates |
+| **[DISCORD](./DISCORD/README.md)** | Policies, features, creator tools and cited updates |
+| **[REDDIT](./REDDIT/README.md)** | Policies, features, creator tools and cited updates |
 
-New posts will record source publication dates, original links, testing notes and clear attribution.
+## Video, streaming & creator platforms
+
+| Platform | Topics |
+| --- | --- |
+| **[YOUTUBE](./YOUTUBE/README.md)** | Policies, features, creator tools and cited updates |
+| **[TIKTOK](./TIKTOK/README.md)** | Policies, features, creator tools and cited updates |
+| **[TWITCH](./TWITCH/README.md)** | Policies, features, creator tools and cited updates |
+| **[SNAPCHAT](./SNAPCHAT/README.md)** | Policies, features, creator tools and cited updates |
+
+## Professional & discovery platforms
+
+| Platform | Topics |
+| --- | --- |
+| **[LINKEDIN](./LINKEDIN/README.md)** | Policies, features, creator tools and cited updates |
+| **[PINTEREST](./PINTEREST/README.md)** | Policies, features, creator tools and cited updates |
+
+## Publication approach
+
+Each post should record **announcement date**, **effective date** (if different), platform/region where applicable, direct sources, what changed, and whether the feature is rolling out or globally available.
+
+**Status:** The platform indexes are created. They are not automatically connected to live feeds, and there are no published news articles in these new sections yet.
