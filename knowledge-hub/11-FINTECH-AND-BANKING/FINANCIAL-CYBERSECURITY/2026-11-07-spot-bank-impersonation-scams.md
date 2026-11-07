@@ -47,4 +47,4 @@ Banks and mobile-money providers may have different fraud reporting procedures. 
 
 ---
 
-[← Financial Cybersecurity](./README.md) · [← Knowledge Hub](../../README.md)
+[← Financial Cybersecurity](./README.md) · [← Knowledge Hub](../../../README.md)
