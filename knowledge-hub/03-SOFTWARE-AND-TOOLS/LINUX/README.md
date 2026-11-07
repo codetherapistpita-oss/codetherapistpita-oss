@@ -1,11 +1,11 @@
-# 💾 Software & Tools / LINUX
+# 03 SOFTWARE AND TOOLS / LINUX
 
-[← 💾 Software & Tools](../README.md) · [← Knowledge Hub](../../README.md)
+[← Topic category](../README.md) · [← Knowledge Hub](../../README.md)
 
-This section is reserved for reviewed, attributed and practical resources. Entries will be added to the index as they are published.
+## Published technical guides
 
-| Date | Resource | Description |
+| Published | Article | Primary source |
 | --- | --- | --- |
-| — | _No resources published yet_ | — |
+| 2026-11-07 | [Linux APT: Update vs Upgrade Explained](./2026-11-07-apt-update-vs-upgrade.md) | Debian Reference |
 
-For source code, include the license, setup instructions, expected output and a preview when applicable. For technical/news references, record the original publication date and source.
+All article links lead to original Code Therapist write-ups with official source citations. Verified examples are educational; posts do not represent live news feeds.
