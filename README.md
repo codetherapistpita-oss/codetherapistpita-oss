@@ -58,6 +58,7 @@ These are selected **public** repositories. My product source code and private c
 | Date (UTC) | Publication | Topic |
 | :--- | :--- | :--- |
 | 2026-11-07 | [Microsoft Activation Scripts — Community Reference](https://github.com/codetherapistpita-oss/MICROSOFT_OFFICE_ACTIVATION) | Windows & Office |
+| 2026-11-07 | [Responsive Login Form — HTML & CSS](./knowledge-hub/01-DEVELOPER-ACADEMY/HTML-CSS/login-form/README.md) | Beginner source code |
 
 **[Browse the full Knowledge Hub →](./knowledge-hub/README.md)**
 
