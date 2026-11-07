@@ -1,9 +1,11 @@
-# INNOVATIONS
+# 06 TECH NEWS / INNOVATIONS
 
-[← Category](../README.md) · [← Knowledge Hub](../../README.md)
+[← Topic category](../README.md) · [← Knowledge Hub](../../README.md)
 
-Resources will be added here once reviewed. Every post will identify its publication date, relevant primary sources and appropriate usage or licensing terms.
+## Published technical guides
 
-| Published | Resource | Description |
+| Published | Article | Primary source |
 | --- | --- | --- |
-| — | _No publications yet_ | — |
+| 2026-11-07 | [How Developers Can Make a Website Easier to Find on Google](./2026-11-07-search-engine-visibility-for-developers.md) | Google Search Central |
+
+All article links lead to original Code Therapist write-ups with official source citations. Verified examples are educational; posts do not represent live news feeds.
