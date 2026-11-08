@@ -19,6 +19,7 @@ Public technical showcases for proposed products, structured project research, s
 | Product | Purpose | Current public status | Documentation |
 |---|---|---|---|
 | 🏘️ **ByteRent Uganda** | National property, rental, short-stay, land, parking and location discovery | Research and concept designs | **[Explore ByteRent →](./BYTERENT-UGANDA/README.md)** |
+| 🛒 **Byte Buz** | Retail POS, inventory, suppliers, branches, analytics and business operations | Requirements and original concept UI; implementation not verified | **[Explore Byte Buz →](./BYTE-BUZ/README.md)** |
 
 ### ByteRent highlights
 
@@ -27,6 +28,12 @@ Public technical showcases for proposed products, structured project research, s
 </div>
 
 [Architecture](./BYTERENT-UGANDA/ARCHITECTURE.md) · [Module journeys](./BYTERENT-UGANDA/MODULES-AND-JOURNEYS.md) · [Visual showcase](./BYTERENT-UGANDA/DESIGN-SHOWCASE.md) · [12-month Gantt](./BYTERENT-UGANDA/ROADMAP-GANTT.md)
+
+### Byte Buz documentation
+
+**[Byte Buz Project Overview](./BYTE-BUZ/README.md)** · [20-screen module map](./BYTE-BUZ/FEATURES-AND-SCREENS.md) · [Architecture](./BYTE-BUZ/SYSTEM-ARCHITECTURE.md) · [UI showcase](./BYTE-BUZ/DESIGN-SHOWCASE.md) · [16-week proposed Gantt](./BYTE-BUZ/GANTT-CHART.md)
+
+> Byte Buz uses a source-derived business-process and technical specification. Its application repositories remain private, and its published interface images are concept references rather than live company metrics.
 
 ## Publishing standard
 
