@@ -42,7 +42,6 @@ flowchart TB
  SERVICE <--> DB
  SERVICE --> AUDIT
  SERVICE --> API
- end
 ```
 
 ## 2. Scan-to-response sequence
