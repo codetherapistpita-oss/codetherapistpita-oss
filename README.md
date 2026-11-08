@@ -68,6 +68,9 @@ These are selected **public** repositories. My product source code and private c
 
 ## Latest publications
 
+**New · 8 November 2026:** [OWASP Top 10:2025 — A Practical Guide for App Builders](./knowledge-hub/04-CYBERSECURITY/SECURITY-LABS/2026-11-08-owasp-top-10-2025-for-builders.md) — original defensive guide with a role-authorization example and test matrix.
+
+
 **New batch — 12 illustrated developer and technology articles, published 7 November 2026.** Each article includes practical guidance, links to original documentation and a GitHub-rendered diagram or table.
 
 | Published | Featured article | Section |
