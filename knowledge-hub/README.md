@@ -34,6 +34,7 @@ Practical developer resources, free code, safe technology guides, curated news a
 | **[☁️ Databases, Cloud & DevOps](./14-DATABASES-CLOUD-DEVOPS/README.md)** | SQL, NoSQL, deployment, CI/CD and infrastructure |
 | **[🎬 Design & Animation](./15-DESIGN-ANIMATION-GRAPHICS/README.md)** | UI design, CSS motion, 2D/3D and computer graphics |
 | **[🧠 Machine Learning & Data](./16-MACHINE-LEARNING-DATA/README.md)** | Data analysis, models, computer vision and evaluation |
+| **[🎓 KIU OneCard — IoT Smart Student Card](./17-IOT-SMART-STUDENT-CARD/README.md)** | Final-year IoT prototype design, system architecture, hardware, tests and Gantt chart |
 
 ## 🎓 New learning series: Google Workspace
 
@@ -46,6 +47,10 @@ Practical developer resources, free code, safe technology guides, curated news a
 | [GW-003](./01-DEVELOPER-ACADEMY/GOOGLE-WORKSPACE/GW-003.md) | Drive, Docs, Sheets and practice budget |
 
 **[Questions, useful websites and repository submissions →](./QUESTION_TO_PUBLICATION_WORKFLOW.md)** — How Code Therapist turns reader requests into sourced articles without duplicates.
+
+## 🔬 New research project — KIU OneCard
+
+**[Read the IoT Smart Student Card project](./17-IOT-SMART-STUDENT-CARD/README.md)** — one NFC card across four simulated campus service terminals, with diagrams, hardware budget and a [proposed 12-week Gantt chart](./17-IOT-SMART-STUDENT-CARD/GANTT-CHART.md).
 
 ## Featured public projects
 
