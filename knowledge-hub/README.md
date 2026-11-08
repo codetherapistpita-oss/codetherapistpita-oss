@@ -35,7 +35,8 @@ Practical developer resources, free code, safe technology guides, curated news a
 | **[🎬 Design & Animation](./15-DESIGN-ANIMATION-GRAPHICS/README.md)** | UI design, CSS motion, 2D/3D and computer graphics |
 | **[🧠 Machine Learning & Data](./16-MACHINE-LEARNING-DATA/README.md)** | Data analysis, models, computer vision and evaluation |
 | **[🎓 KIU OneCard — IoT Smart Student Card](./17-IOT-SMART-STUDENT-CARD/README.md)** | Final-year IoT prototype design, system architecture, hardware, tests and Gantt chart |
-| **[🏢 ByteLab Uganda Product R&D](./18-BYTELAB-PROJECTS/README.md)** | Public-safe product research and architecture showcases, beginning with ByteRent |
+| **[🏢 ByteLab Uganda Product R&D](./18-BYTELAB-PROJECTS/README.md)** | Public-safe product research and architecture showcases, including ByteRent and Byte Buz |
+| **[🛒 Byte Buz POS & Business Platform](./18-BYTELAB-PROJECTS/BYTE-BUZ/README.md)** | 20-screen POS design, modular workflows, technical architecture and proposed Gantt |
 
 ## 🎓 New learning series: Google Workspace
 
@@ -58,6 +59,12 @@ Practical developer resources, free code, safe technology guides, curated news a
 **[Open ByteRent Uganda's research and visual documentation](./18-BYTELAB-PROJECTS/BYTERENT-UGANDA/README.md)**
 
 Explore the design-stage marketplace concept, modules, trust controls, pilot-to-production architecture, selected branded visuals and indicative 12-month [Gantt chart](./18-BYTELAB-PROJECTS/BYTERENT-UGANDA/ROADMAP-GANTT.md). No confidential source PDFs are hosted here.
+
+## 🛒 Byte Buz — Retail POS & Multi-Branch Management
+
+**[Explore Byte Buz documentation](./18-BYTELAB-PROJECTS/BYTE-BUZ/README.md)** · [UI showcase](./18-BYTELAB-PROJECTS/BYTE-BUZ/DESIGN-SHOWCASE.md) · [Business workflows](./18-BYTELAB-PROJECTS/BYTE-BUZ/WORKFLOWS-AND-CONTROLS.md) · [Gantt plan](./18-BYTELAB-PROJECTS/BYTE-BUZ/GANTT-CHART.md)
+
+The public reference synthesizes the owner's earlier Byte Buz project master brief without exposing private repositories or real business records. Original screenshots will appear in the gallery once their binary files are uploaded.
 
 ## Featured public projects
 
