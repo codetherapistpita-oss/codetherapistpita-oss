@@ -41,6 +41,8 @@
 | 🎬 **[Design & Animation](./knowledge-hub/15-DESIGN-ANIMATION-GRAPHICS/README.md)** | 2D/3D, UI/UX, motion design and computer graphics |
 | 🧠 **[Machine Learning & Data](./knowledge-hub/16-MACHINE-LEARNING-DATA/README.md)** | ML models, data science, computer vision and evaluation |
 | 💳 **[KIU OneCard — IoT Smart Student Card](./knowledge-hub/17-IOT-SMART-STUDENT-CARD/README.md)** | Final-year smart-campus prototype, architecture, terminals, budget and Gantt chart |
+| 🏢 **[ByteLab Product R&D](./knowledge-hub/18-BYTELAB-PROJECTS/README.md)** | Public project research, product concepts and engineering roadmaps |
+| 🏘️ **[ByteRent Uganda](./knowledge-hub/18-BYTELAB-PROJECTS/BYTERENT-UGANDA/README.md)** | National property platform concept, UI gallery, architecture and 12-month Gantt |
 | 🧭 **[Knowledge Hub — All Topics](./knowledge-hub/README.md)** | The full indexed library of technical publications |
 | 🏢 **[ByteLab Uganda](https://bytelabug.com/)** | Company website, technology solutions and products |
 | 🌐 **[Portfolio & Contact](https://codetherapist.netlify.app/)** | Published portfolio, background and contact details |
@@ -50,6 +52,14 @@
 ## Featured research — KIU OneCard
 
 **[IoT Smart Student Card Project: Architecture, Service Terminals & Gantt Chart](./knowledge-hub/17-IOT-SMART-STUDENT-CARD/README.md)** · An academic prototype concept using ESP32 and PN532 to connect four simulated university service points. Includes security tests and a proposed 12-week schedule.
+
+## Featured product concept — ByteRent Uganda
+
+[![ByteRent concept branding](./knowledge-hub/18-BYTELAB-PROJECTS/BYTERENT-UGANDA/assets/byterent-landscape.svg)](./knowledge-hub/18-BYTELAB-PROJECTS/BYTERENT-UGANDA/README.md)
+
+A proposed **ByteLab Uganda Ltd** product for nationwide rental, short-stay, land, commercial-space and parking discovery. **[Explore architecture, screen concepts and 12-month roadmap →](./knowledge-hub/18-BYTELAB-PROJECTS/BYTERENT-UGANDA/README.md)**
+
+> Concept showcase only. The original official proposals, SRS and quotations remain private.
 
 ## Featured projects
 
