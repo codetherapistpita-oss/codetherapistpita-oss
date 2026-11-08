@@ -3,7 +3,7 @@
 [← Project home](./README.md) · [Architecture](./SYSTEM-ARCHITECTURE.md) · [Feature map](./FEATURES-AND-SCREENS.md)
 
 > [!IMPORTANT]
-> **Planning illustration, not an agreed delivery contract.** The earlier Byte Buz Master Prompt v1.0 defines **27 implementation phases (0–26)** but **does not give approved calendar dates, cost totals or verified percentages complete**. The **16-week** schedule below is an editorial example for sequencing web-MVP work; obtain team-approved estimates and milestones before calling it a committed release plan. Flutter mobile remains later-phase work.
+> **Planning illustration, not an agreed delivery contract.** The earlier Byte Buz Master Prompt v1.0 defines **27 implementation phases (0–26)** but **does not give approved calendar dates, cost totals or verified percentages complete**. The **16-week** schedule (9 November 2026–28 February 2027) below is an editorial example for sequencing web-MVP work; obtain team-approved estimates and milestones before calling it a committed release plan. Flutter mobile remains later-phase work.
 
 ## Source-confirmed phase groups
 
@@ -28,16 +28,16 @@ gantt
   React/TS shell and reusable UI :2026-11-16, 14d
   Dashboard UI with mock data :2026-11-30, 14d
   section Functional UX
-  Cashier POS with cart logic :2026-12-14, 21d
-  Inventory, supplier and CRM screens :2026-12-28, 28d
-  Accounting, branches and reports screens :2027-01-11, 28d
+  Cashier POS with cart logic :2026-12-14, 14d
+  Inventory, supplier and CRM screens :2026-12-28, 21d
+  Accounting, branches and reports screens :2027-01-11, 21d
   section Data services
-  Sheets model and Apps Script foundation :2027-01-25, 21d
-  Permissions, POS writes and audit events :2027-02-08, 21d
+  Sheets model and Apps Script foundation :2027-01-18, 14d
+  Permissions, POS writes and audit events :2027-02-01, 14d
   section Verification & operations
-  Browser tests, QA and secure demo :2027-02-15, 21d
-  Python to MySQL mirror prototype :2027-02-22, 21d
-  Pilot evaluation and written handover :2027-03-01, 21d
+  Browser tests, QA and secure demo :2027-02-08, 14d
+  Python to MySQL mirror prototype :2027-02-08, 14d
+  Pilot evaluation and written handover :2027-02-22, 7d
 ```
 
 **The dates above are suggested, not taken from the original source or verified development status.** The chart intentionally allows overlap; workload and resources have not been validated. It is not a promise of a production payment system.
