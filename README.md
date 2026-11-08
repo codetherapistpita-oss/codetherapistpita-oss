@@ -40,11 +40,16 @@
 | ☁️ **[Databases, Cloud & DevOps](./knowledge-hub/14-DATABASES-CLOUD-DEVOPS/README.md)** | SQL, NoSQL, cloud deployments, infrastructure and CI/CD |
 | 🎬 **[Design & Animation](./knowledge-hub/15-DESIGN-ANIMATION-GRAPHICS/README.md)** | 2D/3D, UI/UX, motion design and computer graphics |
 | 🧠 **[Machine Learning & Data](./knowledge-hub/16-MACHINE-LEARNING-DATA/README.md)** | ML models, data science, computer vision and evaluation |
+| 💳 **[KIU OneCard — IoT Smart Student Card](./knowledge-hub/17-IOT-SMART-STUDENT-CARD/README.md)** | Final-year smart-campus prototype, architecture, terminals, budget and Gantt chart |
 | 🧭 **[Knowledge Hub — All Topics](./knowledge-hub/README.md)** | The full indexed library of technical publications |
 | 🏢 **[ByteLab Uganda](https://bytelabug.com/)** | Company website, technology solutions and products |
 | 🌐 **[Portfolio & Contact](https://codetherapist.netlify.app/)** | Published portfolio, background and contact details |
 
 ---
+
+## Featured research — KIU OneCard
+
+**[IoT Smart Student Card Project: Architecture, Service Terminals & Gantt Chart](./knowledge-hub/17-IOT-SMART-STUDENT-CARD/README.md)** · An academic prototype concept using ESP32 and PN532 to connect four simulated university service points. Includes security tests and a proposed 12-week schedule.
 
 ## Featured projects
 
