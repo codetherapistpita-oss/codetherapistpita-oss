@@ -38,7 +38,7 @@ flowchart LR
 | 🧭 **[Product overview](./PRODUCT-OVERVIEW.md)** | Uganda-wide scope, problems, audiences and product principles |
 | 🏠 **[Feature and category modules](./MODULES-AND-JOURNEYS.md)** | Rentals, short stays, sales, land, parking, business spaces and user workflows |
 | 🏗️ **[Architecture](./ARCHITECTURE.md)** | Controlled pilot vs proposed production technology, roles and information flows |
-| 🎨 **[Visual showcase](./DESIGN-SHOWCASE.md)** | Branded graphic previews, navigation mockups and screen-by-screen explanations |
+| 🎨 **[Visual showcase](./DESIGN-SHOWCASE.md)** | Six newly organized original-screen slots with visual journeys and feature traceability; image uploads pending |
 | 🛡️ **[Trust, security and acceptance](./TRUST-AND-QUALITY.md)** | Moderation, verification limits, account permissions, payments and quality gates |
 | 📅 **[Roadmap and Gantt](./ROADMAP-GANTT.md)** | Indicative 12-month stage-gated rollout and evidence requirements |
 
@@ -74,6 +74,8 @@ flowchart LR
 ```
 
 The **pilot technologies are not presented as a permanent large-scale production database or financial ledger**. Production design requires stronger service authorization, migration, monitoring, backups, payment controls and auditability.
+
+**Original-screen assets:** The updated [Design Showcase](./DESIGN-SHOWCASE.md) lays out the exact owner-provided visuals and additional workflows. PNG image uploads are [tracked separately](./assets/ORIGINAL-IMAGES-UPLOAD.md) and are not yet complete.
 
 ## Project status
 
