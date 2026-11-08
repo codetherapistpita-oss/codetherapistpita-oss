@@ -62,6 +62,9 @@ Practical developer resources, free code, safe technology guides, curated news a
 
 ## Recent publications
 
+**New · 8 November 2026:** [OWASP Top 10:2025 — A Practical Guide for App Builders](./04-CYBERSECURITY/SECURITY-LABS/2026-11-08-owasp-top-10-2025-for-builders.md) — original defensive guide with a role-authorization example and test matrix.
+
+
 ### 12 newly published guides · 7 November 2026
 
 | Date | Article | Section |
