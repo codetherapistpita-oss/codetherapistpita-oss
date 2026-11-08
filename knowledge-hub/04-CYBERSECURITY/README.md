@@ -1,5 +1,8 @@
 # 🛡️ Cybersecurity Lab
 
+**New · 8 November 2026:** [OWASP Top 10:2025 — A Practical Guide for App Builders](./SECURITY-LABS/2026-11-08-owasp-top-10-2025-for-builders.md) — original defensive guide with a role-authorization example and test matrix.
+
+
 Defensive security, authorized testing and safe lab resources.
 
 [← Knowledge Hub](../README.md) · [Portfolio](https://codetherapist.netlify.app/) · [GitHub Profile](https://github.com/codetherapistpita-oss)
