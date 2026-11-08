@@ -43,6 +43,7 @@
 | 💳 **[KIU OneCard — IoT Smart Student Card](./knowledge-hub/17-IOT-SMART-STUDENT-CARD/README.md)** | Final-year smart-campus prototype, architecture, terminals, budget and Gantt chart |
 | 🏢 **[ByteLab Product R&D](./knowledge-hub/18-BYTELAB-PROJECTS/README.md)** | Public project research, product concepts and engineering roadmaps |
 | 🏘️ **[ByteRent Uganda](./knowledge-hub/18-BYTELAB-PROJECTS/BYTERENT-UGANDA/README.md)** | National property platform concept, UI gallery, architecture and 12-month Gantt |
+| 🛒 **[Byte Buz POS & Business Platform](./knowledge-hub/18-BYTELAB-PROJECTS/BYTE-BUZ/README.md)** | Source-based business management architecture, 20 screen map and proposed Gantt |
 | 🧭 **[Knowledge Hub — All Topics](./knowledge-hub/README.md)** | The full indexed library of technical publications |
 | 🏢 **[ByteLab Uganda](https://bytelabug.com/)** | Company website, technology solutions and products |
 | 🌐 **[Portfolio & Contact](https://codetherapist.netlify.app/)** | Published portfolio, background and contact details |
@@ -60,6 +61,12 @@
 A proposed **ByteLab Uganda Ltd** product for nationwide rental, short-stay, land, commercial-space and parking discovery. **[Explore architecture, screen concepts and 12-month roadmap →](./knowledge-hub/18-BYTELAB-PROJECTS/BYTERENT-UGANDA/README.md)**
 
 > Concept showcase only. The original official proposals, SRS and quotations remain private.
+
+## Featured product concept — Byte Buz
+
+**[Byte Buz business management & POS →](./knowledge-hub/18-BYTELAB-PROJECTS/BYTE-BUZ/README.md)** — a white-and-blue multi-branch business platform with inventory, sales, suppliers, accounting, staff controls and analytics. Includes a [20-screen design map](./knowledge-hub/18-BYTELAB-PROJECTS/BYTE-BUZ/FEATURES-AND-SCREENS.md) and [proposed Gantt](./knowledge-hub/18-BYTELAB-PROJECTS/BYTE-BUZ/GANTT-CHART.md).
+
+> Interface screens are concept mockups; private application repositories and data remain unpublished.
 
 ## Featured projects
 
