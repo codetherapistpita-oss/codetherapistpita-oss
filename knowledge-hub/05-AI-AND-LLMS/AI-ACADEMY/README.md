@@ -19,6 +19,50 @@
 > [!IMPORTANT]
 > **Independent educational library, not a training certification authority.** Content is based on cited official sources and short original instructional explanations. Model versions, costs, policies and capabilities change. Course completion does not imply a professional credential. Exercises use fictional or consented data, not confidential company documents.
 
+## 🧭 NEW — Choose the correct academy department
+
+The academy has **three separate departments**, so beginner learning is no longer mixed with company-specific model news or development platforms.
+
+| Department | For whom? | Enter |
+|---|---|---|
+| **01 · General AI Learning** | People who want awareness, real AI practice, or to train ML models | **[3 learning pathways](./LEARNING-PATHWAYS.md)** |
+| **02 · AI Model & LLM Research** | People researching ChatGPT, Claude, Gemini and 12 other families individually | **[15 separate company research sections](./MODEL-RESEARCH/README.md)** |
+| **03 · AI Platforms & Infrastructure** | Builders researching models, datasets, Spaces, tools and knowledge bases | **[Hugging Face guide](./PLATFORMS/HUGGING-FACE/README.md)** |
+
+### Department 01 — Three learner levels with seasons and days
+
+| Level | Season 01 · Day 001 | Season 02 · Day 001 | Season 03 · Day 001 |
+|---|---|---|---|
+| **AI Awareness** — no coding | [What is AI?](./PATH-01-AI-LITERACY/SEASON-01/DAY-001-WHAT-IS-AI.md) | [Recognizing AI claims](./PATH-01-AI-LITERACY/SEASON-02/DAY-001.md) | [Teach AI responsibly](./PATH-01-AI-LITERACY/SEASON-03/DAY-001.md) |
+| **Practical AI user** — tools & prompts | [First useful AI session](./PATH-02-PRACTICAL-AI/SEASON-01/DAY-001-FIRST-AI-SESSION.md) | [Research workflow](./PATH-02-PRACTICAL-AI/SEASON-02/DAY-001.md) | [Prompt library portfolio](./PATH-02-PRACTICAL-AI/SEASON-03/DAY-001.md) |
+| **ML developer** — Python, data & models | [Python and datasets](./PATH-03-ML-BUILDER/SEASON-01/DAY-001-PYTHON-DATA.md) | [Evaluation and baselines](./PATH-03-ML-BUILDER/SEASON-02/DAY-001.md) | [Deployment decisions](./PATH-03-ML-BUILDER/SEASON-03/DAY-001.md) |
+
+**Season 01 currently contains Days 001–003 in each pathway.** Seasons 02 and 03 currently have Day 001; additional days are not yet complete.
+
+### Department 02 — Model-specific research and update lessons
+
+Every model family has a **dedicated research section and a separate release log**, including the company's background, origin, operation, model versions and source links. The independent **[Model Release Research — Season 01](./MODEL-RESEARCH/RELEASE-SEASON-01/README.md)** has Days 001–003 covering company/model distinctions, model cards and trustworthy release verification.
+
+**[Open the 15 model research sections →](./MODEL-RESEARCH/README.md)** · **[Read the dated AI news](./NEWS/README.md)**
+
+### Department 03 — Hugging Face
+
+The [Hugging Face knowledge guide](./PLATFORMS/HUGGING-FACE/README.md) covers the Hub, model cards, dataset cards, Spaces, Transformers, inference, fine-tuning, model evaluation and **how a RAG knowledge base differs from a repository**.
+
+```mermaid
+flowchart TD
+ Academy[AI & Automation Academy] --> Learn[General AI education]
+ Academy --> Models[15 individual model research sections]
+ Academy --> Platform[Hugging Face and AI infrastructure]
+ Learn --> Beginner[Awareness — Seasons 01/02/03]
+ Learn --> User[Practical user — Seasons 01/02/03]
+ Learn --> Builder[ML builder — Seasons 01/02/03]
+ Models --> Releases[Company-specific update logs]
+ Models --> ResearchSeason[Model release literacy — Season 01]
+ Platform --> Hub[Models, datasets and Spaces]
+ Platform --> KB[Retrieval and knowledge bases]
+```
+
 ## 👋 Choose your learning pathway
 
 | Learner | Recommended path | Expected outcome |
