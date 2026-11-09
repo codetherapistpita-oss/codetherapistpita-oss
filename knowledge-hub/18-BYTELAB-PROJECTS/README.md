@@ -20,6 +20,7 @@ Public technical showcases for proposed products, structured project research, s
 |---|---|---|---|
 | 🏘️ **ByteRent Uganda** | National property, rental, short-stay, land, parking and location discovery | Research and concept designs | **[Explore ByteRent →](./BYTERENT-UGANDA/README.md)** |
 | 🛒 **Byte Buz** | Retail POS, inventory, suppliers, branches, analytics and business operations | Requirements and original concept UI; implementation not verified | **[Explore Byte Buz →](./BYTE-BUZ/README.md)** |
+| 🪙 **Africa Gold Marketplace** | Proposed compliance-gated gold buyer/seller discovery and quotation platform; Uganda pilot and Africa ambition | Public concept and research; not a trading service | **[Explore Gold Marketplace →](./AFRICA-GOLD-MARKETPLACE/README.md)** |
 
 ### ByteRent highlights
 
@@ -34,6 +35,14 @@ Public technical showcases for proposed products, structured project research, s
 **[Byte Buz Project Overview](./BYTE-BUZ/README.md)** · [20-screen module map](./BYTE-BUZ/FEATURES-AND-SCREENS.md) · [Architecture](./BYTE-BUZ/SYSTEM-ARCHITECTURE.md) · [UI showcase](./BYTE-BUZ/DESIGN-SHOWCASE.md) · [16-week proposed Gantt](./BYTE-BUZ/GANTT-CHART.md)
 
 > Byte Buz uses a source-derived business-process and technical specification. Its application repositories remain private, and its published interface images are concept references rather than live company metrics.
+
+### 🪙 Africa Gold Marketplace — Ryan & Peter
+
+<a href="./AFRICA-GOLD-MARKETPLACE/README.md"><img src="./AFRICA-GOLD-MARKETPLACE/assets/gold-marketplace-cover.svg" width="760" alt="Africa Gold Marketplace concept cover showing Ryan as Idea Lead and Peter as Lead Application Developer"></a>
+
+**[Project Overview](./AFRICA-GOLD-MARKETPLACE/README.md)** · [Business & UX Brief](./AFRICA-GOLD-MARKETPLACE/PROJECT-BRIEF.md) · [Workflows](./AFRICA-GOLD-MARKETPLACE/WORKFLOWS.md) · [System Architecture](./AFRICA-GOLD-MARKETPLACE/ARCHITECTURE.md) · [Gold Compliance](./AFRICA-GOLD-MARKETPLACE/COMPLIANCE-AND-TRUST.md) · [Proposed Roadmap](./AFRICA-GOLD-MARKETPLACE/ROADMAP.md)
+
+**Idea Lead:** Ryan · **Lead Application Developer:** Peter. This is a **concept for lawful screened enquiries**, not a licensed gold merchant, public trading offer or live checkout.
 
 ## Publishing standard
 
