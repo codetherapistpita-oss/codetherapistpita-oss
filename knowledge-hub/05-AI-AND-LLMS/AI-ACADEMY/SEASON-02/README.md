@@ -1,3 +1,5 @@
+<img src="../assets/season-02.svg" width="760" alt="Original Code Therapist AI Academy landscape Season Two header"/>
+
 # 🎓 Season 2 — How AI Works and Practical Use
 
 **Level:** Beginner to Intermediate · **4 guided classes** · **Published:** 9 November 2026
