@@ -6,6 +6,7 @@ Resources will be added here once reviewed. Every post will identify its publica
 
 | Published | Resource | Description |
 | --- | --- | --- |
+| 2026-11-09 | **[New: Gemini 4 Carbon, Claude Haiku 5.5, Images 2.6](../AI-ACADEMY/NEWS/2026-11-09-MODEL-RELEASE-WATCH.md)** | Three verified vendor releases, access limitations and coursework |
 | 2026-11-09 | **[Verified AI Model News Digest](../AI-ACADEMY/NEWS/README.md)** | Dated official updates for Gemini Omni 1.2 Flash, GPT-6.1 Sol, DeepSeek-V4.1-Flash and Granite |
 
 ## 📺 Code Therapist video learning reference
