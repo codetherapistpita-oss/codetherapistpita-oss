@@ -1,3 +1,5 @@
+<img src="../assets/season-03.svg" width="760" alt="Original Code Therapist AI Academy landscape Season Three header"/>
+
 # S3-C09 · Prompt Engineering: From First Prompt to Structured Results
 
 **Season Three — Prompting, AI Applications & Automation** · **Level:** Intermediate / Applied · **Published:** 9 November 2026
