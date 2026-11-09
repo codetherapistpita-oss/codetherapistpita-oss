@@ -167,7 +167,7 @@ flowchart LR
 
 ### Continue exploring
 
-📚 [Earlier cyber-heist lesson: Bangladesh Bank, 2016](../../../../07-SOCIAL-MEDIA/YOUTUBE/2026-11-08-TECHNOLOGY-EDUCATION/EP-009-bangladesh-bank-heist-2016.md) · [Cybercrime library](../../README.md) · [Crypto-heist index](../README.md) · [Knowledge Hub](../../../../README.md)
+📚 [Earlier cyber-heist lesson: Bangladesh Bank, 2016](../../../07-SOCIAL-MEDIA/YOUTUBE/2026-11-08-TECHNOLOGY-EDUCATION/EP-009-bangladesh-bank-heist-2016.md) · [Cybercrime library](../../README.md) · [Crypto-heist index](../README.md) · [Knowledge Hub](../../../README.md)
 
 **[▶️ Watch the full FNN panel on YouTube](https://youtu.be/dCXlcZmtTbw)**
 
