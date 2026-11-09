@@ -30,7 +30,7 @@ flowchart LR
 
 ## Later season progression
 
-**Season 02 (curriculum planned):** build on the first three days with deeper exercises and independent source-reading. **Season 03 (curriculum planned):** complete a portfolio project or knowledge presentation. These later seasons are **not yet published lessons** and should not be represented as complete.
+**[Season 02 — Intermediate](./SEASON-02/README.md):** Day 001 is available as a complete starter lecture and practical. **[Season 03 — Advanced or capstone](./SEASON-03/README.md):** Day 001 is available as a complete starter lesson. Additional days are to be published progressively; these seasons are not yet fully populated.
 
 ## Exit questions
 
