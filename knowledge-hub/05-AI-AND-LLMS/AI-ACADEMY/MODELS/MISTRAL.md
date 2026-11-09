@@ -1,3 +1,5 @@
+<img src="../assets/models/MISTRAL.svg" alt="Original AI Academy landscape artwork for MISTRAL" width="760"/>
+
 # 🤖 Mistral — AI Family Study Profile
 
 **Developer:** Mistral AI · **Origins:** 2023 · **Profile reviewed:** 9 November 2026
