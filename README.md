@@ -83,6 +83,12 @@ These are selected **public** repositories. My product source code and private c
 
 ---
 
+## 🌐 YouTube Learning Series — The Website You Didn't Know
+
+[**Explore the first three episodes and ready-to-record scripts →**](./knowledge-hub/07-SOCIAL-MEDIA/YOUTUBE/WEBSITE-YOU-DIDNT-KNOW/README.md)
+
+Parts 001–003 introduce diagrams.net, Photopea and Google Teachable Machine with safe practical demonstrations and verified official links.
+
 ## Latest publications
 
 **New · 8 November 2026:** [OWASP Top 10:2025 — A Practical Guide for App Builders](./knowledge-hub/04-CYBERSECURITY/SECURITY-LABS/2026-11-08-owasp-top-10-2025-for-builders.md) — original defensive guide with a role-authorization example and test matrix.
