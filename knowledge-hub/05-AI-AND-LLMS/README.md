@@ -12,6 +12,16 @@
 
 > Updated 9 November 2026. Course materials are educational; cited news must retain source publication dates and model names. AI model availability and free tiers may change.
 
+## 🧭 Start Here — Three Separate Departments
+
+| Department | Purpose | Open |
+|---|---|---|
+| **General AI Learning** | Three levels (Awareness, Practical User, ML Builder); each has Season 01–03 and numbered Day lessons | **[Choose learning track](./AI-ACADEMY/LEARNING-PATHWAYS.md)** |
+| **Specific AI Model Research** | Separate company histories, model explanations and dated update logs for 15 LLM/model families | **[Browse 15 research folders](./AI-ACADEMY/MODEL-RESEARCH/README.md)** |
+| **AI Platforms & Infrastructure** | Hugging Face, Models, Datasets, Spaces, learning resources, knowledge bases and RAG | **[Explore Hugging Face](./AI-ACADEMY/PLATFORMS/HUGGING-FACE/README.md)** |
+
+**[Model research Season 01 — Day 001 to 003](./AI-ACADEMY/MODEL-RESEARCH/RELEASE-SEASON-01/README.md)** teaches learners to interpret new model releases, while company-specific logs store the ongoing news itself.
+
 ## Featured structured learning
 
 | Study path | What it includes |
