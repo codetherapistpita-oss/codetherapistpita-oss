@@ -1,3 +1,5 @@
+<img src="../assets/models/QWEN.svg" alt="Original AI Academy landscape artwork for QWEN" width="760"/>
+
 # 🤖 Qwen — AI Family Study Profile
 
 **Developer:** Alibaba Cloud · **Origins:** 2023 · **Profile reviewed:** 9 November 2026
