@@ -1,3 +1,5 @@
+<img src="../assets/models/GROK.svg" alt="Code Therapist AI Academy original landscape illustration for GROK" width="760"/>
+
 # 🤖 Grok — AI Family Study Profile
 
 **Developer:** xAI / SpaceXAI · **Origins:** 2023 · **Profile reviewed:** 9 November 2026
