@@ -40,30 +40,30 @@ flowchart LR
 
 ### Season 01 — Learn what AI is
 
-| Class | Lesson |
-|---|---|
-| **01** | [What Is Artificial Intelligence?](./SEASON-01/CLASS-01-WHAT-IS-AI.md) |
-| **02** | [A Short History of AI](./SEASON-01/CLASS-02-AI-HISTORY.md) |
-| **03** | [AI Branches, Industries and Careers](./SEASON-01/CLASS-03-FIELDS-AND-JOBS.md) |
-| **04** | [Responsible and Safe AI](./SEASON-01/CLASS-04-RESPONSIBLE-AI.md) |
+| Class | Landscape preview | Lesson | Open |
+|:---:|:---|---|:---|
+| **01** | <a href="./SEASON-01/CLASS-01-WHAT-IS-AI.md"><img src="./assets/classes/CLASS-01.svg" alt="Class 01: What Is Artificial Intelligence? thumbnail" width="176"></a> | **What Is Artificial Intelligence?** | [Read & Study](./SEASON-01/CLASS-01-WHAT-IS-AI.md) |
+| **02** | <a href="./SEASON-01/CLASS-02-AI-HISTORY.md"><img src="./assets/classes/CLASS-02.svg" alt="Class 02: A Short History of AI thumbnail" width="176"></a> | **A Short History of AI** | [Read & Study](./SEASON-01/CLASS-02-AI-HISTORY.md) |
+| **03** | <a href="./SEASON-01/CLASS-03-FIELDS-AND-JOBS.md"><img src="./assets/classes/CLASS-03.svg" alt="Class 03: AI Branches, Industries and Careers thumbnail" width="176"></a> | **AI Branches, Industries and Careers** | [Read & Study](./SEASON-01/CLASS-03-FIELDS-AND-JOBS.md) |
+| **04** | <a href="./SEASON-01/CLASS-04-RESPONSIBLE-AI.md"><img src="./assets/classes/CLASS-04.svg" alt="Class 04: Responsible and Safe AI thumbnail" width="176"></a> | **Responsible and Safe AI** | [Read & Study](./SEASON-01/CLASS-04-RESPONSIBLE-AI.md) |
 
 ### Season 02 — Understand and operate AI
 
-| Class | Lesson |
-|---|---|
-| **05** | [Tokens, Transformers and LLMs](./SEASON-02/CLASS-05-HOW-LLMS-WORK.md) |
-| **06** | [Model Training and Evaluation](./SEASON-02/CLASS-06-TRAINING-AND-EVALUATION.md) |
-| **07** | [Practical AI Assistants](./SEASON-02/CLASS-07-PRACTICAL-AI-TOOLS.md) |
-| **08** | [Multimodal AI, Search and RAG](./SEASON-02/CLASS-08-MULTIMODAL-RAG.md) |
+| Class | Landscape preview | Lesson | Open |
+|:---:|:---|---|:---|
+| **05** | <a href="./SEASON-02/CLASS-05-HOW-LLMS-WORK.md"><img src="./assets/classes/CLASS-05.svg" alt="Class 05: Tokens, Transformers and LLMs thumbnail" width="176"></a> | **Tokens, Transformers and LLMs** | [Read & Study](./SEASON-02/CLASS-05-HOW-LLMS-WORK.md) |
+| **06** | <a href="./SEASON-02/CLASS-06-TRAINING-AND-EVALUATION.md"><img src="./assets/classes/CLASS-06.svg" alt="Class 06: Model Training and Evaluation thumbnail" width="176"></a> | **Model Training and Evaluation** | [Read & Study](./SEASON-02/CLASS-06-TRAINING-AND-EVALUATION.md) |
+| **07** | <a href="./SEASON-02/CLASS-07-PRACTICAL-AI-TOOLS.md"><img src="./assets/classes/CLASS-07.svg" alt="Class 07: Practical AI Assistants thumbnail" width="176"></a> | **Practical AI Assistants** | [Read & Study](./SEASON-02/CLASS-07-PRACTICAL-AI-TOOLS.md) |
+| **08** | <a href="./SEASON-02/CLASS-08-MULTIMODAL-RAG.md"><img src="./assets/classes/CLASS-08.svg" alt="Class 08: Multimodal AI, Search and RAG thumbnail" width="176"></a> | **Multimodal AI, Search and RAG** | [Read & Study](./SEASON-02/CLASS-08-MULTIMODAL-RAG.md) |
 
 ### Season 03 — Prompt engineering and AI development
 
-| Class | Lesson |
-|---|---|
-| **09** | [Prompt Engineering Fundamentals](./SEASON-03/CLASS-09-PROMPT-ENGINEERING.md) |
-| **10** | [Advanced Prompt Patterns and Evaluation](./SEASON-03/CLASS-10-ADVANCED-PROMPTING.md) |
-| **11** | [AI Agents, MCP, Tools and Automation](./SEASON-03/CLASS-11-AGENTS-AND-AUTOMATION.md) |
-| **12** | [Final Capstone: Responsible AI Workflow](./SEASON-03/CLASS-12-FINAL-CAPSTONE.md) |
+| Class | Landscape preview | Lesson | Open |
+|:---:|:---|---|:---|
+| **09** | <a href="./SEASON-03/CLASS-09-PROMPT-ENGINEERING.md"><img src="./assets/classes/CLASS-09.svg" alt="Class 09: Prompt Engineering Fundamentals thumbnail" width="176"></a> | **Prompt Engineering Fundamentals** | [Read & Study](./SEASON-03/CLASS-09-PROMPT-ENGINEERING.md) |
+| **10** | <a href="./SEASON-03/CLASS-10-ADVANCED-PROMPTING.md"><img src="./assets/classes/CLASS-10.svg" alt="Class 10: Advanced Prompt Patterns and Evaluation thumbnail" width="176"></a> | **Advanced Prompt Patterns and Evaluation** | [Read & Study](./SEASON-03/CLASS-10-ADVANCED-PROMPTING.md) |
+| **11** | <a href="./SEASON-03/CLASS-11-AGENTS-AND-AUTOMATION.md"><img src="./assets/classes/CLASS-11.svg" alt="Class 11: AI Agents, MCP, Tools and Automation thumbnail" width="176"></a> | **AI Agents, MCP, Tools and Automation** | [Read & Study](./SEASON-03/CLASS-11-AGENTS-AND-AUTOMATION.md) |
+| **12** | <a href="./SEASON-03/CLASS-12-FINAL-CAPSTONE.md"><img src="./assets/classes/CLASS-12.svg" alt="Class 12: Final Capstone: Responsible AI Workflow thumbnail" width="176"></a> | **Final Capstone: Responsible AI Workflow** | [Read & Study](./SEASON-03/CLASS-12-FINAL-CAPSTONE.md) |
 
 **[Explore the dedicated prompt engineering study guide →](./PROMPT-ENGINEERING-HANDBOOK.md)**
 
