@@ -1,3 +1,5 @@
+<img src="../assets/models/NOVA.svg" alt="Original AI Academy landscape artwork for NOVA" width="760"/>
+
 # 🤖 Amazon Nova — AI Model Family Guide
 
 **Developer:** Amazon Web Services · **Origin or notable introduction:** December 2024 · **Reviewed:** 9 November 2026
