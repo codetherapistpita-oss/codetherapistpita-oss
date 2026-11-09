@@ -38,6 +38,14 @@ Practical developer resources, free code, safe technology guides, curated news a
 | **[🏢 ByteLab Uganda Product R&D](./18-BYTELAB-PROJECTS/README.md)** | Public-safe product research and architecture showcases, including ByteRent and Byte Buz |
 | **[🛒 Byte Buz POS & Business Platform](./18-BYTELAB-PROJECTS/BYTE-BUZ/README.md)** | 20-screen POS design, modular workflows, technical architecture and proposed Gantt |
 
+## 🔐 New cybercrime investigation — Binance $6.34 billion heist
+
+<a href="./10-CYBER-INCIDENTS-AND-LAW/CRYPTO-AND-EXCHANGE-HEISTS/BINANCE-2026-10-29/README.md"><img src="./10-CYBER-INCIDENTS-AND-LAW/CRYPTO-AND-EXCHANGE-HEISTS/BINANCE-2026-10-29/assets/binance-heist-cover.svg" width="760" alt="Code Therapist Binance 2026 cybercrime landscape case study"></a>
+
+**[Read the sourced investigation](./10-CYBER-INCIDENTS-AND-LAW/CRYPTO-AND-EXCHANGE-HEISTS/BINANCE-2026-10-29/README.md)** · **[▶️ Watch the original panel](https://youtu.be/dCXlcZmtTbw)** · [Explore all cybercrime research](./10-CYBER-INCIDENTS-AND-LAW/README.md)
+
+The case study distinguishes initial company findings from independent reporting and panel commentary, with a full timeline, security workflows and remaining questions.
+
 ## 📺 12 illustrated technology explainers — Episodes 004–015
 
 **[Open the illustrated series and ready-to-record scripts](./07-SOCIAL-MEDIA/YOUTUBE/2026-11-08-TECHNOLOGY-EDUCATION/README.md)** — API, MCP, web development, Python, security, cyber heists, AI agent safety, Google Calendar, YouTube policies, fintech fraud prevention, computing history and Byte Buz.
