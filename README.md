@@ -83,6 +83,12 @@ These are selected **public** repositories. My product source code and private c
 
 ---
 
+## 📺 New illustrated technology lessons — Episodes 004–015
+
+[**Read 12 new Code Therapist technology guides →**](./knowledge-hub/07-SOCIAL-MEDIA/YOUTUBE/2026-11-08-TECHNOLOGY-EDUCATION/README.md)
+
+Includes visual banners, diagrams, scripts and references covering APIs, coding, AI, security, history and ByteLab projects.
+
 ## 🌐 YouTube Learning Series — The Website You Didn't Know
 
 [**Explore the first three episodes and ready-to-record scripts →**](./knowledge-hub/07-SOCIAL-MEDIA/YOUTUBE/WEBSITE-YOU-DIDNT-KNOW/README.md)
