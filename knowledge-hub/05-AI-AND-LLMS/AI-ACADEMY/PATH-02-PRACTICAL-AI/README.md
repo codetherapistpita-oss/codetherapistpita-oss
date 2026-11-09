@@ -4,7 +4,7 @@
 
 **Level:** Hands-on / no coding prerequisite · **Season 01 — Use AI Responsibly** · **3 starting daily lessons published 9 November 2026**
 
-[← Academy](../README.md) · [Model research desk](../MODELS/README.md) · [Hugging Face](../PLATFORMS/HUGGING-FACE/README.md)
+[← Academy](../README.md) · [Model research desk](../MODEL-RESEARCH/README.md) · [Hugging Face](../PLATFORMS/HUGGING-FACE/README.md)
 
 > For students, creators and business users who want to operate tools such as ChatGPT, Claude and Gemini effectively.
 
