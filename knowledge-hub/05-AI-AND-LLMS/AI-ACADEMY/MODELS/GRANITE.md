@@ -1,3 +1,5 @@
+<img src="../assets/models/GRANITE.svg" alt="Original AI Academy landscape artwork for GRANITE" width="760"/>
+
 # 🤖 Granite — AI Model Family Guide
 
 **Developer:** IBM · **Origin or notable introduction:** 2023–2024 · **Reviewed:** 9 November 2026
