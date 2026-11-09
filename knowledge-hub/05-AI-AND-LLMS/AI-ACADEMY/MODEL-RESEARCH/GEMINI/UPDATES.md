@@ -12,6 +12,16 @@ Product launches, model versions, revised model cards, capability changes, API d
 |---|---|---|
 | **Historical starting point** | 2023 | Gemini first publicly introduced December 2023. [Official documentation/release index](https://deepmind.google/models/model-cards/) |
 
+## Dated model-specific research entry — 28 October 2026
+
+**Gemini 4 Carbon** — Google described a limited-access research model for cybersecurity and long-horizon engineering work. Initial access was for approved security partners; vendor performance statements are not independently evaluated here.
+
+- **Published/reported:** 28 October 2026
+- **Original source:** [Official provider information](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/)
+- **Interpretation:** This is a documented provider announcement, not a claim of independent benchmark performance or universal access.
+- **Research exercise:** Read the full source, list two capabilities and two limitations, and identify what type of evidence you would need before recommending the system.
+- **Cross-reference:** [AI Academy 9 November research watch](../../NEWS/2026-11-09-MODEL-RELEASE-WATCH.md)
+
 **New release entries:** Add only after an official dated source has been reviewed. The absence of a new item here does not establish that the provider released nothing. The main [Academy news digest](../../NEWS/README.md) also aggregates announcements across models.
 
 ## Editorial workflow
