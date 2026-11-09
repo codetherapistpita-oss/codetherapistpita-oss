@@ -75,6 +75,10 @@ GPT/ChatGPT · Claude · Gemini · Grok · Llama · DeepSeek · Qwen · Mistral 
 
 Each profile has a historical background, intended use, classroom demonstration, ethical and technical questions and official reference links. **This is not a performance ranking.**
 
+## 🧪 Practice your model comparison
+
+**[Take the Cross-Model Evaluation Lab](./MODEL-EVALUATION-LAB.md)** — a three-level assessment with a structured prompt, reproducible test instructions, a 100-mark scoring rubric, and a blank comparison sheet. Learners record their own results rather than reading fabricated rankings.
+
 ## 📚 Study rules
 
 - Read one lecture and its sources before using a chatbot to complete its exercise.
