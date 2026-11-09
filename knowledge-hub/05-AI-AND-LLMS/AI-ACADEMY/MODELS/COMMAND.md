@@ -1,3 +1,5 @@
+<img src="../assets/models/COMMAND.svg" alt="Original AI Academy landscape artwork for COMMAND" width="760"/>
+
 # 🤖 Command / Command R — AI Model Family Guide
 
 **Developer:** Cohere · **Origin or notable introduction:** March 2024 (Command R) · **Reviewed:** 9 November 2026
