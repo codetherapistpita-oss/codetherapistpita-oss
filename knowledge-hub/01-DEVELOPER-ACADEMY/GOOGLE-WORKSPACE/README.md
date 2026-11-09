@@ -60,3 +60,11 @@ The **GW-001 numbering system** is a learning sequence, not proof that later les
 ---
 
 [← Developer Academy](../README.md) · [← Knowledge Hub](../../README.md) · [Code Therapist Portfolio](https://codetherapist.netlify.app/)
+
+## 📺 Code Therapist video learning reference
+
+| Episode | Illustrated article | Published |
+|---|---|---|
+| 011 | **[GW-004 Calendar Course](../../../knowledge-hub/07-SOCIAL-MEDIA/YOUTUBE/2026-11-08-TECHNOLOGY-EDUCATION/EP-011-google-calendar-gw004.md)** | 8 November 2026 · Script and guide |
+
+This original teaching page includes a landscape visual, flowchart, recorded-video outline and source links. **The YouTube video itself is not yet uploaded.**
