@@ -1,3 +1,5 @@
+<img src="./assets/DAY-001.svg" width="760" alt="Original DAY-001 Hugging Face learning landscape illustration"/>
+
 # Day 001 · What Is Hugging Face?
 
 **Level:** Beginner · **Season 01 — Platform and Model Literacy** · **Reviewed:** 9 November 2026
