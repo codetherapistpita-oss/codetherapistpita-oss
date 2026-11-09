@@ -18,6 +18,11 @@ Google announced the first Gemini family on 6 December 2023, emphasizing multimo
 
 **Current research note:** Google DeepMind's model-card index covers newer Gemini versions, including 2026 models; check exact release/model card dates. This page summarizes a model **family**; it does not claim a single version is universally best or list unsupported prices and benchmark rankings.
 
+### Dated release research
+
+- **28 October 2026:** [Google announced Gemini 4 Carbon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/), initially targeted to a limited cohort of authorized defenders and trusted partners. Do **not** describe it as universally accessible.
+- [Read the Academy release watch](../NEWS/2026-11-09-MODEL-RELEASE-WATCH.md).
+
 ## 3. How a learner can use or investigate it
 
 1. Open the [official entry point](https://gemini.google.com/) and check account requirements and access in your region.
@@ -61,4 +66,4 @@ flowchart LR
 2. Name two suitable applications and one unsafe assumption.
 3. What would you verify before using this family for a business project?
 
-[← AI Academy](../README.md) · [Prompt engineering](../SEASON-03/PROMPT-ENGINEERING.md)
+[← AI Academy](../README.md) · [Prompt engineering](../SEASON-03/CLASS-09-PROMPT-ENGINEERING.md)
