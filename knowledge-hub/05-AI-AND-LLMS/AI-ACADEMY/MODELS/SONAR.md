@@ -1,3 +1,5 @@
+<img src="../assets/models/SONAR.svg" alt="Original AI Academy landscape artwork for SONAR" width="760"/>
+
 # 🤖 Sonar — AI Model Family Guide
 
 **Developer:** Perplexity AI · **Origin or notable introduction:** 2025 (Sonar API branding) · **Reviewed:** 9 November 2026
