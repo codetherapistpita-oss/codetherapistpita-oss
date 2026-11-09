@@ -1,3 +1,5 @@
+<img src="../assets/season-01.svg" width="760" alt="Original Code Therapist AI Academy landscape Season One header"/>
+
 # 🎓 Season 1 — AI Foundations
 
 **Level:** Beginner · **4 guided classes** · **Published:** 9 November 2026
