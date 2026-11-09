@@ -6,6 +6,12 @@
 
 > This is a **dated research digest**, not a live news feed. Every entry records a primary source and clearly distinguishes manufacturer claims, model cards, commercial availability and independently tested performance. Future daily checks should avoid reposting unchanged stories.
 
+## 🆕 Featured research — 9 November 2026
+
+<a href="./2026-11-09-MODEL-RELEASE-WATCH.md"><img src="./assets/2026-11-09-ai-updates.svg" width="760" alt="AI model release watch landscape artwork"></a>
+
+**[Read the verified AI releases and classroom exercises](./2026-11-09-MODEL-RELEASE-WATCH.md)** — Google Gemini 4 Carbon (28 October), Anthropic Claude Haiku 5.5 (7 October), and OpenAI Images 2.6 (4 November). Official sources, access limits and an original learning assignment included.
+
 ## Notable verified updates
 
 | Date of release/card | AI family | What changed | Official source |
