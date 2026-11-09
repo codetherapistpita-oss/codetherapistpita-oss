@@ -8,14 +8,14 @@
 
 > Prompt design, structured results, AI tools, automation and a final project
 
-## Study plan
+## Study plan — visual lesson cards
 
-| Class | Topic |
-|---|---|
-| **[Class 09 — Prompt Engineering](./CLASS-09-PROMPT-ENGINEERING.md)** | Lecture, diagram, lab exercise, quiz and official sources |
-| **[Class 10 — Advanced Prompt Patterns](./CLASS-10-ADVANCED-PROMPTING.md)** | Lecture, diagram, lab exercise, quiz and official sources |
-| **[Class 11 — AI Agents and Automation](./CLASS-11-AGENTS-AND-AUTOMATION.md)** | Lecture, diagram, lab exercise, quiz and official sources |
-| **[Class 12 — Final Capstone](./CLASS-12-FINAL-CAPSTONE.md)** | Lecture, diagram, lab exercise, quiz and official sources |
+| Class | Small landscape card | Lesson | Open |
+|:---:|:---|---|:---|
+| **09** | <a href="./CLASS-09-PROMPT-ENGINEERING.md"><img src="../assets/classes/CLASS-09.svg" width="176" alt="Class 09 landscape lesson preview"></a> | **Prompt Engineering** | [Read & Study](./CLASS-09-PROMPT-ENGINEERING.md) |
+| **10** | <a href="./CLASS-10-ADVANCED-PROMPTING.md"><img src="../assets/classes/CLASS-10.svg" width="176" alt="Class 10 landscape lesson preview"></a> | **Advanced Prompting** | [Read & Study](./CLASS-10-ADVANCED-PROMPTING.md) |
+| **11** | <a href="./CLASS-11-AGENTS-AND-AUTOMATION.md"><img src="../assets/classes/CLASS-11.svg" width="176" alt="Class 11 landscape lesson preview"></a> | **AI Agents and Automation** | [Read & Study](./CLASS-11-AGENTS-AND-AUTOMATION.md) |
+| **12** | <a href="./CLASS-12-FINAL-CAPSTONE.md"><img src="../assets/classes/CLASS-12.svg" width="176" alt="Class 12 landscape lesson preview"></a> | **Final Capstone** | [Read & Study](./CLASS-12-FINAL-CAPSTONE.md) |
 
 ## Recommended progression
 
