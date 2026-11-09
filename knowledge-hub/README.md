@@ -45,6 +45,15 @@ The original coursework includes 12 lessons, prompt templates, practical labs an
 | **[🎓 KIU OneCard — IoT Smart Student Card](./17-IOT-SMART-STUDENT-CARD/README.md)** | Final-year IoT prototype design, system architecture, hardware, tests and Gantt chart |
 | **[🏢 ByteLab Uganda Product R&D](./18-BYTELAB-PROJECTS/README.md)** | Public-safe product research and architecture showcases, including ByteRent and Byte Buz |
 | **[🛒 Byte Buz POS & Business Platform](./18-BYTELAB-PROJECTS/BYTE-BUZ/README.md)** | 20-screen POS design, modular workflows, technical architecture and proposed Gantt |
+| **[🪙 Africa Gold Marketplace — Ryan & Peter](./18-BYTELAB-PROJECTS/AFRICA-GOLD-MARKETPLACE/README.md)** | Gold buyer/seller discovery concept, compliant enquiry journeys, architecture, trust and proposed roadmap |
+
+## 🪙 New Africa Gold Marketplace concept — Ryan & Peter
+
+<a href="./18-BYTELAB-PROJECTS/AFRICA-GOLD-MARKETPLACE/README.md"><img src="./18-BYTELAB-PROJECTS/AFRICA-GOLD-MARKETPLACE/assets/gold-marketplace-cover.svg" width="760" alt="Africa Gold Marketplace concept with Ryan as Idea Lead and Peter as Lead Application Developer"></a>
+
+**[Read the Gold Marketplace documentation](./18-BYTELAB-PROJECTS/AFRICA-GOLD-MARKETPLACE/README.md)** · [User journeys](./18-BYTELAB-PROJECTS/AFRICA-GOLD-MARKETPLACE/WORKFLOWS.md) · [Safety & permits](./18-BYTELAB-PROJECTS/AFRICA-GOLD-MARKETPLACE/COMPLIANCE-AND-TRUST.md)
+
+A proposed Uganda-first, Africa-focused gold marketplace website. Published as research and UI architecture only: no unverified seller endorsements, gold stock, payment promises or cross-border authorizations.
 
 ## 🔐 New cybercrime investigation — Binance $6.34 billion heist
 
