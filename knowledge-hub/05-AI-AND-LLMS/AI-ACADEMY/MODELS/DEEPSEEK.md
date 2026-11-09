@@ -1,3 +1,5 @@
+<img src="../assets/models/DEEPSEEK.svg" alt="Code Therapist AI Academy original landscape illustration for DEEPSEEK" width="760"/>
+
 # 🤖 DeepSeek — AI Family Study Profile
 
 **Developer:** DeepSeek · **Origins:** 2023 (company/family emergence) · **Profile reviewed:** 9 November 2026
