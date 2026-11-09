@@ -22,3 +22,9 @@ Resources will be added here once reviewed. Every post will identify its publica
 | 005 | **[What Is MCP?](../../../knowledge-hub/07-SOCIAL-MEDIA/YOUTUBE/2026-11-08-TECHNOLOGY-EDUCATION/EP-005-what-is-mcp.md)** | 8 November 2026 · Script and guide |
 
 This original teaching page includes a landscape visual, flowchart, recorded-video outline and source links. **The YouTube video itself is not yet uploaded.**
+
+## AI Academy classes and tools
+
+- **[Class 11 — AI Agents and Automation](../AI-ACADEMY/SEASON-03/CLASS-11-AGENTS-AND-AUTOMATION.md)**
+- **[Class 08 — Multimodal AI and RAG](../AI-ACADEMY/SEASON-02/CLASS-08-MULTIMODAL-RAG.md)**
+- **[The 15 AI family study catalog](../AI-ACADEMY/MODEL-CATALOG.md)**
