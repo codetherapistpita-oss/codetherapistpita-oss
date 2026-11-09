@@ -38,6 +38,12 @@ Practical developer resources, free code, safe technology guides, curated news a
 | **[🏢 ByteLab Uganda Product R&D](./18-BYTELAB-PROJECTS/README.md)** | Public-safe product research and architecture showcases, including ByteRent and Byte Buz |
 | **[🛒 Byte Buz POS & Business Platform](./18-BYTELAB-PROJECTS/BYTE-BUZ/README.md)** | 20-screen POS design, modular workflows, technical architecture and proposed Gantt |
 
+## 📺 12 illustrated technology explainers — Episodes 004–015
+
+**[Open the illustrated series and ready-to-record scripts](./07-SOCIAL-MEDIA/YOUTUBE/2026-11-08-TECHNOLOGY-EDUCATION/README.md)** — API, MCP, web development, Python, security, cyber heists, AI agent safety, Google Calendar, YouTube policies, fintech fraud prevention, computing history and Byte Buz.
+
+All posts have landscape visual banners, Mermaid flowcharts, official references and WhatsApp captions. These are published GitHub articles, not uploaded YouTube videos.
+
 ## 🌐 Featured series — The Website You Didn't Know
 
 **[Read Parts 001–003 and the YouTube scripts](./07-SOCIAL-MEDIA/YOUTUBE/WEBSITE-YOU-DIDNT-KNOW/README.md)** · [diagrams.net](./07-SOCIAL-MEDIA/YOUTUBE/WEBSITE-YOU-DIDNT-KNOW/PART-001-DIAGRAMS-NET.md) · [Photopea](./07-SOCIAL-MEDIA/YOUTUBE/WEBSITE-YOU-DIDNT-KNOW/PART-002-PHOTOPEA.md) · [Teachable Machine](./07-SOCIAL-MEDIA/YOUTUBE/WEBSITE-YOU-DIDNT-KNOW/PART-003-TEACHABLE-MACHINE.md)
