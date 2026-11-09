@@ -8,14 +8,14 @@
 
 > Tokens, model training, evaluation, assistants, multimodal processing and RAG
 
-## Study plan
+## Study plan — visual lesson cards
 
-| Class | Topic |
-|---|---|
-| **[Class 05 — How LLMs Work](./CLASS-05-HOW-LLMS-WORK.md)** | Lecture, diagram, lab exercise, quiz and official sources |
-| **[Class 06 — Train and Evaluate](./CLASS-06-TRAINING-AND-EVALUATION.md)** | Lecture, diagram, lab exercise, quiz and official sources |
-| **[Class 07 — Use AI Assistants](./CLASS-07-PRACTICAL-AI-TOOLS.md)** | Lecture, diagram, lab exercise, quiz and official sources |
-| **[Class 08 — Multimodal AI and RAG](./CLASS-08-MULTIMODAL-RAG.md)** | Lecture, diagram, lab exercise, quiz and official sources |
+| Class | Small landscape card | Lesson | Open |
+|:---:|:---|---|:---|
+| **05** | <a href="./CLASS-05-HOW-LLMS-WORK.md"><img src="../assets/classes/CLASS-05.svg" width="176" alt="Class 05 landscape lesson preview"></a> | **How LLMs Work** | [Read & Study](./CLASS-05-HOW-LLMS-WORK.md) |
+| **06** | <a href="./CLASS-06-TRAINING-AND-EVALUATION.md"><img src="../assets/classes/CLASS-06.svg" width="176" alt="Class 06 landscape lesson preview"></a> | **Training and Evaluation** | [Read & Study](./CLASS-06-TRAINING-AND-EVALUATION.md) |
+| **07** | <a href="./CLASS-07-PRACTICAL-AI-TOOLS.md"><img src="../assets/classes/CLASS-07.svg" width="176" alt="Class 07 landscape lesson preview"></a> | **Practical AI Tools** | [Read & Study](./CLASS-07-PRACTICAL-AI-TOOLS.md) |
+| **08** | <a href="./CLASS-08-MULTIMODAL-RAG.md"><img src="../assets/classes/CLASS-08.svg" width="176" alt="Class 08 landscape lesson preview"></a> | **Multimodal AI and RAG** | [Read & Study](./CLASS-08-MULTIMODAL-RAG.md) |
 
 ## Recommended progression
 
