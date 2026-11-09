@@ -8,14 +8,14 @@
 
 > What AI is, where it came from, major applications and safe use
 
-## Study plan
+## Study plan — visual lesson cards
 
-| Class | Topic |
-|---|---|
-| **[Class 01 — What Is AI?](./CLASS-01-WHAT-IS-AI.md)** | Lecture, diagram, lab exercise, quiz and official sources |
-| **[Class 02 — AI History](./CLASS-02-AI-HISTORY.md)** | Lecture, diagram, lab exercise, quiz and official sources |
-| **[Class 03 — AI Fields and Careers](./CLASS-03-FIELDS-AND-JOBS.md)** | Lecture, diagram, lab exercise, quiz and official sources |
-| **[Class 04 — Responsible AI](./CLASS-04-RESPONSIBLE-AI.md)** | Lecture, diagram, lab exercise, quiz and official sources |
+| Class | Small landscape card | Lesson | Open |
+|:---:|:---|---|:---|
+| **01** | <a href="./CLASS-01-WHAT-IS-AI.md"><img src="../assets/classes/CLASS-01.svg" width="176" alt="Class 01 landscape lesson preview"></a> | **What Is AI?** | [Read & Study](./CLASS-01-WHAT-IS-AI.md) |
+| **02** | <a href="./CLASS-02-AI-HISTORY.md"><img src="../assets/classes/CLASS-02.svg" width="176" alt="Class 02 landscape lesson preview"></a> | **AI History** | [Read & Study](./CLASS-02-AI-HISTORY.md) |
+| **03** | <a href="./CLASS-03-FIELDS-AND-JOBS.md"><img src="../assets/classes/CLASS-03.svg" width="176" alt="Class 03 landscape lesson preview"></a> | **AI Fields and Careers** | [Read & Study](./CLASS-03-FIELDS-AND-JOBS.md) |
+| **04** | <a href="./CLASS-04-RESPONSIBLE-AI.md"><img src="../assets/classes/CLASS-04.svg" width="176" alt="Class 04 landscape lesson preview"></a> | **Responsible AI** | [Read & Study](./CLASS-04-RESPONSIBLE-AI.md) |
 
 ## Recommended progression
 
