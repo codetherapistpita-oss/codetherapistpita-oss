@@ -38,6 +38,10 @@ Practical developer resources, free code, safe technology guides, curated news a
 | **[🏢 ByteLab Uganda Product R&D](./18-BYTELAB-PROJECTS/README.md)** | Public-safe product research and architecture showcases, including ByteRent and Byte Buz |
 | **[🛒 Byte Buz POS & Business Platform](./18-BYTELAB-PROJECTS/BYTE-BUZ/README.md)** | 20-screen POS design, modular workflows, technical architecture and proposed Gantt |
 
+## 🌐 Featured series — The Website You Didn't Know
+
+**[Read Parts 001–003 and the YouTube scripts](./07-SOCIAL-MEDIA/YOUTUBE/WEBSITE-YOU-DIDNT-KNOW/README.md)** · [diagrams.net](./07-SOCIAL-MEDIA/YOUTUBE/WEBSITE-YOU-DIDNT-KNOW/PART-001-DIAGRAMS-NET.md) · [Photopea](./07-SOCIAL-MEDIA/YOUTUBE/WEBSITE-YOU-DIDNT-KNOW/PART-002-PHOTOPEA.md) · [Teachable Machine](./07-SOCIAL-MEDIA/YOUTUBE/WEBSITE-YOU-DIDNT-KNOW/PART-003-TEACHABLE-MACHINE.md)
+
 ## 🎓 New learning series: Google Workspace
 
 **[Start the Google Workspace course →](./01-DEVELOPER-ACADEMY/GOOGLE-WORKSPACE/README.md)**
