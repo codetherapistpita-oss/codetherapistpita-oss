@@ -1,3 +1,5 @@
+<img src="./assets/season-03.svg" width="760" alt="Prompt engineering study guide landscape visual"/>
+
 # 📝 Prompt Engineering Handbook — Code Therapist AI Academy
 
 **Audience:** Students, professionals, content creators and software developers · **Reviewed:** 9 November 2026
