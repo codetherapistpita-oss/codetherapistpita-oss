@@ -12,6 +12,16 @@ Product launches, model versions, revised model cards, capability changes, API d
 |---|---|---|
 | **Historical starting point** | 2023 | Claude introduced March 2023. [Official documentation/release index](https://www.anthropic.com/news) |
 
+## Dated model-specific research entry — 7 October 2026
+
+**Claude Haiku 5.5** — Anthropic introduced a smaller/faster Claude option for high-throughput tasks. Model availability, prices and vendor comparisons depend on the exact selected API or plan.
+
+- **Announced:** 7 October 2026
+- **Primary source:** [Anthropic Claude Haiku 5.5](https://www.anthropic.com/claude-haiku-5-5)
+- **Evidence status:** A provider announcement, not independently reproduced latency or accuracy.
+- **Student lab:** Create five fictional support questions, record correct outputs and compare performance under a documented model version.
+- **Related:** [9 November research watch](../../NEWS/2026-11-09-MODEL-RELEASE-WATCH.md)
+
 **New release entries:** Add only after an official dated source has been reviewed. The absence of a new item here does not establish that the provider released nothing. The main [Academy news digest](../../NEWS/README.md) also aggregates announcements across models.
 
 ## Editorial workflow
