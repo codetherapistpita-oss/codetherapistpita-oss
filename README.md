@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ddf82,100:0b0f0c&height=160&section=header&text=Code%20Therapist&fontSize=52&animation=fadeIn&fontAlignY=35&desc=Gyagenda%20Peter%20Katabalwa%20·%20Byte%20Lab%20Uganda&descAlignY=58&descSize=16" alt="Code Therapist — Gyagenda Peter Katabalwa, Byte Lab Uganda" />
+  <img src="./assets/code-therapist-profile-banner.svg" alt="Code Therapist — ByteLab Uganda, software development, AI Academy and technology research" width="1100" />
 </div>
 
 <p align="center">
