@@ -1,3 +1,5 @@
+<img src="../assets/ai-news.svg" width="760" alt="AI news and official source digest landscape visual"/>
+
 # 📰 AI Models & Automation — Verified Update Desk
 
 **Editorial review:** Monday, **9 November 2026** · [AI Academy](../README.md) · [15 Model Families](../MODEL-CATALOG.md)
