@@ -1,3 +1,5 @@
+<img src="../assets/path-awareness.svg" alt="Original Code Therapist AI Awareness landscape illustration" width="790"/>
+
 # 🎓 AI Literacy — Understand Without Coding
 
 **Level:** Awareness · **Season 01 — First Contact with AI** · **3 starting daily lessons published 9 November 2026**
