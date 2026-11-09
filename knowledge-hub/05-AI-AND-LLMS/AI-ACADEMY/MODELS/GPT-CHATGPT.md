@@ -18,6 +18,12 @@ ChatGPT publicly launched in November 2022, building on prior GPT research. Late
 
 **Current research note:** GPT-6 family is current in 2026; products, subscriptions and API model names differ. This page summarizes a model **family**; it does not claim a single version is universally best or list unsupported prices and benchmark rankings.
 
+### Dated release research (not a generic version claim)
+
+- **7 October 2026:** [GPT-6 and Intelligent UI in ChatGPT](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) is documented in official release notes.
+- **4 November 2026:** [Images 2.6](https://openai.com/index/introducing-images-2-6/) is a distinct image-generation release, not a name for a text-only GPT model.
+- [Read the dated Academy release watch](../NEWS/2026-11-09-MODEL-RELEASE-WATCH.md).
+
 ## 3. How a learner can use or investigate it
 
 1. Open the [official entry point](https://chatgpt.com/) and check account requirements and access in your region.
@@ -61,4 +67,4 @@ flowchart LR
 2. Name two suitable applications and one unsafe assumption.
 3. What would you verify before using this family for a business project?
 
-[← AI Academy](../README.md) · [Prompt engineering](../SEASON-03/PROMPT-ENGINEERING.md)
+[← AI Academy](../README.md) · [Prompt engineering](../SEASON-03/CLASS-09-PROMPT-ENGINEERING.md)
