@@ -4,7 +4,7 @@
 
 **Level:** Awareness · **Season 01 — First Contact with AI** · **3 starting daily lessons published 9 November 2026**
 
-[← Academy](../README.md) · [Model research desk](../MODELS/README.md) · [Hugging Face](../PLATFORMS/HUGGING-FACE/README.md)
+[← Academy](../README.md) · [Model research desk](../MODEL-RESEARCH/README.md) · [Hugging Face](../PLATFORMS/HUGGING-FACE/README.md)
 
 > For people who want to understand what AI is, what it can do, where it is useful and what its risks are.
 
