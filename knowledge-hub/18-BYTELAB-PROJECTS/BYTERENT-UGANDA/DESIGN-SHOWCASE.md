@@ -6,12 +6,12 @@
 > **Concept screens — not a live property marketplace.** These mockups were supplied by the ByteRent project owner. Sample property names, pricing, “verified” badges, ROI estimates, demand scores, agent identities, phone numbers, maps and booking states are **illustrative design content**. No investment returns, ownership, property availability or provider verification is being promised.
 
 > [!NOTE]
-> **Asset publishing status:** The layout and image paths below are ready, but the owner-supplied original PNGs have **not yet been uploaded to GitHub**. Until they are committed to `assets/original/`, some images below will display as missing. The byte-for-byte original images are provided in a separate upload package. The existing original public vector previews remain available in [the assets directory](./assets/).
+> **Asset publishing status:** The layout and image paths below are ready, but the owner-supplied original PNGs have **not yet been uploaded to GitHub**. The current gallery uses **working, clearly marked SVG guide graphics** for the missing screenshots and the existing public vector logo previews. They are **not the unchanged original PNGs**. The original screenshots can replace the guide cards after binary upload. The byte-for-byte original images are provided in a separate upload package. The existing original public vector previews remain available in [the assets directory](./assets/).
 
 ## 01 · Brand identity
 
 <table>
-<tr><td width="68%" align="center"><strong>Original landscape logo</strong><br/><img src="./assets/original/byterent-logo-landscape-original.png" alt="Original ByteRent landscape logo — awaiting file upload" width="620"/></td><td width="32%" align="center"><strong>Original portrait logo</strong><br/><img src="./assets/original/byterent-logo-stacked-original.png" alt="Original ByteRent stacked logo — awaiting file upload" width="255"/></td></tr>
+<tr><td width="68%" align="center"><strong>Public landscape vector preview</strong><br/><img src="./assets/byterent-landscape.svg" alt="Available ByteRent landscape SVG brand preview, not the original PNG" width="620"/></td><td width="32%" align="center"><strong>Public portrait vector preview</strong><br/><img src="./assets/byterent-stacked.svg" alt="Available ByteRent stacked SVG brand preview, not the original PNG" width="255"/></td></tr>
 </table>
 
 The supplied logo identity emphasizes **Byte** (blue), **Rent** (red), a property/cloud/map-pin emblem, and **“Beyond Listings. Find Home.”** The interface combines midnight navy surfaces, bright blue secondary actions, red primary actions and white typography.
@@ -26,9 +26,9 @@ The supplied logo identity emphasizes **Byte** (blue), **Rent** (red), a propert
 | [Hospitality](#06--hotels--lodges) | Hotels & Lodges | Accommodation discovery and browsing |
 | [End-to-end workflows](#07--how-these-screens-connect) | Diagrams below | Show relationships from search to enquiry |
 
-## 03 · Property investment comparison
+## 03 · Property investment comparison — concept guide
 
-<p align="center"><img src="./assets/original/01-investment-comparison.png" alt="Owner-supplied ByteRent Property Investment Compare phone concept" width="410"/></p>
+<p align="center"><img src="./assets/preview/01-investment-comparison.svg" alt="Illustrative ByteRent investment comparison guide; original phone PNG pending" width="410"/></p>
 
 **What the concept shows:** Land, apartments, shops and office units in separate comparison cards; illustrated estimated ROI, demand scores, rental potential and growth indicators; plus a comparison overview chart.
 
@@ -45,13 +45,13 @@ flowchart LR
 ## 04 · Commercial property experience
 
 <table>
-<tr><td align="center" width="50%"><strong>Commercial property details</strong><br/><img src="./assets/original/02-commercial-property-details.png" alt="Original commercial space details screen" width="370"/></td><td align="center" width="50%"><strong>Mall & arcade details</strong><br/><img src="./assets/original/03-mall-arcade-details.png" alt="Original mall and arcade details screen" width="370"/></td></tr>
+<tr><td align="center" width="50%"><strong>Commercial property details</strong><br/><img src="./assets/preview/02-commercial-property-details.svg" alt="Illustrative commercial details guide; original phone PNG pending" width="370"/></td><td align="center" width="50%"><strong>Mall & arcade details</strong><br/><img src="./assets/preview/03-mall-arcade-details.svg" alt="Illustrative mall and arcade guide; original PNG pending" width="370"/></td></tr>
 <tr><td align="center">Space area, utilities, parking, agent contact and viewing requests.</td><td align="center">Units, transport access, amenities and contact/tour actions.</td></tr>
 </table>
 
 ### Shop spaces by neighbourhood
 
-<p align="center"><img src="./assets/original/05-shop-spaces-kansanga.png" alt="Original ByteRent Shop Spaces — Kansanga search screen" width="410"/></p>
+<p align="center"><img src="./assets/preview/05-shop-spaces-kansanga.svg" alt="Illustrative shop spaces guide; original PNG pending" width="410"/></p>
 
 The mockup demonstrates category filters such as shop, salon, electronics, boutique, pharmacy and mini-market, plus a location-aware property list.
 
@@ -71,7 +71,7 @@ flowchart TD
 
 ## 05 · Live Near Work
 
-<p align="center"><img src="./assets/original/04-live-near-work.png" alt="Owner-supplied ByteRent Live Near Work concept with commute map" width="410"/></p>
+<p align="center"><img src="./assets/preview/04-live-near-work.svg" alt="Illustrative commute-search guide; original PNG pending" width="410"/></p>
 
 This visual proposes searching homes by the commute to a work destination, with selectable transport modes, predicted travel times and ranked homes.
 
@@ -88,7 +88,7 @@ flowchart TD
 
 ## 06 · Hotels & Lodges
 
-<p align="center"><img src="./assets/original/06-hotels-and-lodges.png" alt="Original ByteRent Hotels and Lodges discovery phone screen" width="410"/></p>
+<p align="center"><img src="./assets/preview/06-hotels-and-lodges.svg" alt="Illustrative hotels and lodges guide; original PNG pending" width="410"/></p>
 
 The accommodation visual features cards with images, price-per-night, guest ratings, amenities and booking prompts. These visual ratings and offers are examples, not verified hospitality inventory.
 
