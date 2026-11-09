@@ -14,6 +14,14 @@ Practical developer resources, free code, safe technology guides, curated news a
 
 ---
 
+## 🤖 AI & Automation Academy — 3 Seasons, 15 AI Families
+
+<a href="./05-AI-AND-LLMS/AI-ACADEMY/README.md"><img src="./05-AI-AND-LLMS/AI-ACADEMY/assets/ai-academy-cover.svg" width="780" alt="Code Therapist AI Academy landscape banner"></a>
+
+**[Start the AI Academy](./05-AI-AND-LLMS/AI-ACADEMY/README.md)** · [Season One](./05-AI-AND-LLMS/AI-ACADEMY/SEASON-01/README.md) · [Season Two](./05-AI-AND-LLMS/AI-ACADEMY/SEASON-02/README.md) · [Season Three](./05-AI-AND-LLMS/AI-ACADEMY/SEASON-03/README.md) · [15-model directory](./05-AI-AND-LLMS/AI-ACADEMY/MODEL-CATALOG.md) · [Verified AI news](./05-AI-AND-LLMS/AI-ACADEMY/NEWS/README.md)
+
+The original coursework includes 12 lessons, prompt templates, practical labs and model research profiles, with official links and diagrams. All 15 model names refer to **families or model/API products**, not interchangeable versions or a best-model ranking.
+
 ## Explore the library
 
 | Category | What you'll find |
