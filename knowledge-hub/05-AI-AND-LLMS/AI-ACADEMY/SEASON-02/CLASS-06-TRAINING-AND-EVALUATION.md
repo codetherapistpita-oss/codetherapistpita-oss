@@ -1,3 +1,5 @@
+<img src="../assets/season-02.svg" width="760" alt="Original Code Therapist AI Academy landscape Season Two header"/>
+
 # S2-C06 · Training, Testing and Evaluating AI
 
 **Season Two — How AI Works and Practical Use** · **Level:** Beginner → Intermediate · **Published:** 9 November 2026
