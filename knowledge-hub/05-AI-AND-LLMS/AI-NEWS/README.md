@@ -6,7 +6,7 @@ Resources will be added here once reviewed. Every post will identify its publica
 
 | Published | Resource | Description |
 | --- | --- | --- |
-| — | _No publications yet_ | — |
+| 2026-11-09 | **[Verified AI Model News Digest](../AI-ACADEMY/NEWS/README.md)** | Dated official updates for Gemini Omni 1.2 Flash, GPT-6.1 Sol, DeepSeek-V4.1-Flash and Granite |
 
 ## 📺 Code Therapist video learning reference
 
