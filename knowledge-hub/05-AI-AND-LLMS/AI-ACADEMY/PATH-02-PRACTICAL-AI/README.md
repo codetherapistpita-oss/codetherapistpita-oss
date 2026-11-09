@@ -1,3 +1,5 @@
+<img src="../assets/path-practical.svg" alt="Original Code Therapist Practical AI User landscape illustration" width="790"/>
+
 # 🎓 Practical AI User — Prompt and Produce
 
 **Level:** Hands-on / no coding prerequisite · **Season 01 — Use AI Responsibly** · **3 starting daily lessons published 9 November 2026**
