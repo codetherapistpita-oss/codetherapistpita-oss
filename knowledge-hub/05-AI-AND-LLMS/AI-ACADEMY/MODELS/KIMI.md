@@ -1,3 +1,5 @@
+<img src="../assets/models/KIMI.svg" alt="Original AI Academy landscape artwork for KIMI" width="760"/>
+
 # 🤖 Kimi — AI Model Family Guide
 
 **Developer:** Moonshot AI · **Origin or notable introduction:** 2023 · **Reviewed:** 9 November 2026
