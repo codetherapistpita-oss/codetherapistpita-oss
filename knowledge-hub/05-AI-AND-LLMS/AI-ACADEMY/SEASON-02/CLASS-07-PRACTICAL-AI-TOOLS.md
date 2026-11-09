@@ -1,3 +1,5 @@
+<img src="../assets/season-02.svg" width="760" alt="Original Code Therapist AI Academy landscape Season Two header"/>
+
 # S2-C07 · Practical Use of AI Assistants
 
 **Season Two — How AI Works and Practical Use** · **Level:** Beginner → Intermediate · **Published:** 9 November 2026
