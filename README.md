@@ -52,6 +52,7 @@ A free-to-read educational library covering what AI is, how models work, practic
 | 🏢 **[ByteLab Product R&D](./knowledge-hub/18-BYTELAB-PROJECTS/README.md)** | Public project research, product concepts and engineering roadmaps |
 | 🏘️ **[ByteRent Uganda](./knowledge-hub/18-BYTELAB-PROJECTS/BYTERENT-UGANDA/README.md)** | National property platform concept, UI gallery, architecture and 12-month Gantt |
 | 🛒 **[Byte Buz POS & Business Platform](./knowledge-hub/18-BYTELAB-PROJECTS/BYTE-BUZ/README.md)** | Source-based business management architecture, 20 screen map and proposed Gantt |
+| 🪙 **[Africa Gold Marketplace](./knowledge-hub/18-BYTELAB-PROJECTS/AFRICA-GOLD-MARKETPLACE/README.md)** | Ryan's Africa-focused gold platform concept; Peter leads app architecture and development |
 | 🧭 **[Knowledge Hub — All Topics](./knowledge-hub/README.md)** | The full indexed library of technical publications |
 | 🏢 **[ByteLab Uganda](https://bytelabug.com/)** | Company website, technology solutions and products |
 | 🌐 **[Portfolio & Contact](https://codetherapist.netlify.app/)** | Published portfolio, background and contact details |
@@ -61,6 +62,14 @@ A free-to-read educational library covering what AI is, how models work, practic
 ## Featured research — KIU OneCard
 
 **[IoT Smart Student Card Project: Architecture, Service Terminals & Gantt Chart](./knowledge-hub/17-IOT-SMART-STUDENT-CARD/README.md)** · An academic prototype concept using ESP32 and PN532 to connect four simulated university service points. Includes security tests and a proposed 12-week schedule.
+
+## 🪙 New Product Concept — Africa Gold Marketplace
+
+[![Africa Gold Marketplace — Ryan & Peter](./knowledge-hub/18-BYTELAB-PROJECTS/AFRICA-GOLD-MARKETPLACE/assets/gold-marketplace-cover.svg)](./knowledge-hub/18-BYTELAB-PROJECTS/AFRICA-GOLD-MARKETPLACE/README.md)
+
+**[Explore the professional Gold Marketplace dossier →](./knowledge-hub/18-BYTELAB-PROJECTS/AFRICA-GOLD-MARKETPLACE/README.md)** · [Buyer and Seller Workflows](./knowledge-hub/18-BYTELAB-PROJECTS/AFRICA-GOLD-MARKETPLACE/WORKFLOWS.md) · [Compliance and Responsible Sourcing](./knowledge-hub/18-BYTELAB-PROJECTS/AFRICA-GOLD-MARKETPLACE/COMPLIANCE-AND-TRUST.md)
+
+**Idea Lead:** Ryan · **Lead Application Developer:** Peter. This is a proposed verified-enquiry web platform for Uganda and, subject to legal requirements, wider Africa—not a live licensed gold exchange.
 
 ## Featured product concept — ByteRent Uganda
 
