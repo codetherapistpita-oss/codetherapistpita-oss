@@ -1,3 +1,5 @@
+<img src="../assets/models/GEMINI.svg" alt="Original AI Academy landscape artwork for GEMINI" width="760"/>
+
 # 🤖 Gemini — AI Family Study Profile
 
 **Developer:** Google DeepMind / Google · **Origins:** 2023 · **Profile reviewed:** 9 November 2026
