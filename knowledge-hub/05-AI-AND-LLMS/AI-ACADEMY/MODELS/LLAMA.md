@@ -1,3 +1,5 @@
+<img src="../assets/models/LLAMA.svg" alt="Code Therapist AI Academy original landscape illustration for LLAMA" width="760"/>
+
 # 🤖 Llama — AI Family Study Profile
 
 **Developer:** Meta · **Origins:** 2023 · **Profile reviewed:** 9 November 2026
