@@ -1,3 +1,5 @@
+<img src="../assets/path-builder.svg" alt="Original Code Therapist Machine Learning Builder landscape illustration" width="790"/>
+
 # 🎓 AI / Machine Learning Builder — Train and Deploy
 
 **Level:** Technical · **Season 01 — Foundations of Building AI** · **3 starting daily lessons published 9 November 2026**
