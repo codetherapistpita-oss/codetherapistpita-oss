@@ -143,6 +143,7 @@ The GitHub repository is a public reference library, **not an automatically refr
 ## Editorial guides and publishing plans
 
 - [How we will publish, improve search visibility and introduce live updates](./PUBLISHING_AND_SEARCH_VISIBILITY.md)
+- [Image health report and missing-screen upload guidance](./IMAGE-HEALTH-REPORT.md) — local image audit and automated GitHub validation
 - [Cyber incident case-study template](./10-CYBER-INCIDENTS-AND-LAW/INCIDENT_REPORT_TEMPLATE.md)
 - [History of Computing — chronological reading path](./12-COMPUTER-HISTORY/HISTORY_READING_PATH.md)
 
