@@ -18,6 +18,11 @@ Anthropic publicly introduced Claude in March 2023, originally emphasizing conve
 
 **Current research note:** Check Anthropic model documentation for current Claude variants and availability; do not assume a model name remains constant. This page summarizes a model **family**; it does not claim a single version is universally best or list unsupported prices and benchmark rankings.
 
+### Dated release research
+
+- **7 October 2026:** [Anthropic introduced Claude Haiku 5.5](https://www.anthropic.com/claude-haiku-5-5), positioning it for faster, lower-cost, high-volume work. Vendor claims are not our independent tests.
+- [Read the Academy release watch](../NEWS/2026-11-09-MODEL-RELEASE-WATCH.md).
+
 ## 3. How a learner can use or investigate it
 
 1. Open the [official entry point](https://claude.ai/) and check account requirements and access in your region.
@@ -61,4 +66,4 @@ flowchart LR
 2. Name two suitable applications and one unsafe assumption.
 3. What would you verify before using this family for a business project?
 
-[← AI Academy](../README.md) · [Prompt engineering](../SEASON-03/PROMPT-ENGINEERING.md)
+[← AI Academy](../README.md) · [Prompt engineering](../SEASON-03/CLASS-09-PROMPT-ENGINEERING.md)
