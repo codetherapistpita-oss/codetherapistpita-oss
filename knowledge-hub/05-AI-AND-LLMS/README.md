@@ -23,6 +23,12 @@
 | **[Prompt Engineering Handbook](./AI-ACADEMY/PROMPT-ENGINEERING-HANDBOOK.md)** | Seven-part prompting framework, templates, evaluations and examples |
 | **[AI News Digest](./AI-ACADEMY/NEWS/README.md)** | Dated updates, model-card links and editorial verification |
 
+## 📰 Latest AI Academy research
+
+<a href="./AI-ACADEMY/NEWS/2026-11-09-MODEL-RELEASE-WATCH.md"><img src="./AI-ACADEMY/NEWS/assets/2026-11-09-ai-updates.svg" width="730" alt="AI release research landscape graphic"></a>
+
+**[9 November 2026 release watch](./AI-ACADEMY/NEWS/2026-11-09-MODEL-RELEASE-WATCH.md)** · [Beginner lessons](./AI-ACADEMY/SEASON-01/README.md) · [15 AI model families](./AI-ACADEMY/MODEL-CATALOG.md)
+
 ## Existing research and topic areas
 
 | Topic | Existing research |
