@@ -1,3 +1,5 @@
+<img src="../assets/season-01.svg" width="760" alt="Original Code Therapist AI Academy landscape Season One header"/>
+
 # S1-C04 · Safe and Responsible AI Use
 
 **Season One — AI Foundations** · **Level:** Beginner · **Published:** 9 November 2026
