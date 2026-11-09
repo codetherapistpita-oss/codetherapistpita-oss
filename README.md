@@ -15,6 +15,14 @@
 
 ---
 
+## 🤖 Learn Artificial Intelligence — Code Therapist Academy
+
+[![AI & Automation Academy](./knowledge-hub/05-AI-AND-LLMS/AI-ACADEMY/assets/ai-academy-cover.svg)](./knowledge-hub/05-AI-AND-LLMS/AI-ACADEMY/README.md)
+
+**[Begin 3 seasons of AI classes](./knowledge-hub/05-AI-AND-LLMS/AI-ACADEMY/README.md)** · [Study 15 major AI families](./knowledge-hub/05-AI-AND-LLMS/AI-ACADEMY/MODEL-CATALOG.md) · [Learn prompt engineering](./knowledge-hub/05-AI-AND-LLMS/AI-ACADEMY/PROMPT-ENGINEERING-HANDBOOK.md) · [Read sourced AI news](./knowledge-hub/05-AI-AND-LLMS/AI-ACADEMY/NEWS/README.md)
+
+A free-to-read educational library covering what AI is, how models work, practical tools, safe automation and research with verifiable sources.
+
 ## Explore my work
 
 > **Start here:** Browse software projects, practical code, tutorials, curated tools and sourced technology updates without digging through dozens of repositories.
