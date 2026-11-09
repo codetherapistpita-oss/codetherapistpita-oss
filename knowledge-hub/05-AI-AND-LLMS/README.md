@@ -22,6 +22,16 @@
 
 **[Model research Season 01 — Day 001 to 003](./AI-ACADEMY/MODEL-RESEARCH/RELEASE-SEASON-01/README.md)** teaches learners to interpret new model releases, while company-specific logs store the ongoing news itself.
 
+## Three distinct departments
+
+| Department | What belongs here |
+|---|---|
+| **[01 · General AI Learning](./AI-ACADEMY/LEARNING-PATHWAYS.md)** | Separate **AI Literacy**, **Practical AI**, and **ML Builder** pathways; each has seasons and numbered daily lessons |
+| **[02 · Individual Model & LLM Research](./AI-ACADEMY/MODEL-RESEARCH/README.md)** | The company, origin, operations, specific model releases, research history and a dedicated update log for each of 15 families |
+| **[03 · AI Platforms](./AI-ACADEMY/PLATFORMS/HUGGING-FACE/README.md)** | Hugging Face Hub, datasets, model cards, Spaces, knowledge bases and model development — now with [three introductory days](./AI-ACADEMY/PLATFORMS/HUGGING-FACE/SEASON-01/README.md) |
+
+The **model-release study season** is part of Department 02. General AI courses and model-specific company news are deliberately separate.
+
 ## Featured structured learning
 
 | Study path | What it includes |
