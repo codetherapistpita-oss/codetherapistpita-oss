@@ -3,11 +3,11 @@
 [← Project home](./README.md) · [Twenty-screen map](./FEATURES-AND-SCREENS.md) · [Workflows](./WORKFLOWS-AND-CONTROLS.md)
 
 > [!NOTE]
-> **Owner-supplied concept screens, not production screenshots.** All prices, quantities, performance figures, identities, transaction references, stock counts, ratings, business dates and branch information shown in the mockups are **illustrative**. The original image files are not yet committed to this public repository; the sections below point to the exact filenames in the prepared upload bundle. Missing images will appear until binary assets are committed.
+> **Owner-supplied concept screens, not production screenshots.** All prices, quantities, performance figures, identities, transaction references, stock counts, ratings, business dates and branch information shown in the mockups are **illustrative**. The original image files are not yet committed to this public repository; the sections below point to the exact filenames in the prepared upload bundle. **Visible cards below are clearly labeled illustrative SVG placeholders**, not the owner-supplied screenshots. Exact PNG files can replace them after upload.
 
-## Original Byte Buz visual identity
+## Byte Buz brand reference — public placeholder
 
-<p align="center"><img src="./assets/original/08-byte-buz-app-icon.png" alt="Owner-supplied Byte Buz cloud, point-of-sale and growth app icon (pending upload)" width="165"></p>
+<p align="center"><img src="./assets/preview/08-byte-buz-app-icon.svg" alt="Illustrative Byte Buz brand card; original app icon not yet committed" width="165"></p>
 
 The approved identity uses a **blue cloud outline**, a cartoon shop attendant at a POS machine, ascending business bars, a red growth swoosh and the **Byte Buz** name. The overall product style is white-first dashboards with a deep-blue sidebar and carefully limited red for destructive actions, risk and high-priority controls.
 
@@ -23,53 +23,53 @@ The approved identity uses a **blue cloud outline**, a cartoon shop attendant at
 | [06. Sales Analytics](#screen-06) | `06-sales-analytics.png` | Sales trends, product contribution, heatmaps and key insights |
 | [07. Staff Performance](#screen-07) | `07-staff-performance.png` | Employee sales, shifts, attendance and audit alerts |
 
-## Original interface gallery
+## Interface gallery — illustrated guides pending original images
 
 ### Screen 01 · Product details — Riham White Sugar 1kg
 
-<p align="center"><img src="./assets/original/01-product-intelligence.png" alt="Exact owner-provided Byte Buz concept screen: Product details — Riham White Sugar 1kg (pending binary upload)" width="930"></p>
+<p align="center"><img src="./assets/preview/01-product-intelligence.svg" alt="Illustrative guide to Byte Buz screen: Product details — Riham White Sugar 1kg (original pending upload)" width="930"></p>
 
 **Information architecture:** Inventory, stock valuation, price trends and barcode tools. The supplied mockup shows a landscape administration dashboard with a branded left sidebar, contextual header, financial/statistical cards and operational actions.
 
 
 ### Screen 02 · Supplier Profile — Mukwano Group
 
-<p align="center"><img src="./assets/original/02-supplier-profile.png" alt="Exact owner-provided Byte Buz concept screen: Supplier Profile — Mukwano Group (pending binary upload)" width="930"></p>
+<p align="center"><img src="./assets/preview/02-supplier-profile.svg" alt="Illustrative guide to Byte Buz screen: Supplier Profile — Mukwano Group (original pending upload)" width="930"></p>
 
 **Information architecture:** Supplier purchasing, lead time, outstanding balances and scorecards. The supplied mockup shows a landscape administration dashboard with a branded left sidebar, contextual header, financial/statistical cards and operational actions.
 
 
 ### Screen 03 · Promotions & Loyalty
 
-<p align="center"><img src="./assets/original/03-promotions-loyalty.png" alt="Exact owner-provided Byte Buz concept screen: Promotions & Loyalty (pending binary upload)" width="930"></p>
+<p align="center"><img src="./assets/preview/03-promotions-loyalty.svg" alt="Illustrative guide to Byte Buz screen: Promotions & Loyalty (original pending upload)" width="930"></p>
 
 **Information architecture:** Campaign management, redemption analytics, segmentation and discount rules. The supplied mockup shows a landscape administration dashboard with a branded left sidebar, contextual header, financial/statistical cards and operational actions.
 
 
 ### Screen 04 · Branch Performance
 
-<p align="center"><img src="./assets/original/04-branch-performance.png" alt="Exact owner-provided Byte Buz concept screen: Branch Performance (pending binary upload)" width="930"></p>
+<p align="center"><img src="./assets/preview/04-branch-performance.svg" alt="Illustrative guide to Byte Buz screen: Branch Performance (original pending upload)" width="930"></p>
 
 **Information architecture:** Multi-branch sales ranking, alerts and transfer recommendations. The supplied mockup shows a landscape administration dashboard with a branded left sidebar, contextual header, financial/statistical cards and operational actions.
 
 
 ### Screen 05 · Business Day Control
 
-<p align="center"><img src="./assets/original/05-business-day-control.png" alt="Exact owner-provided Byte Buz concept screen: Business Day Control (pending binary upload)" width="930"></p>
+<p align="center"><img src="./assets/preview/05-business-day-control.svg" alt="Illustrative guide to Byte Buz screen: Business Day Control (original pending upload)" width="930"></p>
 
 **Information architecture:** Opening floats, tills, closing variance and approval. The supplied mockup shows a landscape administration dashboard with a branded left sidebar, contextual header, financial/statistical cards and operational actions.
 
 
 ### Screen 06 · Sales Analytics
 
-<p align="center"><img src="./assets/original/06-sales-analytics.png" alt="Exact owner-provided Byte Buz concept screen: Sales Analytics (pending binary upload)" width="930"></p>
+<p align="center"><img src="./assets/preview/06-sales-analytics.svg" alt="Illustrative guide to Byte Buz screen: Sales Analytics (original pending upload)" width="930"></p>
 
 **Information architecture:** Sales trends, product contribution, heatmaps and key insights. The supplied mockup shows a landscape administration dashboard with a branded left sidebar, contextual header, financial/statistical cards and operational actions.
 
 
 ### Screen 07 · Staff Performance
 
-<p align="center"><img src="./assets/original/07-staff-performance.png" alt="Exact owner-provided Byte Buz concept screen: Staff Performance (pending binary upload)" width="930"></p>
+<p align="center"><img src="./assets/preview/07-staff-performance.svg" alt="Illustrative guide to Byte Buz screen: Staff Performance (original pending upload)" width="930"></p>
 
 **Information architecture:** Employee sales, shifts, attendance and audit alerts. The supplied mockup shows a landscape administration dashboard with a branded left sidebar, contextual header, financial/statistical cards and operational actions.
 
@@ -119,7 +119,7 @@ Do not embed full-screen mockup images as the functioning interface; render acce
 
 ## Original images — upload state
 
-The complete original-image package is prepared separately for transfer. The image paths above are reserved in `assets/original/`, but the connected GitHub text editor cannot write arbitrary binary PNG files. **Until the originals are manually added to the repository, the placeholders will be broken images.** The asset manifest is published in [UPLOAD-GUIDE.md](./assets/UPLOAD-GUIDE.md).
+The complete original-image package is prepared separately for transfer. The image paths above are reserved in `assets/original/`, but the connected GitHub text editor cannot write arbitrary binary PNG files. **The gallery now shows working, clearly labeled SVG fallback graphics.** They are not substitutes for the exact original screenshots. Once the original PNGs are committed, these references can be restored. The asset manifest is published in [UPLOAD-GUIDE.md](./assets/UPLOAD-GUIDE.md).
 
 ---
 
