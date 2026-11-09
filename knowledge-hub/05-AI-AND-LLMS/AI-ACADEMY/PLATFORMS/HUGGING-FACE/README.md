@@ -8,6 +8,18 @@
 
 > Hugging Face is **not one LLM**. It is a platform and ecosystem of model repositories, datasets, demonstration apps, learning courses and development libraries. Model repositories may come from many organizations with different licenses, risks and quality.
 
+## 📚 Structured Hugging Face lessons — Season 01
+
+**[Start the first three day-by-day classes →](./SEASON-01/README.md)**
+
+| Day | Original classroom lesson | Key learning outcome |
+|---:|---|---|
+| **001** | [What Is Hugging Face?](./SEASON-01/DAY-001-PLATFORM-INTRODUCTION.md) | Models, datasets, Spaces, collaboration |
+| **002** | [Read a Model Card](./SEASON-01/DAY-002-MODEL-CARDS.md) | Publisher, license, intended use and limits |
+| **003** | [Knowledge Bases and RAG](./SEASON-01/DAY-003-DATASETS-AND-RAG.md) | Dataset vs retrieval index vs model-generated answer |
+
+These three classes are fully written with original explanations, Mermaid diagrams, safe practical tasks and checkpoint questions. Later lessons on inference and fine-tuning are not yet marked complete.
+
 ## 01 · What is Hugging Face?
 
 [Hugging Face](https://huggingface.co/) is a collaborative machine-learning platform. Its **Hub** supports Git-like versioned repositories for models, datasets and Spaces demos. Teams can browse hosted artifacts, publish work, maintain model cards and select access levels. It also provides libraries that help with training, evaluation and deployment. See [official Hub documentation](https://huggingface.co/docs/hub/main/index).
