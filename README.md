@@ -83,6 +83,14 @@ These are selected **public** repositories. My product source code and private c
 
 ---
 
+## 🔐 Featured investigation — Binance $6.34 billion cyber heist
+
+[![The $6.34 Billion Binance Heist — Code Therapist research](./knowledge-hub/10-CYBER-INCIDENTS-AND-LAW/CRYPTO-AND-EXCHANGE-HEISTS/BINANCE-2026-10-29/assets/binance-heist-cover.svg)](./knowledge-hub/10-CYBER-INCIDENTS-AND-LAW/CRYPTO-AND-EXCHANGE-HEISTS/BINANCE-2026-10-29/README.md)
+
+**[Read the full October 2026 cybercrime report](./knowledge-hub/10-CYBER-INCIDENTS-AND-LAW/CRYPTO-AND-EXCHANGE-HEISTS/BINANCE-2026-10-29/README.md)** · **[▶️ Watch the Financial News Network analysis](https://youtu.be/dCXlcZmtTbw)**
+
+A sourced technical investigation with a timeline, defense failures, financial figures, Mermaid security diagrams and expert commentary.
+
 ## 📺 New illustrated technology lessons — Episodes 004–015
 
 [**Read 12 new Code Therapist technology guides →**](./knowledge-hub/07-SOCIAL-MEDIA/YOUTUBE/2026-11-08-TECHNOLOGY-EDUCATION/README.md)
