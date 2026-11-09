@@ -1,3 +1,5 @@
+<img src="../assets/model-research.svg" alt="Original Code Therapist Model Research landscape illustration" width="790"/>
+
 # 🧠 Model & LLM Research — Companies, Families and Releases
 
 **Code Therapist AI Academy** · 15 separate model/company sections · 9 November 2026
