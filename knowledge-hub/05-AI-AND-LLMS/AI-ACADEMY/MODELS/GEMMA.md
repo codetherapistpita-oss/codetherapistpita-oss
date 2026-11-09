@@ -1,3 +1,5 @@
+<img src="../assets/models/GEMMA.svg" alt="Original AI Academy landscape artwork for GEMMA" width="760"/>
+
 # 🤖 Gemma — AI Model Family Guide
 
 **Developer:** Google · **Origin or notable introduction:** February 2024 · **Reviewed:** 9 November 2026
