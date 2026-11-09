@@ -1,3 +1,5 @@
+<img src="../assets/models/PHI.svg" alt="Original AI Academy landscape artwork for PHI" width="760"/>
+
 # 🤖 Phi — AI Model Family Guide
 
 **Developer:** Microsoft · **Origin or notable introduction:** 2023 · **Reviewed:** 9 November 2026
