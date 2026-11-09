@@ -111,15 +111,16 @@ The supplied video transcript is a **panel discussion**, not a complete forensic
 
 ### Three original screenshots supplied by the research contributor
 
-The following are **owner-supplied screenshots from the FNN video**, referenced to document the coverage and its three themes. They are not a substitute for the video or the official investigation. **Binary image files are pending GitHub upload**; see [image manifest](./assets/SCREENSHOT-UPLOAD.md). The original screens are kept unmodified in the accompanying downloadable asset package.
+Three **owner-supplied screenshots from the FNN video** were provided for documentation, but their original binary files remain pending upload. They are not a substitute for the video or the official investigation. **Binary image files are pending GitHub upload**; see [image manifest](./assets/SCREENSHOT-UPLOAD.md). The original screens are kept unmodified in the accompanying downloadable asset package.
 
 <details>
-<summary>📸 View original screenshots (will display after image upload)</summary>
+<summary>📸 View the source video preview and screenshot asset status</summary>
 
-<table>
-<tr><td><img src="./assets/original/01-fnn-panel-overview.png" width="470" alt="FNN Binance panel with host and three guests; coverage topics"/></td><td><img src="./assets/original/02-fnn-defenses-failed.png" width="470" alt="FNN close-up with text Where the Defenses Failed"/></td></tr>
-<tr><td colspan="2" align="center"><img src="./assets/original/03-fnn-defense-discussion.png" width="470" alt="FNN panel still about where the defenses failed"/></td></tr>
-</table>
+<p align="center"><a href="https://youtu.be/dCXlcZmtTbw"><img src="https://img.youtube.com/vi/dCXlcZmtTbw/hqdefault.jpg" width="620" alt="Financial News Network original YouTube video thumbnail for the Binance incident discussion"></a></p>
+
+**Watch the source video:** [The $6.3 Billion Binance Hack — FNN discussion](https://youtu.be/dCXlcZmtTbw).
+
+**Exact screenshot status:** Three original FNN screenshots were supplied for this research, but the unchanged PNG files have not been uploaded to the GitHub repository. Their precise names are preserved in the [screenshot upload manifest](./assets/SCREENSHOT-UPLOAD.md). This displayed YouTube thumbnail is a remote source preview, **not a replacement or recreation of the three supplied screenshots**.
 
 </details>
 
