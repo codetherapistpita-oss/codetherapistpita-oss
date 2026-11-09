@@ -40,6 +40,12 @@ A research and educational directory for creator tools, feature announcements, m
 | **[LINKEDIN](./LINKEDIN/README.md)** | Policies, features, creator tools and cited updates |
 | **[PINTEREST](./PINTEREST/README.md)** | Policies, features, creator tools and cited updates |
 
+## Featured Code Therapist video series
+
+**[🌐 The Website You Didn't Know — Parts 001, 002 and 003](./YOUTUBE/WEBSITE-YOU-DIDNT-KNOW/README.md)**
+
+Practical website demonstrations and ready-to-record YouTube scripts featuring diagrams.net, Photopea and Google Teachable Machine. Articles are published; videos have not yet been uploaded.
+
 ## Publication approach
 
 Each post should record **announcement date**, **effective date** (if different), platform/region where applicable, direct sources, what changed, and whether the feature is rolling out or globally available.
