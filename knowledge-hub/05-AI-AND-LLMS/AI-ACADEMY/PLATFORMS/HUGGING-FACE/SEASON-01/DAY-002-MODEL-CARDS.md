@@ -1,3 +1,5 @@
+<img src="./assets/DAY-002.svg" width="760" alt="Original DAY-002 Hugging Face learning landscape illustration"/>
+
 # Day 002 · Understanding Model Cards and Licensing
 
 **Level:** Beginner to Intermediate · **Season 01 — Platform and Model Literacy** · **Reviewed:** 9 November 2026
