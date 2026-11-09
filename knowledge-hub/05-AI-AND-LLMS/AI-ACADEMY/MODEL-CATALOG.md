@@ -13,25 +13,27 @@
 > [!IMPORTANT]
 > **Clarification:** ChatGPT, Gemini and similar names can denote **consumer apps** as well as underlying **model families**. Perplexity is a search-answer product; **Sonar** is its model/API family. Llama and Gemma have downloadable weights but separate licenses. This catalog is educational, not a ranking or a claim that all models are free or offered in every location. No unsupported “best model” comparisons.
 
-## First 15 families
+## First 15 families — visual study directory
 
-| # | AI family | Developer | Origin / milestone | Focus | Study profile |
-|---:|---|---|---|---|---|
-| 01 | **[GPT / ChatGPT](./MODELS/GPT-CHATGPT.md)** | OpenAI | 2022 ChatGPT launch | Assistant & GPT models | [Open class](./MODELS/GPT-CHATGPT.md) |
-| 02 | **[Claude](./MODELS/CLAUDE.md)** | Anthropic | Mar 2023 | Assistant & text models | [Open class](./MODELS/CLAUDE.md) |
-| 03 | **[Gemini](./MODELS/GEMINI.md)** | Google | Dec 2023 | Multimodal family | [Open class](./MODELS/GEMINI.md) |
-| 04 | **[Grok](./MODELS/GROK.md)** | xAI | Nov 2023 | Assistant and model family | [Open class](./MODELS/GROK.md) |
-| 05 | **[Llama](./MODELS/LLAMA.md)** | Meta | 2023 | Open-weight, custom license | [Open class](./MODELS/LLAMA.md) |
-| 06 | **[DeepSeek](./MODELS/DEEPSEEK.md)** | DeepSeek | 2023 onward | Reasoning / coding family | [Open class](./MODELS/DEEPSEEK.md) |
-| 07 | **[Qwen](./MODELS/QWEN.md)** | Alibaba | 2023 | Multilingual, varied licensing | [Open class](./MODELS/QWEN.md) |
-| 08 | **[Mistral](./MODELS/MISTRAL.md)** | Mistral AI | 2023 | Open and commercial offerings | [Open class](./MODELS/MISTRAL.md) |
-| 09 | **[Phi](./MODELS/PHI.md)** | Microsoft | 2023 | Small language models | [Open class](./MODELS/PHI.md) |
-| 10 | **[Gemma](./MODELS/GEMMA.md)** | Google | Feb 2024 | Open-weight family | [Open class](./MODELS/GEMMA.md) |
-| 11 | **[Command / Command R](./MODELS/COMMAND.md)** | Cohere | Mar 2024 Command R | Enterprise RAG / tool use | [Open class](./MODELS/COMMAND.md) |
-| 12 | **[Granite](./MODELS/GRANITE.md)** | IBM | 2023–24 | Enterprise / open models | [Open class](./MODELS/GRANITE.md) |
-| 13 | **[Amazon Nova](./MODELS/NOVA.md)** | Amazon AWS | Dec 2024 | AWS foundation models | [Open class](./MODELS/NOVA.md) |
-| 14 | **[Kimi](./MODELS/KIMI.md)** | Moonshot AI | 2023 | Long-context assistant family | [Open class](./MODELS/KIMI.md) |
-| 15 | **[Sonar](./MODELS/SONAR.md)** | Perplexity AI | 2025 Sonar family | Search-grounded model/API | [Open class](./MODELS/SONAR.md) |
+Browse by number, preview and name, just like the Technology Education section.
+
+| # | Small landscape card | Model family and focus | Open |
+|:---:|:---|---|:---|
+| **01** | <a href="./MODELS/GPT-CHATGPT.md"><img src="./assets/models/GPT-CHATGPT.svg" width="176" alt="GPT / ChatGPT model-family landscape card"></a> | **GPT / ChatGPT** · OpenAI <br/>Assistant and GPT model family | [Read & Study](./MODELS/GPT-CHATGPT.md) |
+| **02** | <a href="./MODELS/CLAUDE.md"><img src="./assets/models/CLAUDE.svg" width="176" alt="Claude model-family landscape card"></a> | **Claude** · Anthropic <br/>Writing, coding and reasoning | [Read & Study](./MODELS/CLAUDE.md) |
+| **03** | <a href="./MODELS/GEMINI.md"><img src="./assets/models/GEMINI.svg" width="176" alt="Gemini model-family landscape card"></a> | **Gemini** · Google <br/>Multimodal AI | [Read & Study](./MODELS/GEMINI.md) |
+| **04** | <a href="./MODELS/GROK.md"><img src="./assets/models/GROK.svg" width="176" alt="Grok model-family landscape card"></a> | **Grok** · xAI <br/>Assistant and model family | [Read & Study](./MODELS/GROK.md) |
+| **05** | <a href="./MODELS/LLAMA.md"><img src="./assets/models/LLAMA.svg" width="176" alt="Llama model-family landscape card"></a> | **Llama** · Meta <br/>Open-weight models | [Read & Study](./MODELS/LLAMA.md) |
+| **06** | <a href="./MODELS/DEEPSEEK.md"><img src="./assets/models/DEEPSEEK.svg" width="176" alt="DeepSeek model-family landscape card"></a> | **DeepSeek** · DeepSeek <br/>Reasoning and coding | [Read & Study](./MODELS/DEEPSEEK.md) |
+| **07** | <a href="./MODELS/QWEN.md"><img src="./assets/models/QWEN.svg" width="176" alt="Qwen model-family landscape card"></a> | **Qwen** · Alibaba <br/>Multilingual models | [Read & Study](./MODELS/QWEN.md) |
+| **08** | <a href="./MODELS/MISTRAL.md"><img src="./assets/models/MISTRAL.svg" width="176" alt="Mistral model-family landscape card"></a> | **Mistral** · Mistral AI <br/>Open and commercial models | [Read & Study](./MODELS/MISTRAL.md) |
+| **09** | <a href="./MODELS/PHI.md"><img src="./assets/models/PHI.svg" width="176" alt="Phi model-family landscape card"></a> | **Phi** · Microsoft <br/>Small language models | [Read & Study](./MODELS/PHI.md) |
+| **10** | <a href="./MODELS/GEMMA.md"><img src="./assets/models/GEMMA.svg" width="176" alt="Gemma model-family landscape card"></a> | **Gemma** · Google <br/>Open-weight models | [Read & Study](./MODELS/GEMMA.md) |
+| **11** | <a href="./MODELS/COMMAND.md"><img src="./assets/models/COMMAND.svg" width="176" alt="Command / Command R model-family landscape card"></a> | **Command / Command R** · Cohere <br/>Enterprise retrieval and tools | [Read & Study](./MODELS/COMMAND.md) |
+| **12** | <a href="./MODELS/GRANITE.md"><img src="./assets/models/GRANITE.svg" width="176" alt="Granite model-family landscape card"></a> | **Granite** · IBM <br/>Enterprise models | [Read & Study](./MODELS/GRANITE.md) |
+| **13** | <a href="./MODELS/NOVA.md"><img src="./assets/models/NOVA.svg" width="176" alt="Amazon Nova model-family landscape card"></a> | **Amazon Nova** · Amazon AWS <br/>Cloud foundation models | [Read & Study](./MODELS/NOVA.md) |
+| **14** | <a href="./MODELS/KIMI.md"><img src="./assets/models/KIMI.svg" width="176" alt="Kimi model-family landscape card"></a> | **Kimi** · Moonshot AI <br/>Long-context assistance | [Read & Study](./MODELS/KIMI.md) |
+| **15** | <a href="./MODELS/SONAR.md"><img src="./assets/models/SONAR.svg" width="176" alt="Sonar model-family landscape card"></a> | **Sonar** · Perplexity AI <br/>Search-grounded answers | [Read & Study](./MODELS/SONAR.md) |
 
 ## How to study any AI model
 
