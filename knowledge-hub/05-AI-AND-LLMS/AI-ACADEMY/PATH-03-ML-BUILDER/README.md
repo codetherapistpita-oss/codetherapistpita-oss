@@ -4,7 +4,7 @@
 
 **Level:** Technical · **Season 01 — Foundations of Building AI** · **3 starting daily lessons published 9 November 2026**
 
-[← Academy](../README.md) · [Model research desk](../MODELS/README.md) · [Hugging Face](../PLATFORMS/HUGGING-FACE/README.md)
+[← Academy](../README.md) · [Model research desk](../MODEL-RESEARCH/README.md) · [Hugging Face](../PLATFORMS/HUGGING-FACE/README.md)
 
 > For learners who want Python, data science, model training, LLMs, fine-tuning, evaluation and deployment.
 
