@@ -23,3 +23,11 @@ Discover useful computer, software, design and AI websites with real demos and d
 - Record the screen, edit audio/captions and check the final video.
 - Link the corresponding tutorial and sources in the YouTube description.
 - Distinguish facts from estimates, free tiers from paid features and educational demos from deployed systems.
+
+## 📺 Code Therapist video learning reference
+
+| Episode | Illustrated article | Published |
+|---|---|---|
+| 012 | **[YouTube Community Guidelines](../../../knowledge-hub/07-SOCIAL-MEDIA/YOUTUBE/2026-11-08-TECHNOLOGY-EDUCATION/EP-012-youtube-community-rules.md)** | 8 November 2026 · Script and guide |
+
+This original teaching page includes a landscape visual, flowchart, recorded-video outline and source links. **The YouTube video itself is not yet uploaded.**
