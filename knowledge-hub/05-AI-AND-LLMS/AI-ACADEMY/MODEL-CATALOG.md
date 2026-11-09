@@ -1,3 +1,5 @@
+<img src="./assets/ai-academy-cover.svg" width="760" alt="15 AI model families learning catalog landscape visual"/>
+
 <div align="center">
 
 # 🧠 First 15 AI Model Families — Research Catalog
