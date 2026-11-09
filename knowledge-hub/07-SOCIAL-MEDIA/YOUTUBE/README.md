@@ -16,6 +16,12 @@ Discover useful computer, software, design and AI websites with real demos and d
 
 **Publication status:** GitHub tutorials and ready-to-record narration scripts have been published. No videos are claimed to be uploaded to YouTube.
 
+## 📚 New: 12 technology education episodes
+
+**[Explore Episodes 004–015, including illustrated guides and full recording scripts](./2026-11-08-TECHNOLOGY-EDUCATION/README.md)**
+
+The 12 guides cover programming, APIs, AI, security, banking, creator rules, history, Google Calendar and Byte Buz.
+
 ## Publishing checklist
 
 - Verify official website and correct functionality.
