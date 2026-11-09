@@ -1,3 +1,5 @@
+<img src="../assets/season-03.svg" width="760" alt="Original Code Therapist AI Academy landscape Season Three header"/>
+
 # 🎓 Season 3 — Prompt Engineering, Agents and Projects
 
 **Level:** Intermediate / Applied · **4 guided classes** · **Published:** 9 November 2026
