@@ -1,3 +1,5 @@
+<img src="../assets/models/GPT-CHATGPT.svg" alt="Code Therapist AI Academy original landscape illustration for GPT-CHATGPT" width="760"/>
+
 # 🤖 GPT / ChatGPT — AI Family Study Profile
 
 **Developer:** OpenAI · **Origins:** 2022 (ChatGPT product); GPT models predate it · **Profile reviewed:** 9 November 2026
