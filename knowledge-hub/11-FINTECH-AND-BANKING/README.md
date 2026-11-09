@@ -19,3 +19,9 @@ Banks, payment networks, mobile money, financial infrastructure, payments securi
 _No completed articles in this category yet._
 
 All future reports will distinguish primary records, reporting, analysis and unresolved claims. Dates, relevant jurisdictions and source links must be documented; no unverified allegations will be presented as fact.
+
+## 🔐 Digital-asset custody incident — Binance, October 2026
+
+**[Study the $6.34 billion Binance cyber heist](../10-CYBER-INCIDENTS-AND-LAW/CRYPTO-AND-EXCHANGE-HEISTS/BINANCE-2026-10-29/README.md)** · **[▶️ Watch the expert panel](https://youtu.be/dCXlcZmtTbw)**
+
+This evidence-based case focuses on custody, internal authorization, token freezes, user restitution claims and the distinction between exchange infrastructure and blockchain delegation rights.
