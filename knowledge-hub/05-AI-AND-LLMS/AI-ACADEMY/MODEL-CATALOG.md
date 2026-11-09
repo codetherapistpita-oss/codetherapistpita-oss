@@ -45,6 +45,10 @@ flowchart TD
  F --> G[Record findings]
 ```
 
+## 🧪 Structured evaluation practicum
+
+Use the **[Model Evaluation Lab](./MODEL-EVALUATION-LAB.md)** to compare ChatGPT, Claude, Gemini and other accessible systems on an identical fictional task. Record actual model version, date, tools, accuracy, cost/access and limitations; the lab includes a 100-mark scorecard.
+
 ## Recommended practical comparisons
 
 1. **Beginners:** Ask two models to explain an HTML element in 100 words. Compare clarity and factual accuracy.
