@@ -1,0 +1,28 @@
+name: Check documentation images
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "README.md"
+      - "knowledge-hub/**"
+      - ".github/scripts/check_markdown_images.py"
+      - ".github/workflows/check-markdown-images.yml"
+  pull_request:
+    paths:
+      - "README.md"
+      - "knowledge-hub/**"
+      - ".github/scripts/check_markdown_images.py"
+      - ".github/workflows/check-markdown-images.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate-images:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Verify Markdown image paths and SVG syntax
+        run: python3 .github/scripts/check_markdown_images.py --root .
