@@ -88,6 +88,8 @@ Each profile has a historical background, intended use, classroom demonstration,
 
 **[Read the 9 November release watch](./NEWS/2026-11-09-MODEL-RELEASE-WATCH.md)** — Gemini 4 Carbon, Claude Haiku 5.5 and OpenAI Images 2.6. Each update distinguishes release dates from rollout and treats manufacturer evaluations as claims.
 
+**[Editorial publication standards and daily AI review →](./EDITORIAL-AND-DAILY-UPDATE-STANDARD.md)**
+
 ## 📰 AI news and daily updates
 
 **[AI news digest with source dates](./NEWS/README.md)** is a curated educational log. It is **not** a live automatic news feed; dated entries are added only after verification.
