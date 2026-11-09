@@ -45,6 +45,12 @@ Every model family has a **dedicated research section and a separate release log
 
 **[Open the 15 model research sections →](./MODEL-RESEARCH/README.md)** · **[Read the dated AI news](./NEWS/README.md)**
 
+### Featured reading right now
+
+- **[Start Hugging Face Season 01 — Days 001–003](./PLATFORMS/HUGGING-FACE/SEASON-01/README.md):** what the platform is, how model cards work, and how datasets relate to knowledge bases and RAG.
+- **[Choose one of three general learner pathways](./LEARNING-PATHWAYS.md):** awareness, practical use, or model training and development.
+- **[Follow the 15 separate model research files](./MODEL-RESEARCH/README.md):** company history, precise versions, sourced change logs and exercises.
+
 ### Department 03 — Hugging Face
 
 The [Hugging Face knowledge guide](./PLATFORMS/HUGGING-FACE/README.md) covers the Hub, model cards, dataset cards, Spaces, Transformers, inference, fine-tuning, model evaluation and **how a RAG knowledge base differs from a repository**.
