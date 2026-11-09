@@ -1,3 +1,5 @@
+<img src="./assets/DAY-003.svg" width="760" alt="Original DAY-003 Hugging Face learning landscape illustration"/>
+
 # Day 003 · Datasets, Knowledge Bases and Retrieval-Augmented Generation
 
 **Level:** Practical AI learner · **Season 01 — Platform and Model Literacy** · **Reviewed:** 9 November 2026
