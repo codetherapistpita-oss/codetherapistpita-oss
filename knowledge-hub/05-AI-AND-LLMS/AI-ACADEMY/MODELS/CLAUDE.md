@@ -1,3 +1,5 @@
+<img src="../assets/models/CLAUDE.svg" alt="Code Therapist AI Academy original landscape illustration for CLAUDE" width="760"/>
+
 # 🤖 Claude — AI Family Study Profile
 
 **Developer:** Anthropic · **Origins:** 2023 · **Profile reviewed:** 9 November 2026
