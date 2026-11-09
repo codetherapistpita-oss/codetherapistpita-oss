@@ -1,3 +1,5 @@
+<img src="../../assets/hugging-face.svg" alt="Original Code Therapist Hugging Face landscape illustration" width="790"/>
+
 # 🤗 Hugging Face — Platform, Knowledge Hub and AI Development Guide
 
 **Code Therapist AI Academy · Platform research · Updated 9 November 2026**
