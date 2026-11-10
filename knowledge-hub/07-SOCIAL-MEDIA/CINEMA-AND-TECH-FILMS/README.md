@@ -8,7 +8,7 @@
 
 ## 📺 Featured collection — 10 November 2026
 
-[<img src="./2026-11-10-FOUR-FILMS/assets/01-the-town.svg" alt="The Town compact landscape film editorial cover" width="550">](./2026-11-10-FOUR-FILMS/01-THE-TOWN.md)
+[<img src="./2026-11-10-FOUR-FILMS/assets/01-town-photo-banner.png" alt="The Town compact landscape film editorial cover" width="550">](./2026-11-10-FOUR-FILMS/01-THE-TOWN.md)
 
 **[Read all four researched movies](./2026-11-10-FOUR-FILMS/README.md)**
 
