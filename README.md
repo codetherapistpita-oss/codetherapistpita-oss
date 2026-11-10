@@ -29,6 +29,14 @@ A free-to-read educational library covering what AI is, how models work, practic
 
 New original landscape graphics, diagrams and sources covering programming, databases, security, AI agents, developer tools, cloud, analytics, mobile architecture, accessibility, payments and creative technology. GitHub articles and video scripts are live; YouTube uploads are separate.
 
+## 🎬 New — Movie Stories, Technology & Life Lessons (10 November 2026)
+
+[![The Town — Cinema and Movie Research](./knowledge-hub/07-SOCIAL-MEDIA/CINEMA-AND-TECH-FILMS/2026-11-10-FOUR-FILMS/assets/01-the-town.svg)](./knowledge-hub/07-SOCIAL-MEDIA/CINEMA-AND-TECH-FILMS/2026-11-10-FOUR-FILMS/README.md)
+
+**[Read today's four film stories and lessons →](./knowledge-hub/07-SOCIAL-MEDIA/CINEMA-AND-TECH-FILMS/2026-11-10-FOUR-FILMS/README.md)** · [The Town](./knowledge-hub/07-SOCIAL-MEDIA/CINEMA-AND-TECH-FILMS/2026-11-10-FOUR-FILMS/01-THE-TOWN.md) · [Heart of the Beast](./knowledge-hub/07-SOCIAL-MEDIA/CINEMA-AND-TECH-FILMS/2026-11-10-FOUR-FILMS/02-HEART-OF-THE-BEAST.md) · [WarGames](./knowledge-hub/07-SOCIAL-MEDIA/CINEMA-AND-TECH-FILMS/2026-11-10-FOUR-FILMS/03-WARGAMES.md) · [Sneakers](./knowledge-hub/07-SOCIAL-MEDIA/CINEMA-AND-TECH-FILMS/2026-11-10-FOUR-FILMS/04-SNEAKERS.md)
+
+Original cinematic write-ups and trustworthy references, arranged as a film research series rather than copied scripts or streaming uploads.
+
 ## Explore my work
 
 > **Start here:** Browse software projects, practical code, tutorials, curated tools and sourced technology updates without digging through dozens of repositories.
