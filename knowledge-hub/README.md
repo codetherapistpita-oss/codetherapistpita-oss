@@ -28,6 +28,14 @@ The original coursework includes 12 lessons, prompt templates, practical labs an
 
 Organized by **field, level, season and day**, with compact landscape SVG artwork, real source references, practical exercises, Mermaid diagrams and YouTube scripts. Today's articles build beyond the previous batch rather than repeating introductions.
 
+## 🎬 New: Cinema & Tech Film Stories — 10 November 2026
+
+<a href="./07-SOCIAL-MEDIA/CINEMA-AND-TECH-FILMS/2026-11-10-FOUR-FILMS/README.md"><img src="./07-SOCIAL-MEDIA/CINEMA-AND-TECH-FILMS/2026-11-10-FOUR-FILMS/assets/01-the-town.svg" width="580" alt="The Town Code Therapist film review landscape graphic"></a>
+
+**[Read today's four researched movie stories](./07-SOCIAL-MEDIA/CINEMA-AND-TECH-FILMS/2026-11-10-FOUR-FILMS/README.md)** — *The Town*, *Heart of the Beast*, *WarGames* and *Sneakers*. Each covers film history, major scenes, fictional vs true-story context, the characters' mistakes, lessons and legitimate watching sources.
+
+**[The Town](./07-SOCIAL-MEDIA/CINEMA-AND-TECH-FILMS/2026-11-10-FOUR-FILMS/01-THE-TOWN.md)** · **[Heart of the Beast](./07-SOCIAL-MEDIA/CINEMA-AND-TECH-FILMS/2026-11-10-FOUR-FILMS/02-HEART-OF-THE-BEAST.md)**
+
 ## Explore the library
 
 | Category | What you'll find |
