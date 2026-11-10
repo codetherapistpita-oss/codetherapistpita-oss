@@ -40,6 +40,12 @@ A research and educational directory for creator tools, feature announcements, m
 | **[LINKEDIN](./LINKEDIN/README.md)** | Policies, features, creator tools and cited updates |
 | **[PINTEREST](./PINTEREST/README.md)** | Policies, features, creator tools and cited updates |
 
+## 🎬 NEW — Cinema & Technology Film Stories (10 November 2026)
+
+**[Explore four movie stories →](./CINEMA-AND-TECH-FILMS/2026-11-10-FOUR-FILMS/README.md)** · [The Town](./CINEMA-AND-TECH-FILMS/2026-11-10-FOUR-FILMS/01-THE-TOWN.md) · [Heart of the Beast](./CINEMA-AND-TECH-FILMS/2026-11-10-FOUR-FILMS/02-HEART-OF-THE-BEAST.md) · [WarGames](./CINEMA-AND-TECH-FILMS/2026-11-10-FOUR-FILMS/03-WARGAMES.md) · [Sneakers](./CINEMA-AND-TECH-FILMS/2026-11-10-FOUR-FILMS/04-SNEAKERS.md)
+
+Four source-based movie reports with plot interpretation, key scenes, morals, original viewing references and compact landscape editorial artwork. The two curator-selected still-image files are prepared separately for upload.
+
 ## Featured Code Therapist video series
 
 **[🌐 The Website You Didn't Know — Parts 001, 002 and 003](./YOUTUBE/WEBSITE-YOU-DIDNT-KNOW/README.md)**
