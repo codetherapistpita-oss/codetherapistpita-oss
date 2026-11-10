@@ -16,7 +16,7 @@
 
 ### 01 · The Town (2010) — Crime / loyalty / second chances
 
-[<img src="./assets/01-the-town.svg" width="680" alt="Code Therapist The Town editorial landscape banner">](./01-THE-TOWN.md)
+[<img src="./assets/01-the-town.svg" width="480" alt="Code Therapist The Town editorial landscape banner">](./01-THE-TOWN.md)
 
 A professional robber falls for a woman who does not know he helped traumatize her. His attempt to leave a violent crew becomes more dangerous as loyalty, deception and law enforcement close in. Based on the novel *Prince of Thieves*; inspired by a real community's complicated history, but **fictional**.
 
@@ -24,7 +24,7 @@ A professional robber falls for a woman who does not know he helped traumatize h
 
 ### 02 · Heart of the Beast (2026) — Survival / companionship / sacrifice
 
-[<img src="./assets/02-heart-of-the-beast.svg" width="680" alt="Code Therapist Heart of the Beast editorial landscape banner">](./02-HEART-OF-THE-BEAST.md)
+[<img src="./assets/02-heart-of-the-beast.svg" width="480" alt="Code Therapist Heart of the Beast editorial landscape banner">](./02-HEART-OF-THE-BEAST.md)
 
 A Special Forces veteran and his dog survive a remote plane crash, but every obstacle leaves them weaker. The ending transforms survival into a story about love, letting go and caring for another life. **Fictional**, released in 2026.
 
@@ -32,7 +32,7 @@ A Special Forces veteran and his dog survive a remote plane crash, but every obs
 
 ### 03 · WarGames (1983) — Hacking / technology / human judgment
 
-[<img src="./assets/03-wargames.svg" width="680" alt="Code Therapist WarGames cyberfilm research banner">](./03-WARGAMES.md)
+[<img src="./assets/03-wargames.svg" width="480" alt="Code Therapist WarGames cyberfilm research banner">](./03-WARGAMES.md)
 
 A teenage computer enthusiast mistakes sensitive computer simulations for a game. What follows is a memorable warning about unchecked automation and decisions whose consequences cannot be reversed.
 
@@ -40,7 +40,7 @@ A teenage computer enthusiast mistakes sensitive computer simulations for a game
 
 ### 04 · Sneakers (1992) — Cybersecurity / trust / encryption
 
-[<img src="./assets/04-sneakers.svg" width="680" alt="Code Therapist Sneakers security-film editorial banner">](./04-SNEAKERS.md)
+[<img src="./assets/04-sneakers.svg" width="480" alt="Code Therapist Sneakers security-film editorial banner">](./04-SNEAKERS.md)
 
 Professional security testers are deceived into acquiring a mysterious device that could compromise the world's secrets. The movie explores permission, deception, teamwork and the ethics of powerful technology.
 
