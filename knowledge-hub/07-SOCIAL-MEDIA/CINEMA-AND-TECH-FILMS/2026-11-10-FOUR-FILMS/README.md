@@ -23,7 +23,7 @@ A professional robber falls for a woman who does not know he helped traumatize h
 
 ### 02 · Heart of the Beast (2026) — Survival / companionship / sacrifice
 
-[<img src="./assets/02-heart-of-the-beast.jpg" width="480" alt="Code Therapist Heart of the Beast editorial landscape banner">](./02-HEART-OF-THE-BEAST.md)
+[<img src="./assets/02-heart-photo-banner.png" width="480" alt="Code Therapist Heart of the Beast editorial landscape banner">](./02-HEART-OF-THE-BEAST.md)
 
 A Special Forces veteran and his dog survive a remote plane crash, but every obstacle leaves them weaker. The ending transforms survival into a story about love, letting go and caring for another life. **Fictional**, released in 2026.
 
