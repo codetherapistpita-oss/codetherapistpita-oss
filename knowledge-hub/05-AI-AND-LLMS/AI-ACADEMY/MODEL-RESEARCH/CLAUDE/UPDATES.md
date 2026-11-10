@@ -12,6 +12,14 @@ Product launches, model versions, revised model cards, capability changes, API d
 |---|---|---|
 | **Historical starting point** | 2023 | Claude introduced March 2023. [Official documentation/release index](https://www.anthropic.com/news) |
 
+## New verified model release — 9 November 2026 (reviewed 10 November)
+
+**Claude Fable 5.2 / Claude Mythos 5.2:** Anthropic announced two differently safeguarded/access-controlled offerings of the **same underlying model**. Fable 5.2 is broadly available on supported platforms; Mythos 5.2 requires applicable cyber or life-sciences verification for sensitive uses. Anthropic lists standard API prices of **$8 per million input tokens** and **$40 per million output tokens**; optional fast mode is **$16/$80**. Anthropic reports up to 30% faster generation than 5.1; this is a **vendor claim**, not an independent Code Therapist measurement.
+
+- **Official announcement:** [Anthropic, 9 November 2026](https://www.anthropic.com/claude-fable-and-mythos-5-2)
+- **Educational analysis, access distinction, safety and exercise:** [10 November release research](../../NEWS/2026-11-10-CLAUDE-FABLE-MYTHOS-5-2.md)
+- **Scope:** Model release and availability/pricing, not a new company; access and prices may vary by platform.
+
 ## Dated model-specific research entry — 7 October 2026
 
 **Claude Haiku 5.5** — Anthropic introduced a smaller/faster Claude option for high-throughput tasks. Model availability, prices and vendor comparisons depend on the exact selected API or plan.
