@@ -1,4 +1,4 @@
-<img src="./assets/02-heart-of-the-beast.svg" alt="Heart of the Beast 2026 film story landscape" width="670"/>
+<img src="./assets/02-heart-of-the-beast.jpg" alt="Heart of the Beast 2026 film story landscape" width="670"/>
 
 # 🐕 Feature 002 — Heart of the Beast (2026)
 ### A soldier, his dog and the painful meaning of loyalty
@@ -7,7 +7,7 @@
 
 [← Today's four films](./README.md) · [Film information and critics](https://www.rottentomatoes.com/m/heart_of_the_beast) · [BFI film review](https://www.bfi.org.uk/sight-and-sound/reviews/heart-beast-bracingly-executed-man-dog-survival-story)
 
-> **Featured image:** The user-selected close-up of the veteran and German Shepherd is included as a compact 960-pixel landscape in the [cinema image pack](./IMAGE-UPLOAD-GUIDE.md). It is **not yet hosted in this repository** and will be visible in the GitHub page after its binary file is uploaded.
+> **Selected artwork:** Curator-provided man-and-dog compact landscape.
 
 ## 🎞️ Essential film facts
 

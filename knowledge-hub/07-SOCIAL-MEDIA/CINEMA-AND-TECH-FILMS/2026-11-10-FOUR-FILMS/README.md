@@ -9,14 +9,13 @@
 
 </div>
 
-> [!IMPORTANT]
-> **Publication status:** The essays, original compact SVG editorial banners and reading links are live on GitHub. The curator's **enhanced five-character The Town image, Heart of the Beast man-and-dog image and nun-mask scene** are prepared separately as resized JPG assets; those specific JPG files are **not yet uploaded to GitHub**, so they are not shown here as though already hosted. See the [image-upload guide](./IMAGE-UPLOAD-GUIDE.md). This collection features written analysis, **not full movies or unauthorized streaming downloads**.
+> **Published 10 November 2026:** Four movie essays with the selected compact landscape artwork for both main features.
 
 ## 🍿 Today's featured movie stories
 
 ### 01 · The Town (2010) — Crime / loyalty / second chances
 
-[<img src="./assets/01-the-town.svg" width="480" alt="Code Therapist The Town editorial landscape banner">](./01-THE-TOWN.md)
+[<img src="./assets/01-the-town.jpg" width="480" alt="Code Therapist The Town editorial landscape banner">](./01-THE-TOWN.md)
 
 A professional robber falls for a woman who does not know he helped traumatize her. His attempt to leave a violent crew becomes more dangerous as loyalty, deception and law enforcement close in. Based on the novel *Prince of Thieves*; inspired by a real community's complicated history, but **fictional**.
 
@@ -24,7 +23,7 @@ A professional robber falls for a woman who does not know he helped traumatize h
 
 ### 02 · Heart of the Beast (2026) — Survival / companionship / sacrifice
 
-[<img src="./assets/02-heart-of-the-beast.svg" width="480" alt="Code Therapist Heart of the Beast editorial landscape banner">](./02-HEART-OF-THE-BEAST.md)
+[<img src="./assets/02-heart-of-the-beast.jpg" width="480" alt="Code Therapist Heart of the Beast editorial landscape banner">](./02-HEART-OF-THE-BEAST.md)
 
 A Special Forces veteran and his dog survive a remote plane crash, but every obstacle leaves them weaker. The ending transforms survival into a story about love, letting go and caring for another life. **Fictional**, released in 2026.
 
