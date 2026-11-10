@@ -1,4 +1,4 @@
-<img src="./assets/01-the-town.svg" alt="The Town 2010 cinematic research landscape" width="480"/>
+<img src="./assets/01-the-town.jpg" alt="The Town 2010 cinematic research landscape" width="480"/>
 
 # 🎬 Feature 001 — The Town (2010)
 ### Crime, loyalty, consequences and the price of escaping one's past
@@ -7,7 +7,7 @@
 
 [← Today's four films](./README.md) · [Studio film overview](https://www.legendary.com/film/the-town/) · [AFI production record](https://catalog.afi.com/Film/66415-THE-TOWN)
 
-> **Selected visual:** The five-character red-lettered *The Town* image provided by the curator. The clean 960-pixel landscape copy is included in the [downloadable cinema asset package](./IMAGE-UPLOAD-GUIDE.md). The GitHub gallery currently uses an original editorial SVG while the binary still is awaiting upload; no movie still is represented as original Code Therapist photography.
+> **Selected artwork:** Curator-provided five-character compact landscape.
 
 ## 🎞️ Film identification
 
