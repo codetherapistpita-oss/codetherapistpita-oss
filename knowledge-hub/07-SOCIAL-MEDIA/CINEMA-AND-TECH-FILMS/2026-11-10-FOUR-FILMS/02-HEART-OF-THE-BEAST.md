@@ -1,3 +1,5 @@
+<img src="./assets/02-heart-of-the-beast.svg" alt="Heart of the Beast 2026 film story landscape" width="670"/>
+
 # 🐕 Feature 002 — Heart of the Beast (2026)
 ### A soldier, his dog and the painful meaning of loyalty
 
