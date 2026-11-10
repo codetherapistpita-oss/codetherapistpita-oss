@@ -2,9 +2,13 @@
 
 # 📰 AI Models & Automation — Verified Update Desk
 
-**Editorial review:** Monday, **9 November 2026** · [AI Academy](../README.md) · [15 Model Families](../MODEL-CATALOG.md)
+**Editorial review:** Tuesday, **10 November 2026** · [AI Academy](../README.md) · [15 Model Families](../MODEL-CATALOG.md)
 
 > This is a **dated research digest**, not a live news feed. Every entry records a primary source and clearly distinguishes manufacturer claims, model cards, commercial availability and independently tested performance. Future daily checks should avoid reposting unchanged stories.
+
+## 🆕 Verified release — 9 November 2026 (reviewed 10 November)
+
+**[Claude Fable 5.2 and Mythos 5.2: source-linked release research](./2026-11-10-CLAUDE-FABLE-MYTHOS-5-2.md)** — Anthropic announced two access/safeguard configurations of the same underlying model. Covers standard and fast-mode prices, restricted Mythos eligibility, safety caveats and vendor-claim limitations. [Company-specific release log](../MODEL-RESEARCH/CLAUDE/UPDATES.md) · [Official announcement](https://www.anthropic.com/claude-fable-and-mythos-5-2).
 
 ## 🆕 Featured research — 9 November 2026
 
