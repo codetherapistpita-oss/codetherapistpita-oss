@@ -31,7 +31,9 @@ New original landscape graphics, diagrams and sources covering programming, data
 
 ## 🎬 New — Movie Stories, Technology & Life Lessons (10 November 2026)
 
-[![The Town — Cinema and Movie Research](./knowledge-hub/07-SOCIAL-MEDIA/CINEMA-AND-TECH-FILMS/2026-11-10-FOUR-FILMS/assets/01-the-town.svg)](./knowledge-hub/07-SOCIAL-MEDIA/CINEMA-AND-TECH-FILMS/2026-11-10-FOUR-FILMS/README.md)
+[<img src="./knowledge-hub/07-SOCIAL-MEDIA/CINEMA-AND-TECH-FILMS/2026-11-10-FOUR-FILMS/assets/01-town-photo-banner.png" width="720" alt="The Town — five-character movie artwork">](./knowledge-hub/07-SOCIAL-MEDIA/CINEMA-AND-TECH-FILMS/2026-11-10-FOUR-FILMS/01-THE-TOWN.md)
+
+[<img src="./knowledge-hub/07-SOCIAL-MEDIA/CINEMA-AND-TECH-FILMS/2026-11-10-FOUR-FILMS/assets/02-heart-photo-banner.png" width="720" alt="Heart of the Beast — man and dog movie artwork">](./knowledge-hub/07-SOCIAL-MEDIA/CINEMA-AND-TECH-FILMS/2026-11-10-FOUR-FILMS/02-HEART-OF-THE-BEAST.md)
 
 **[Read today's four film stories and lessons →](./knowledge-hub/07-SOCIAL-MEDIA/CINEMA-AND-TECH-FILMS/2026-11-10-FOUR-FILMS/README.md)** · [The Town](./knowledge-hub/07-SOCIAL-MEDIA/CINEMA-AND-TECH-FILMS/2026-11-10-FOUR-FILMS/01-THE-TOWN.md) · [Heart of the Beast](./knowledge-hub/07-SOCIAL-MEDIA/CINEMA-AND-TECH-FILMS/2026-11-10-FOUR-FILMS/02-HEART-OF-THE-BEAST.md) · [WarGames](./knowledge-hub/07-SOCIAL-MEDIA/CINEMA-AND-TECH-FILMS/2026-11-10-FOUR-FILMS/03-WARGAMES.md) · [Sneakers](./knowledge-hub/07-SOCIAL-MEDIA/CINEMA-AND-TECH-FILMS/2026-11-10-FOUR-FILMS/04-SNEAKERS.md)
 
