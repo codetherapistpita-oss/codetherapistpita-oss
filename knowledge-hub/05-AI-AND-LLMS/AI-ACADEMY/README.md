@@ -45,9 +45,14 @@ Every model family has a **dedicated research section and a separate release log
 
 **[Open the 15 model research sections →](./MODEL-RESEARCH/README.md)** · **[Read the dated AI news](./NEWS/README.md)**
 
+### 10 November 2026 — Verified research and new platform lesson
+
+- **[Claude Fable 5.2 / Mythos 5.2 research](./NEWS/2026-11-10-CLAUDE-FABLE-MYTHOS-5-2.md)** — official 9 November announcement, access restrictions, token pricing and vendor-claim limitations. [Claude update log](./MODEL-RESEARCH/CLAUDE/UPDATES.md).
+- **[Hugging Face Season 01 · Day 004: Spaces and Safe AI Demos](./PLATFORMS/HUGGING-FACE/SEASON-01/DAY-004-SPACES-SAFE-DEMOS.md)** — original landscape visual, workflow, lecture, guided practice and quiz.
+
 ### Featured reading right now
 
-- **[Start Hugging Face Season 01 — Days 001–003](./PLATFORMS/HUGGING-FACE/SEASON-01/README.md):** what the platform is, how model cards work, and how datasets relate to knowledge bases and RAG.
+- **[Start Hugging Face Season 01 — Days 001–004](./PLATFORMS/HUGGING-FACE/SEASON-01/README.md):** what the platform is, how model cards work, and how datasets relate to knowledge bases and RAG.
 - **[Choose one of three general learner pathways](./LEARNING-PATHWAYS.md):** awareness, practical use, or model training and development.
 - **[Follow the 15 separate model research files](./MODEL-RESEARCH/README.md):** company history, precise versions, sourced change logs and exercises.
 
