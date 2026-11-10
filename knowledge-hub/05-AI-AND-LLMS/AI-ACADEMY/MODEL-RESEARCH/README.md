@@ -2,7 +2,7 @@
 
 # 🧠 Model & LLM Research — Companies, Families and Releases
 
-**Code Therapist AI Academy** · 15 separate model/company sections · 9 November 2026
+**Code Therapist AI Academy** · 15 separate model/company sections · Reviewed 10 November 2026
 
 [← AI Academy](../README.md) · [General AI Courses](../LEARNING-PATHWAYS.md) · [Release News](../NEWS/README.md) · [Hugging Face](../PLATFORMS/HUGGING-FACE/README.md)
 
@@ -27,6 +27,10 @@
 | 13 | [<img src="../assets/models/NOVA.svg" width="155" alt="Amazon Nova original landscape card">](./NOVA/README.md) | **Amazon Nova** · AWS | [Research](./NOVA/README.md) · [Release updates](./NOVA/UPDATES.md) |
 | 14 | [<img src="../assets/models/KIMI.svg" width="155" alt="Kimi original landscape card">](./KIMI/README.md) | **Kimi** · Moonshot AI | [Research](./KIMI/README.md) · [Release updates](./KIMI/UPDATES.md) |
 | 15 | [<img src="../assets/models/SONAR.svg" width="155" alt="Sonar original landscape card">](./SONAR/README.md) | **Sonar** · Perplexity | [Research](./SONAR/README.md) · [Release updates](./SONAR/UPDATES.md) |
+
+## Latest company-specific release
+
+**[Claude Fable 5.2 and Mythos 5.2 — 9 November 2026](./CLAUDE/UPDATES.md)** · [Detailed official-source research](../NEWS/2026-11-10-CLAUDE-FABLE-MYTHOS-5-2.md). The other model-family histories and logs remain separate; no unsupported release entries were added.
 
 ## Model-specific publication method
 
