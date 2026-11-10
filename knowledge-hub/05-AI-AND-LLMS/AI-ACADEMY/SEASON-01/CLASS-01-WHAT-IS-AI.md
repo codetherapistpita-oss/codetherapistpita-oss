@@ -1,3 +1,5 @@
+<img src="../assets/classes/CLASS-01.svg" width="760" alt="Code Therapist Class 01 high-resolution landscape lesson artwork"/>
+
 <img src="../assets/season-01.svg" width="760" alt="Original Code Therapist AI Academy landscape Season One header"/>
 
 # S1-C01 · What Is Artificial Intelligence?
