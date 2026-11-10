@@ -30,7 +30,15 @@ Organized by **field, level, season and day**, with compact landscape SVG artwor
 
 ## 🎬 New: Cinema & Tech Film Stories — 10 November 2026
 
-<a href="./07-SOCIAL-MEDIA/CINEMA-AND-TECH-FILMS/2026-11-10-FOUR-FILMS/README.md"><img src="./07-SOCIAL-MEDIA/CINEMA-AND-TECH-FILMS/2026-11-10-FOUR-FILMS/assets/01-the-town.svg" width="580" alt="The Town Code Therapist film review landscape graphic"></a>
+### Six more: hacking, heists, theft and security
+
+<a href="./07-SOCIAL-MEDIA/CINEMA-AND-TECH-FILMS/2026-11-10-SIX-SECURITY-FILMS/README.md"><img src="./07-SOCIAL-MEDIA/CINEMA-AND-TECH-FILMS/2026-11-10-SIX-SECURITY-FILMS/assets/05-hackers.png" width="720" alt="Six new Code Therapist movie guides — Hackers photographic banner"></a>
+
+**[Read six new film stories and lessons →](./07-SOCIAL-MEDIA/CINEMA-AND-TECH-FILMS/2026-11-10-SIX-SECURITY-FILMS/README.md)** · [Hackers](./07-SOCIAL-MEDIA/CINEMA-AND-TECH-FILMS/2026-11-10-SIX-SECURITY-FILMS/05-HACKERS.md) · [Blackhat](./07-SOCIAL-MEDIA/CINEMA-AND-TECH-FILMS/2026-11-10-SIX-SECURITY-FILMS/06-BLACKHAT.md) · [Inside Man](./07-SOCIAL-MEDIA/CINEMA-AND-TECH-FILMS/2026-11-10-SIX-SECURITY-FILMS/07-INSIDE-MAN.md) · [Ocean's Eleven](./07-SOCIAL-MEDIA/CINEMA-AND-TECH-FILMS/2026-11-10-SIX-SECURITY-FILMS/08-OCEANS-ELEVEN.md) · [The Italian Job](./07-SOCIAL-MEDIA/CINEMA-AND-TECH-FILMS/2026-11-10-SIX-SECURITY-FILMS/09-THE-ITALIAN-JOB.md) · [The Imitation Game](./07-SOCIAL-MEDIA/CINEMA-AND-TECH-FILMS/2026-11-10-SIX-SECURITY-FILMS/10-THE-IMITATION-GAME.md)
+
+**Ten distinct movies published today:** these six additions plus the earlier four below. Includes production backgrounds, category mapping, original story overviews, lessons and source references.
+
+<a href="./07-SOCIAL-MEDIA/CINEMA-AND-TECH-FILMS/2026-11-10-FOUR-FILMS/README.md"><img src="./07-SOCIAL-MEDIA/CINEMA-AND-TECH-FILMS/2026-11-10-FOUR-FILMS/assets/01-town-photo-banner.png" width="580" alt="The Town Code Therapist film review landscape graphic"></a>
 
 **[Read today's four researched movie stories](./07-SOCIAL-MEDIA/CINEMA-AND-TECH-FILMS/2026-11-10-FOUR-FILMS/README.md)** — *The Town*, *Heart of the Beast*, *WarGames* and *Sneakers*. Each covers film history, major scenes, fictional vs true-story context, the characters' mistakes, lessons and legitimate watching sources.
 

@@ -31,6 +31,14 @@ New original landscape graphics, diagrams and sources covering programming, data
 
 ## 🎬 New — Movie Stories, Technology & Life Lessons (10 November 2026)
 
+### Six more: hacking, heists, theft and security
+
+<a href="./knowledge-hub/07-SOCIAL-MEDIA/CINEMA-AND-TECH-FILMS/2026-11-10-SIX-SECURITY-FILMS/README.md"><img src="./knowledge-hub/07-SOCIAL-MEDIA/CINEMA-AND-TECH-FILMS/2026-11-10-SIX-SECURITY-FILMS/assets/05-hackers.png" width="720" alt="Six new Code Therapist movie guides — Hackers photographic banner"></a>
+
+**[Read six new film stories and lessons →](./knowledge-hub/07-SOCIAL-MEDIA/CINEMA-AND-TECH-FILMS/2026-11-10-SIX-SECURITY-FILMS/README.md)** · [Hackers](./knowledge-hub/07-SOCIAL-MEDIA/CINEMA-AND-TECH-FILMS/2026-11-10-SIX-SECURITY-FILMS/05-HACKERS.md) · [Blackhat](./knowledge-hub/07-SOCIAL-MEDIA/CINEMA-AND-TECH-FILMS/2026-11-10-SIX-SECURITY-FILMS/06-BLACKHAT.md) · [Inside Man](./knowledge-hub/07-SOCIAL-MEDIA/CINEMA-AND-TECH-FILMS/2026-11-10-SIX-SECURITY-FILMS/07-INSIDE-MAN.md) · [Ocean's Eleven](./knowledge-hub/07-SOCIAL-MEDIA/CINEMA-AND-TECH-FILMS/2026-11-10-SIX-SECURITY-FILMS/08-OCEANS-ELEVEN.md) · [The Italian Job](./knowledge-hub/07-SOCIAL-MEDIA/CINEMA-AND-TECH-FILMS/2026-11-10-SIX-SECURITY-FILMS/09-THE-ITALIAN-JOB.md) · [The Imitation Game](./knowledge-hub/07-SOCIAL-MEDIA/CINEMA-AND-TECH-FILMS/2026-11-10-SIX-SECURITY-FILMS/10-THE-IMITATION-GAME.md)
+
+**Ten distinct movies published today:** these six additions plus the earlier four below. Includes production backgrounds, category mapping, original story overviews, lessons and source references.
+
 [<img src="./knowledge-hub/07-SOCIAL-MEDIA/CINEMA-AND-TECH-FILMS/2026-11-10-FOUR-FILMS/assets/01-town-photo-banner.png" width="720" alt="The Town — five-character movie artwork">](./knowledge-hub/07-SOCIAL-MEDIA/CINEMA-AND-TECH-FILMS/2026-11-10-FOUR-FILMS/01-THE-TOWN.md)
 
 [<img src="./knowledge-hub/07-SOCIAL-MEDIA/CINEMA-AND-TECH-FILMS/2026-11-10-FOUR-FILMS/assets/02-heart-photo-banner.png" width="720" alt="Heart of the Beast — man and dog movie artwork">](./knowledge-hub/07-SOCIAL-MEDIA/CINEMA-AND-TECH-FILMS/2026-11-10-FOUR-FILMS/02-HEART-OF-THE-BEAST.md)

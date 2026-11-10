@@ -1,12 +1,29 @@
 # 🎬 Cinema & Technology Film Research — Code Therapist
 
-**Three hacker / computer / future-tech film recommendations + one adventure film per daily editorial collection** · Curated film stories, real source links and lessons.
+**Researched collections spanning hacking, heists, theft, security, cryptanalysis and human stories** · Curated film stories, real source links and lessons.
 
 [← Creator & Social Media](../README.md) · [Knowledge Hub](../../README.md)
 
 > Each case study is a **written critical film guide**, not a copy of the movie, its screenplay or an illegal watch link. Daily suggestions should not repeat previous movies; a publication counts only after it is actually committed and verified. Movie posters and screenshots need appropriate attribution and reuse permissions.
 
-## 📺 Featured collection — 10 November 2026
+## New: six more films — 10 November 2026
+
+[<img src="./2026-11-10-SIX-SECURITY-FILMS/assets/05-hackers.png" width="720" alt="Hackers — six new hacking, heist and security movie stories">](./2026-11-10-SIX-SECURITY-FILMS/README.md)
+
+**[Explore six new movie stories, backgrounds and lessons →](./2026-11-10-SIX-SECURITY-FILMS/README.md)**
+
+| Feature | Movie | Field |
+|---|---|---|
+| 05 | [Hackers (1995)](./2026-11-10-SIX-SECURITY-FILMS/05-HACKERS.md) | Cybercrime and insider threats |
+| 06 | [Blackhat (2015)](./2026-11-10-SIX-SECURITY-FILMS/06-BLACKHAT.md) | Cybercrime and critical infrastructure |
+| 07 | [Inside Man (2006)](./2026-11-10-SIX-SECURITY-FILMS/07-INSIDE-MAN.md) | Bank heist and deception |
+| 08 | [Ocean's Eleven (2001)](./2026-11-10-SIX-SECURITY-FILMS/08-OCEANS-ELEVEN.md) | Casino heist, surveillance and trust |
+| 09 | [The Italian Job (2003)](./2026-11-10-SIX-SECURITY-FILMS/09-THE-ITALIAN-JOB.md) | Gold theft, betrayal and electronic systems |
+| 10 | [The Imitation Game (2014)](./2026-11-10-SIX-SECURITY-FILMS/10-THE-IMITATION-GAME.md) | Historical cryptanalysis and ethics |
+
+**Today's total: ten movies.** The six above are additions to the four below; no title is repeated.
+
+## Earlier collection: four films — 10 November 2026
 
 [<img src="./2026-11-10-FOUR-FILMS/assets/01-town-photo-banner.png" alt="The Town compact landscape film editorial cover" width="550">](./2026-11-10-FOUR-FILMS/01-THE-TOWN.md)
 
