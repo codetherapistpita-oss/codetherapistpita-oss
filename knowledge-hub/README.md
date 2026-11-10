@@ -22,6 +22,12 @@ Practical developer resources, free code, safe technology guides, curated news a
 
 The original coursework includes 12 lessons, prompt templates, practical labs and model research profiles, with official links and diagrams. All 15 model names refer to **families or model/API products**, not interchangeable versions or a best-model ranking.
 
+## 📅 Today's 15 Technology Learning Fields — 9 November 2026
+
+**[Explore the new illustrated 15-topic publication](./07-SOCIAL-MEDIA/YOUTUBE/2026-11-09-TECHNOLOGY-DAILY-15/README.md)** · [Beginner](./07-SOCIAL-MEDIA/YOUTUBE/2026-11-09-TECHNOLOGY-DAILY-15/LEVEL-01-BEGINNER.md) · [Developer](./07-SOCIAL-MEDIA/YOUTUBE/2026-11-09-TECHNOLOGY-DAILY-15/LEVEL-02-PRACTICAL.md) · [Advanced](./07-SOCIAL-MEDIA/YOUTUBE/2026-11-09-TECHNOLOGY-DAILY-15/LEVEL-03-ADVANCED.md)
+
+Organized by **field, level, season and day**, with compact landscape SVG artwork, real source references, practical exercises, Mermaid diagrams and YouTube scripts. Today's articles build beyond the previous batch rather than repeating introductions.
+
 ## Explore the library
 
 | Category | What you'll find |
