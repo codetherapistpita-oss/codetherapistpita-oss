@@ -15,7 +15,7 @@
 
 ### 01 · The Town (2010) — Crime / loyalty / second chances
 
-[<img src="./assets/01-town-photo-banner.png" width="100%" alt="Code Therapist The Town editorial landscape banner">](./01-THE-TOWN.md)
+[<img src="./assets/01-town-animated-banner.gif" width="100%" alt="Code Therapist The Town editorial landscape banner">](./01-THE-TOWN.md)
 
 A professional robber falls for a woman who does not know he helped traumatize her. His attempt to leave a violent crew becomes more dangerous as loyalty, deception and law enforcement close in. Based on the novel *Prince of Thieves*; inspired by a real community's complicated history, but **fictional**.
 
