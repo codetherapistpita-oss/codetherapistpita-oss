@@ -16,6 +16,12 @@ Discover useful computer, software, design and AI websites with real demos and d
 
 **Publication status:** GitHub tutorials and ready-to-record narration scripts have been published. No videos are claimed to be uploaded to YouTube.
 
+## 📅 Today — 15 illustrated fields (9 November 2026)
+
+**[Open all 15 new level/season/day lessons](./2026-11-09-TECHNOLOGY-DAILY-15/README.md)** · [Beginner](./2026-11-09-TECHNOLOGY-DAILY-15/LEVEL-01-BEGINNER.md) · [Practical](./2026-11-09-TECHNOLOGY-DAILY-15/LEVEL-02-PRACTICAL.md) · [Advanced](./2026-11-09-TECHNOLOGY-DAILY-15/LEVEL-03-ADVANCED.md)
+
+Every lesson includes a small landscape graphic, Mermaid workflow, original source links, a practical exercise and a ready-to-record YouTube script. GitHub articles are published; videos are not yet uploaded.
+
 ## 📚 New: 12 technology education episodes
 
 **[Explore Episodes 004–015, including illustrated guides and full recording scripts](./2026-11-08-TECHNOLOGY-EDUCATION/README.md)**
