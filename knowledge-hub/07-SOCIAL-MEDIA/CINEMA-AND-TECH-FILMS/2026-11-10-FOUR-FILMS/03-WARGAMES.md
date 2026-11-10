@@ -1,3 +1,5 @@
+<img src="./assets/03-wargames.svg" alt="WarGames technology film landscape" width="670"/>
+
 # 💻 Feature 003 — WarGames (1983)
 ### The teenager, the computer and a catastrophe that almost happened
 
