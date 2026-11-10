@@ -2,7 +2,7 @@
 
 # 🤗 Hugging Face — Platform, Knowledge Hub and AI Development Guide
 
-**Code Therapist AI Academy · Platform research · Updated 9 November 2026**
+**Code Therapist AI Academy · Platform research · Updated 10 November 2026**
 
 [← Academy](../../README.md) · [ML Builder pathway](../../PATH-03-ML-BUILDER/README.md) · [AI Model Families](../../MODEL-CATALOG.md)
 
@@ -10,15 +10,16 @@
 
 ## 📚 Structured Hugging Face lessons — Season 01
 
-**[Start the first three day-by-day classes →](./SEASON-01/README.md)**
+**[Start the first four day-by-day classes →](./SEASON-01/README.md)**
 
 | Day | Original classroom lesson | Key learning outcome |
 |---:|---|---|
 | **001** | [What Is Hugging Face?](./SEASON-01/DAY-001-PLATFORM-INTRODUCTION.md) | Models, datasets, Spaces, collaboration |
 | **002** | [Read a Model Card](./SEASON-01/DAY-002-MODEL-CARDS.md) | Publisher, license, intended use and limits |
 | **003** | [Knowledge Bases and RAG](./SEASON-01/DAY-003-DATASETS-AND-RAG.md) | Dataset vs retrieval index vs model-generated answer |
+| **004** | [Spaces: Safe AI Demos](./SEASON-01/DAY-004-SPACES-SAFE-DEMOS.md) | SDKs, visibility, credentials and compute access |
 
-These three classes are fully written with original explanations, Mermaid diagrams, safe practical tasks and checkpoint questions. Later lessons on inference and fine-tuning are not yet marked complete.
+These four classes are fully written with original explanations, Mermaid diagrams, safe practical tasks and checkpoint questions. Later lessons on inference and fine-tuning are not yet marked complete.
 
 ## 01 · What is Hugging Face?
 
