@@ -1,3 +1,5 @@
+<img src="./assets/01-the-town.svg" alt="The Town 2010 cinematic research landscape" width="670"/>
+
 # 🎬 Feature 001 — The Town (2010)
 ### Crime, loyalty, consequences and the price of escaping one's past
 
