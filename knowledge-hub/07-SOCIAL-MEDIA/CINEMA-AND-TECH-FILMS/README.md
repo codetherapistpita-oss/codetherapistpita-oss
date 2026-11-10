@@ -29,6 +29,10 @@
 
 The film collection is organized by **date, category and individual feature number**; the Season labels are learning tracks, not claims that every season already has its complete material.
 
+## Movie image standard
+
+Every movie must have a clean photographic landscape banner: **1080 × 450 pixels**, displayed at **720px width** with its aspect ratio preserved. Use a sourced featured movie image as the background, readable foreground title and short thematic text, and the established Code Therapist cinema styling. Record the image source and label AI-assisted adaptations. Decode the complete image and verify the live page before publishing.
+
 ## 📝 Standard publishing format
 
 ```mermaid

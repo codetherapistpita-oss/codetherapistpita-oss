@@ -1,4 +1,4 @@
-<img src="./assets/03-wargames.svg" alt="WarGames technology film landscape" width="480"/>
+<img src="./assets/03-wargames-photo-banner.png" alt="WarGames technology film landscape" width="720"/>
 
 # 💻 Feature 003 — WarGames (1983)
 ### The teenager, the computer and a catastrophe that almost happened
@@ -86,3 +86,5 @@ A young programmer learns that a powerful system can mistake curiosity for catas
 🔗 https://github.com/codetherapistpita-oss/codetherapistpita-oss/blob/main/knowledge-hub/07-SOCIAL-MEDIA/CINEMA-AND-TECH-FILMS/2026-11-10-FOUR-FILMS/03-WARGAMES.md
 
 [← Four-film collection](./README.md)
+
+**Banner:** AI-assisted editorial adaptation of the MGM/UA film still reproduced by [New Atlas](https://newatlas.com/history-hollywood-hacking-1980s/45482/). Composition adapted for this landscape cover.

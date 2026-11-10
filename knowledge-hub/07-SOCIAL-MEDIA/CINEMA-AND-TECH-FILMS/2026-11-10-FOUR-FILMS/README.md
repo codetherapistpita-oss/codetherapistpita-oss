@@ -31,7 +31,7 @@ A Special Forces veteran and his dog survive a remote plane crash, but every obs
 
 ### 03 · WarGames (1983) — Hacking / technology / human judgment
 
-[<img src="./assets/03-wargames.svg" width="480" alt="Code Therapist WarGames cyberfilm research banner">](./03-WARGAMES.md)
+[<img src="./assets/03-wargames-photo-banner.png" width="720" alt="Code Therapist WarGames cyberfilm research banner">](./03-WARGAMES.md)
 
 A teenage computer enthusiast mistakes sensitive computer simulations for a game. What follows is a memorable warning about unchecked automation and decisions whose consequences cannot be reversed.
 
@@ -39,7 +39,7 @@ A teenage computer enthusiast mistakes sensitive computer simulations for a game
 
 ### 04 · Sneakers (1992) — Cybersecurity / trust / encryption
 
-[<img src="./assets/04-sneakers.svg" width="480" alt="Code Therapist Sneakers security-film editorial banner">](./04-SNEAKERS.md)
+[<img src="./assets/04-sneakers-photo-banner.png" width="720" alt="Code Therapist Sneakers security-film editorial banner">](./04-SNEAKERS.md)
 
 Professional security testers are deceived into acquiring a mysterious device that could compromise the world's secrets. The movie explores permission, deception, teamwork and the ethics of powerful technology.
 

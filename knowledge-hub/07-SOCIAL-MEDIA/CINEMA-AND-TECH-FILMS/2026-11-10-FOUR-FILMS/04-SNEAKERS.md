@@ -1,4 +1,4 @@
-<img src="./assets/04-sneakers.svg" alt="Sneakers cyberfilm landscape" width="480"/>
+<img src="./assets/04-sneakers-photo-banner.png" alt="Sneakers cyberfilm landscape" width="720"/>
 
 # 🕵️ Feature 004 — Sneakers (1992)
 ### The security testers who discovered a tool nobody should control
@@ -92,3 +92,5 @@ A team hired to test computer security is tricked into obtaining a device that c
 🔗 https://github.com/codetherapistpita-oss/codetherapistpita-oss/blob/main/knowledge-hub/07-SOCIAL-MEDIA/CINEMA-AND-TECH-FILMS/2026-11-10-FOUR-FILMS/04-SNEAKERS.md
 
 [← Four-film collection](./README.md)
+
+**Banner:** AI-assisted editorial adaptation of the official poster from [Universal Pictures At Home](https://www.universalpicturesathome.com/movies/sneakers). © Universal Studios; composition adapted for this landscape cover.
