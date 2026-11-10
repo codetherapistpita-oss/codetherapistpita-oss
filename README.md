@@ -23,6 +23,12 @@
 
 A free-to-read educational library covering what AI is, how models work, practical tools, safe automation and research with verifiable sources.
 
+## 📅 New — 15 Code Therapist Technology Lessons (9 November 2026)
+
+**[Explore all 15 topics by field, season, day and skill level →](./knowledge-hub/07-SOCIAL-MEDIA/YOUTUBE/2026-11-09-TECHNOLOGY-DAILY-15/README.md)**
+
+New original landscape graphics, diagrams and sources covering programming, databases, security, AI agents, developer tools, cloud, analytics, mobile architecture, accessibility, payments and creative technology. GitHub articles and video scripts are live; YouTube uploads are separate.
+
 ## Explore my work
 
 > **Start here:** Browse software projects, practical code, tutorials, curated tools and sourced technology updates without digging through dozens of repositories.
