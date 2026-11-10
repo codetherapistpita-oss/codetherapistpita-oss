@@ -1,4 +1,4 @@
-<img src="./assets/04-sneakers-photo-banner.png" alt="Sneakers cyberfilm landscape" width="720"/>
+<img src="./assets/04-sneakers-photo-banner-v2.png" alt="Sneakers cyberfilm landscape" width="720"/>
 
 # 🕵️ Feature 004 — Sneakers (1992)
 ### The security testers who discovered a tool nobody should control

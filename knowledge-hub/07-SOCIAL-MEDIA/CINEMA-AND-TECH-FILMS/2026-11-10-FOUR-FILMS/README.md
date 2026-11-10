@@ -39,7 +39,7 @@ A teenage computer enthusiast mistakes sensitive computer simulations for a game
 
 ### 04 · Sneakers (1992) — Cybersecurity / trust / encryption
 
-[<img src="./assets/04-sneakers-photo-banner.png" width="720" alt="Code Therapist Sneakers security-film editorial banner">](./04-SNEAKERS.md)
+[<img src="./assets/04-sneakers-photo-banner-v2.png" width="720" alt="Code Therapist Sneakers security-film editorial banner">](./04-SNEAKERS.md)
 
 Professional security testers are deceived into acquiring a mysterious device that could compromise the world's secrets. The movie explores permission, deception, teamwork and the ethics of powerful technology.
 

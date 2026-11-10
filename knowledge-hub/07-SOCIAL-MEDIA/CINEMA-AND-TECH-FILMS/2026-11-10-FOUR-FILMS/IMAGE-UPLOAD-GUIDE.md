@@ -9,7 +9,7 @@ All four cover banners are committed in assets/ and used by the collection and i
 | The Town | 01-town-photo-banner.png |
 | Heart of the Beast | 02-heart-photo-banner.png |
 | WarGames | 03-wargames-photo-banner.png |
-| Sneakers | 04-sneakers-photo-banner.png |
+| Sneakers | 04-sneakers-photo-banner-v2.png |
 
 Every future movie feature must use a clear sourced film image as its landscape background, readable title and brief thematic text in front, and the established Code Therapist cinema badge, dark readability gradient and gold accents. Preserve faces and image detail.
 
