@@ -4,6 +4,8 @@
 **Series:** Code Therapist Knowledge Hub — Daily Concepts  
 **Concept:** 10 of 15
 
+![PAYMENT WEBHOOK IDEMPOTENCY](../assets/2026-11-11/payment-webhook-idempotency.svg)
+
 ## Core concept
 
 Payment callbacks can be retried; deduplicate by a stable event or transaction ID and verify signatures.
