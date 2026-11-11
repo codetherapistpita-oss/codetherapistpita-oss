@@ -6,7 +6,7 @@
 
 > **Purpose:** This is a dedicated study season about an AI platform and infrastructure, **not a sixteenth LLM model family**. It shows learners how to discover, assess and test AI resources safely.
 
-## Start reading: first four days
+## Start reading: first five days
 
 | Day | Class | Outcome |
 |---|---|---|
@@ -14,6 +14,7 @@
 | **002** | **[Read a Model Card](./DAY-002-MODEL-CARDS.md)** | Evaluate a model's intended use, limits and license |
 | **003** | **[From Data to a Knowledge Base](./DAY-003-DATASETS-AND-RAG.md)** | Distinguish datasets, retrieval indexes and model applications |
 | **004** | **[Spaces: Safe AI Demos](./DAY-004-SPACES-SAFE-DEMOS.md)** | SDK, visibility, secrets, compute costs and safe deployment design |
+| **005** | **[Model Repository Security](./DAY-005-MODEL-REPOSITORY-SECURITY.md)** | Provenance, pickle risks, scanner limitations and isolated tests |
 
 ## Season flow
 
@@ -22,11 +23,12 @@ flowchart LR
  A[Day 001: Platform] --> B[Day 002: Model cards]
  B --> C[Day 003: Datasets and RAG]
  C --> D[Day 004: Spaces demos and secrets]
- D --> E[Later: Inference and training]
- E --> F[Later: Deployment and evaluations]
+ D --> E[Day 005: Model repository security]
+ E --> F[Later: Inference and training]
+ F --> G[Later: Deployment and evaluations]
 ```
 
-**Status:** Days 001–004 contain lessons and exercises. Later topics are planned rather than marked as complete.
+**Status:** Days 001–005 contain lessons and exercises. Later topics are planned rather than marked as complete.
 
 **Reliable references:** [Hugging Face Hub](https://huggingface.co/docs/hub/main/index) · [Model cards](https://huggingface.co/docs/hub/model-cards) · [Official learning portal](https://huggingface.co/learn)
 
