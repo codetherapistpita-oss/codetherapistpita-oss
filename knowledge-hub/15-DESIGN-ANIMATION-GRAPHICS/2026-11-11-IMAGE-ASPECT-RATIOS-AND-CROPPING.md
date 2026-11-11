@@ -4,6 +4,8 @@
 **Series:** Code Therapist Knowledge Hub — Daily Concepts  
 **Concept:** 14 of 15
 
+![IMAGE ASPECT RATIOS AND CROPPING](../assets/2026-11-11/image-aspect-ratios-and-cropping.svg)
+
 ## Core concept
 
 Use consistent aspect ratios and subject-aware cropping; avoid stretching or padding that creates unwanted white corners.
