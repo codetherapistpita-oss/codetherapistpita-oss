@@ -4,6 +4,8 @@
 **Series:** Code Therapist Knowledge Hub — Daily Concepts  
 **Concept:** 12 of 15
 
+![UNDERSTANDING CPU RAM AND SSD](../assets/2026-11-11/understanding-cpu-ram-and-ssd.svg)
+
 ## Core concept
 
 CPU executes instructions, RAM holds active working data, and SSD provides persistent storage; balanced specifications matter.
