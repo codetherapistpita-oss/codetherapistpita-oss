@@ -4,6 +4,8 @@
 **Series:** Code Therapist Knowledge Hub — Daily Concepts  
 **Concept:** 11 of 15
 
+![FROM VACUUM TUBES TO TRANSISTORS](../assets/2026-11-11/from-vacuum-tubes-to-transistors.svg)
+
 ## Core concept
 
 Transistors reduced size, power consumption, and maintenance compared with early vacuum-tube computing.
