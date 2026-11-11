@@ -4,6 +4,8 @@
 **Series:** Code Therapist Knowledge Hub — Daily Concepts  
 **Concept:** 15 of 15
 
+![AVOIDING DATA LEAKAGE](../assets/2026-11-11/avoiding-data-leakage.svg)
+
 ## Core concept
 
 Train-test contamination inflates apparent accuracy; split data before fitting preprocessing steps.
