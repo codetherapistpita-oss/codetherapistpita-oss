@@ -4,6 +4,8 @@
 **Series:** Code Therapist Knowledge Hub — Daily Concepts  
 **Concept:** 13 of 15
 
+![DATABASE BACKUPS AND RESTORE TESTS](../assets/2026-11-11/database-backups-and-restore-tests.svg)
+
 ## Core concept
 
 A backup is useful only when it can be restored; combine scheduled backups, retention, and periodic restore drills.
