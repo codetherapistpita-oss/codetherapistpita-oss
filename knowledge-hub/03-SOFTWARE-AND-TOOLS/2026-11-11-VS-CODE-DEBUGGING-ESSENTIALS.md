@@ -4,6 +4,9 @@
 **Series:** Code Therapist Knowledge Hub — Daily Concepts  
 **Concept:** 03 of 15
 
+![Educational landscape illustration for vs code debugging essentials](../assets/2026-11-11/vs-code-debugging-essentials.svg)
+
+
 ## Core concept
 
 Breakpoints, variable inspection, watch expressions, and step-through execution reveal faults faster than print-only debugging.
