@@ -4,6 +4,9 @@
 **Series:** Code Therapist Knowledge Hub — Daily Concepts  
 **Concept:** 02 of 15
 
+![Educational landscape illustration for python command line task tracker](../assets/2026-11-11/python-command-line-task-tracker.svg)
+
+
 ## Core concept
 
 Build a small task tracker using a list of dictionaries and JSON persistence.
