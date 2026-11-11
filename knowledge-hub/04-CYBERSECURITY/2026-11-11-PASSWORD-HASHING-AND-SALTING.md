@@ -4,6 +4,9 @@
 **Series:** Code Therapist Knowledge Hub — Daily Concepts  
 **Concept:** 04 of 15
 
+![Educational landscape illustration for password hashing and salting](../assets/2026-11-11/password-hashing-and-salting.svg)
+
+
 ## Core concept
 
 Passwords must be stored as adaptive one-way hashes with unique salts, not reversible encryption or plain text.
