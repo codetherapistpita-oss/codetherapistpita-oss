@@ -4,6 +4,9 @@
 **Series:** Code Therapist Knowledge Hub — Daily Concepts  
 **Concept:** 05 of 15
 
+![Educational landscape illustration for retrieval augmented generation](../assets/2026-11-11/retrieval-augmented-generation.svg)
+
+
 ## Core concept
 
 RAG retrieves relevant passages before an LLM generates an answer; retrieval quality and citations matter.
