@@ -4,6 +4,8 @@
 **Series:** Code Therapist Knowledge Hub — Daily Concepts  
 **Concept:** 08 of 15
 
+![WRITING REPRODUCIBLE READMES](../assets/2026-11-11/writing-reproducible-readmes.svg)
+
 ## Core concept
 
 A README should explain prerequisites, installation, configuration, usage, testing, and limitations.
