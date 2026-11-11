@@ -4,6 +4,8 @@
 **Series:** Code Therapist Knowledge Hub — Daily Concepts  
 **Concept:** 09 of 15
 
+![INCIDENT RESPONSE TIMELINE BASICS](../assets/2026-11-11/incident-response-timeline-basics.svg)
+
 ## Core concept
 
 Document detection, containment, eradication, recovery, and lessons learned with timestamps.
