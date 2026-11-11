@@ -4,6 +4,8 @@
 **Series:** Code Therapist Knowledge Hub — Daily Concepts  
 **Concept:** 07 of 15
 
+![WRITING CLEAR TECHNOLOGY EXPLAINERS](../assets/2026-11-11/writing-clear-technology-explainers.svg)
+
 ## Core concept
 
 A useful social post combines one claim, one concrete example, and a credible source.
