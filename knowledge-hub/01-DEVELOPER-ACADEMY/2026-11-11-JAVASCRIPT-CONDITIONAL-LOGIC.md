@@ -4,6 +4,9 @@
 **Series:** Code Therapist Knowledge Hub — Daily Concepts  
 **Concept:** 01 of 15
 
+![Educational landscape illustration for javascript conditional logic](../assets/2026-11-11/javascript-conditional-logic.svg)
+
+
 ## Core concept
 
 Use if, else if, switch, and ternary expressions to select program behavior.
