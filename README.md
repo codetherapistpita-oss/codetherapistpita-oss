@@ -15,6 +15,16 @@
 
 ---
 
+## 🎓 Featured — Learning Seasons & Illustrated Topic Advertisements (11 November 2026)
+
+**[Explore 4 learning seasons and 15 illustrated lessons →](./knowledge-hub/08-DOCUMENTATION/2026-11-11-LEARNING-SEASONS-SHOWCASE.md)**
+
+[![Python command-line task tracker — learn to build a useful tool](./knowledge-hub/assets/2026-11-11/python-command-line-task-tracker.svg)](./knowledge-hub/08-DOCUMENTATION/2026-11-11-LEARNING-SEASONS-SHOWCASE.md)
+
+**Season 01 — Build & Code** · **Season 02 — Protect & Operate** · **Season 03 — AI, Data & Knowledge** · **Season 04 — Computing & Visual Design**
+
+Follow each illustrated topic from discovery to lesson, exercise and reflection. All 15 articles have their own original landscape illustrations.
+
 ## 🤖 Learn Artificial Intelligence — Code Therapist Academy
 
 [![AI & Automation Academy](./knowledge-hub/05-AI-AND-LLMS/AI-ACADEMY/assets/ai-academy-cover.svg)](./knowledge-hub/05-AI-AND-LLMS/AI-ACADEMY/README.md)
