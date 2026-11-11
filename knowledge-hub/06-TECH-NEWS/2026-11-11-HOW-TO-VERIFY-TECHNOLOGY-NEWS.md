@@ -4,6 +4,8 @@
 **Series:** Code Therapist Knowledge Hub — Daily Concepts  
 **Concept:** 06 of 15
 
+![HOW TO VERIFY TECHNOLOGY NEWS](../assets/2026-11-11/how-to-verify-technology-news.svg)
+
 ## Core concept
 
 Distinguish vendor announcements, independent reporting, release notes, and rumors before publishing.
