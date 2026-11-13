@@ -45,6 +45,10 @@ Every model family has a **dedicated research section and a separate release log
 
 **[Open the 15 model research sections →](./MODEL-RESEARCH/README.md)** · **[Read the dated AI news](./NEWS/README.md)**
 
+### 13 November 2026 — Fine-tuning decision lesson
+
+- **[Hugging Face Season 01 · Day 007: Should You Fine-Tune a Model?](./PLATFORMS/HUGGING-FACE/SEASON-01/DAY-007-FINE-TUNING-DECISION.md)** — original landscape SVG, baseline-versus-RAG-versus-PEFT lecture, Mermaid decision workflow, guided planning lab and quiz. No model training or new release claimed.
+
 ### 12 November 2026 — Platform inference lesson
 
 - **[Hugging Face Season 01 · Day 006: Inference Providers](./PLATFORMS/HUGGING-FACE/SEASON-01/DAY-006-INFERENCE-PROVIDERS.md)** — original 16:9 SVG, model-versus-provider lecture, routing and billing comparison, safe credential practices, Mermaid architecture, guided evaluation and quiz. Educational material, not a new model announcement.
@@ -60,7 +64,7 @@ Every model family has a **dedicated research section and a separate release log
 
 ### Featured reading right now
 
-- **[Start Hugging Face Season 01 — Days 001–006](./PLATFORMS/HUGGING-FACE/SEASON-01/README.md):** what the platform is, how model cards work, and how datasets relate to knowledge bases and RAG.
+- **[Start Hugging Face Season 01 — Days 001–007](./PLATFORMS/HUGGING-FACE/SEASON-01/README.md):** what the platform is, how model cards work, and how datasets relate to knowledge bases and RAG.
 - **[Choose one of three general learner pathways](./LEARNING-PATHWAYS.md):** awareness, practical use, or model training and development.
 - **[Follow the 15 separate model research files](./MODEL-RESEARCH/README.md):** company history, precise versions, sourced change logs and exercises.
 
