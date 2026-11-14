@@ -45,6 +45,10 @@ Every model family has a **dedicated research section and a separate release log
 
 **[Open the 15 model research sections →](./MODEL-RESEARCH/README.md)** · **[Read the dated AI news](./NEWS/README.md)**
 
+### 14 November 2026 — Safe Spaces deployment operations
+
+- **[Hugging Face Season 01 · Day 008: Deploy and Operate Spaces Safely](./PLATFORMS/HUGGING-FACE/SEASON-01/DAY-008-SPACES-DEPLOYMENT-OPERATIONS.md)** — original landscape SVG, SDK selection, secrets, access levels, current platform cost caveats, Mermaid workflow, guided lab, quiz and rollback planning. Platform education only; not a model release.
+
 ### 13 November 2026 — Fine-tuning decision lesson
 
 - **[Hugging Face Season 01 · Day 007: Should You Fine-Tune a Model?](./PLATFORMS/HUGGING-FACE/SEASON-01/DAY-007-FINE-TUNING-DECISION.md)** — original landscape SVG, baseline-versus-RAG-versus-PEFT lecture, Mermaid decision workflow, guided planning lab and quiz. No model training or new release claimed.
@@ -64,7 +68,7 @@ Every model family has a **dedicated research section and a separate release log
 
 ### Featured reading right now
 
-- **[Start Hugging Face Season 01 — Days 001–007](./PLATFORMS/HUGGING-FACE/SEASON-01/README.md):** what the platform is, how model cards work, and how datasets relate to knowledge bases and RAG.
+- **[Start Hugging Face Season 01 — Days 001–008](./PLATFORMS/HUGGING-FACE/SEASON-01/README.md):** what the platform is, how model cards work, and how datasets relate to knowledge bases and RAG.
 - **[Choose one of three general learner pathways](./LEARNING-PATHWAYS.md):** awareness, practical use, or model training and development.
 - **[Follow the 15 separate model research files](./MODEL-RESEARCH/README.md):** company history, precise versions, sourced change logs and exercises.
 
