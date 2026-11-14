@@ -6,7 +6,7 @@
 
 > **Purpose:** This is a dedicated study season about an AI platform and infrastructure, **not a sixteenth LLM model family**. It shows learners how to discover, assess and test AI resources safely.
 
-## Start reading: first eight days
+## Start reading: first nine days
 
 | Day | Class | Outcome |
 |---|---|---|
@@ -18,6 +18,7 @@
 | **006** | **[Inference Providers: Choose, Route and Evaluate](./DAY-006-INFERENCE-PROVIDERS.md)** | Routing, pricing, authentication and measured evaluation |
 | **007** | **[Should You Fine-Tune a Model?](./DAY-007-FINE-TUNING-DECISION.md)** | Baselines, RAG, PEFT, leakage and held-out evaluation |
 | **008** | **[Deploy and Operate Spaces Safely](./DAY-008-SPACES-DEPLOYMENT-OPERATIONS.md)** | SDK selection, visibility, secrets, billing, smoke tests and rollback |
+| **009** | **[Datasets, Evaluation and Reproducibility](./DAY-009-DATASETS-EVALUATION-REPRODUCIBILITY.md)** | Dataset cards, leakage, fair evaluation and experiment records |
 
 ## Season flow
 
@@ -30,9 +31,10 @@ flowchart LR
  E --> F[Day 006: Inference providers]
  F --> G[Day 007: Fine-tuning decisions]
  G --> H[Day 008: Deployment operations]
+ H --> I[Day 009: Dataset evaluation]
 ```
 
-**Status:** Days 001–008 contain lessons and exercises. Later topics are planned rather than marked as complete.
+**Status:** Days 001–009 contain lessons and exercises. Later topics are planned rather than marked as complete.
 
 **Reliable references:** [Hugging Face Hub](https://huggingface.co/docs/hub/main/index) · [Model cards](https://huggingface.co/docs/hub/model-cards) · [Official learning portal](https://huggingface.co/learn)
 
