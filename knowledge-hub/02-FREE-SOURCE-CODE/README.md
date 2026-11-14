@@ -15,7 +15,7 @@ Reusable examples, licensed starter code and demos.
 
 ## Publications
 
-_No articles have been published in this section yet._
+- **14 November 2026 — [Accessible contact form: HTML, CSS and JavaScript](./WEB-PROJECTS/2026-11-14-ACCESSIBLE-FORM/README.md)** — runnable example, original landscape illustration, accessibility checks, lab exercises and official sources.
 
 ### Publishing standard
 Every article must include a title, publication date, sources or license where applicable, reproducible steps, and links to related projects. Third-party code must preserve attribution and comply with its license.
