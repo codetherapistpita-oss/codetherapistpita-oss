@@ -10,7 +10,7 @@
 
 ## 📚 Structured Hugging Face lessons — Season 01
 
-**[Start the first eight day-by-day classes →](./SEASON-01/README.md)**
+**[Start the first nine day-by-day classes →](./SEASON-01/README.md)**
 
 | Day | Original classroom lesson | Key learning outcome |
 |---:|---|---|
@@ -22,8 +22,9 @@
 | **006** | [Inference Providers](./SEASON-01/DAY-006-INFERENCE-PROVIDERS.md) | Model/provider distinction, routing, costs, tokens and evaluation |
 | **007** | [Should You Fine-Tune?](./SEASON-01/DAY-007-FINE-TUNING-DECISION.md) | Prompt/RAG/PEFT choice, clean splits and evaluation |
 | **008** | [Deploy and Operate Spaces Safely](./SEASON-01/DAY-008-SPACES-DEPLOYMENT-OPERATIONS.md) | SDKs, access, secrets, compute costs, health checks and rollback |
+| **009** | [Datasets, Evaluation and Reproducibility](./SEASON-01/DAY-009-DATASETS-EVALUATION-REPRODUCIBILITY.md) | Dataset cards, group-aware splits, leakage and reliable reporting |
 
-These eight classes are fully written with original explanations, Mermaid diagrams, safe practical tasks and checkpoint questions. The Day 007 fine-tuning lesson is a decision exercise; no training has been run.
+These nine classes are fully written with original explanations, Mermaid diagrams, safe practical tasks and checkpoint questions. The Day 007 fine-tuning lesson is a decision exercise; no training has been run.
 
 ## 01 · What is Hugging Face?
 
