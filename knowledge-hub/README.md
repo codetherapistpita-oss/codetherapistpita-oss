@@ -127,7 +127,7 @@ The public reference synthesizes the owner's earlier Byte Buz project master bri
 
 | Project | Repository |
 | --- | --- |
-| ByteLab Academy | [View source](https://github.com/codetherapistpita-oss/bytelab-academy) |
+| Byte Soma | [View source](https://github.com/codetherapistpita-oss/bytelab-academy) |
 | Code Therapist Portfolio | [View source](https://github.com/codetherapistpita-oss/codetherapist-portfolio) |
 | Code Therapist School | [View repository](https://github.com/codetherapistpita-oss/codetherapistschool) |
 
