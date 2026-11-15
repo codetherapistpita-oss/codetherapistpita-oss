@@ -125,7 +125,7 @@ These are selected **public** repositories. My product source code and private c
 
 | Project | Overview | Explore |
 | :--- | :--- | :--- |
-| 🎓 **ByteLab Academy** | Learning and education platform | [Repository](https://github.com/codetherapistpita-oss/bytelab-academy) |
+| 🎓 **Byte Soma** | Learning and education platform | [Repository](https://github.com/codetherapistpita-oss/bytelab-academy) |
 | 🌐 **Code Therapist Portfolio** | Portfolio source, design and web work | [Repository](https://github.com/codetherapistpita-oss/codetherapist-portfolio) |
 | 🏫 **Code Therapist School** | Educational software project | [Repository](https://github.com/codetherapistpita-oss/codetherapistschool) |
 | 🪟 **Windows & Office Reference** | Attributed community reference to the original MAS project | [Repository](https://github.com/codetherapistpita-oss/MICROSOFT_OFFICE_ACTIVATION) |
