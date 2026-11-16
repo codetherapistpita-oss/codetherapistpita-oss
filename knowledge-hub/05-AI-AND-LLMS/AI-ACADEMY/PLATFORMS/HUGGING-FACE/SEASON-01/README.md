@@ -6,7 +6,7 @@
 
 > **Purpose:** This is a dedicated study season about an AI platform and infrastructure, **not a sixteenth LLM model family**. It shows learners how to discover, assess and test AI resources safely.
 
-## Start reading: first ten days
+## Start reading: first eleven days
 
 | Day | Class | Outcome |
 |---|---|---|
@@ -20,6 +20,7 @@
 | **008** | **[Deploy and Operate Spaces Safely](./DAY-008-SPACES-DEPLOYMENT-OPERATIONS.md)** | SDK selection, visibility, secrets, billing, smoke tests and rollback |
 | **009** | **[Datasets, Evaluation and Reproducibility](./DAY-009-DATASETS-EVALUATION-REPRODUCIBILITY.md)** | Dataset cards, leakage, fair evaluation and experiment records |
 | **010** | **[Reliable Data Processing Pipelines](./DAY-010-DATA-PROCESSING-PIPELINES.md)** | Filter, map, split, prevent leakage and record revisions |
+| **011** | **[Evaluation Metrics: Measure What Matters](./DAY-011-EVALUATION-METRICS.md)** | Confusion matrices, precision, recall, F1 and error analysis |
 
 ## Season flow
 
@@ -34,9 +35,10 @@ flowchart LR
  G --> H[Day 008: Deployment operations]
  H --> I[Day 009: Dataset evaluation]
  I --> J[Day 010: Data pipelines]
+ J --> K[Day 011: Evaluation metrics]
 ```
 
-**Status:** Days 001–010 contain lessons and exercises. Later topics are planned rather than marked as complete.
+**Status:** Days 001–011 contain lessons and exercises. Later topics are planned rather than marked as complete.
 
 **Reliable references:** [Hugging Face Hub](https://huggingface.co/docs/hub/main/index) · [Model cards](https://huggingface.co/docs/hub/model-cards) · [Official learning portal](https://huggingface.co/learn)
 
