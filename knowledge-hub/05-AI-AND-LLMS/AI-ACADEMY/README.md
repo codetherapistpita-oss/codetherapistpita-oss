@@ -45,6 +45,10 @@ Every model family has a **dedicated research section and a separate release log
 
 **[Open the 15 model research sections →](./MODEL-RESEARCH/README.md)** · **[Read the dated AI news](./NEWS/README.md)**
 
+### 17 November 2026 — Artifact provenance and reproducibility
+
+- **[Hugging Face Season 01 · Day 012: Pin, Verify and Reproduce Artifacts](./PLATFORMS/HUGGING-FACE/SEASON-01/DAY-012-PIN-VERIFY-REPRODUCE.md)** — original 16:9 SVG, revision pinning, repository provenance, security checks, non-executing Python template, Mermaid workflow, guided exercise and quiz. Platform education; not a new model release.
+
 ### 16 November 2026 — Evaluation metrics and error analysis
 
 - **[Hugging Face Season 01 · Day 011: Evaluation Metrics — Measure What Matters](./PLATFORMS/HUGGING-FACE/SEASON-01/DAY-011-EVALUATION-METRICS.md)** — original 16:9 SVG, precision/recall/F1 lecture, worked synthetic example, Python, Mermaid workflow, guided exercise and quiz. Educational content, not a model release.
@@ -80,7 +84,7 @@ Every model family has a **dedicated research section and a separate release log
 
 ### Featured reading right now
 
-- **[Start Hugging Face Season 01 — Days 001–011](./PLATFORMS/HUGGING-FACE/SEASON-01/README.md):** what the platform is, how model cards work, and how datasets relate to knowledge bases and RAG.
+- **[Start Hugging Face Season 01 — Days 001–012](./PLATFORMS/HUGGING-FACE/SEASON-01/README.md):** what the platform is, how model cards work, and how datasets relate to knowledge bases and RAG.
 - **[Choose one of three general learner pathways](./LEARNING-PATHWAYS.md):** awareness, practical use, or model training and development.
 - **[Follow the 15 separate model research files](./MODEL-RESEARCH/README.md):** company history, precise versions, sourced change logs and exercises.
 
