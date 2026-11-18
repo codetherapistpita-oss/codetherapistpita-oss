@@ -2,7 +2,7 @@
 
 # 🤗 Hugging Face — Platform, Knowledge Hub and AI Development Guide
 
-**Code Therapist AI Academy · Platform research · Updated 17 November 2026**
+**Code Therapist AI Academy · Platform research · Updated 18 November 2026**
 
 [← Academy](../../README.md) · [ML Builder pathway](../../PATH-03-ML-BUILDER/README.md) · [AI Model Families](../../MODEL-CATALOG.md)
 
@@ -10,7 +10,7 @@
 
 ## 📚 Structured Hugging Face lessons — Season 01
 
-**[Start the first twelve day-by-day classes →](./SEASON-01/README.md)**
+**[Start the first thirteen day-by-day classes →](./SEASON-01/README.md)**
 
 | Day | Original classroom lesson | Key learning outcome |
 |---:|---|---|
@@ -26,8 +26,9 @@
 | **010** | [Reliable Data Processing Pipelines](./SEASON-01/DAY-010-DATA-PROCESSING-PIPELINES.md) | Mapping, filtering, leakage-safe splits and reproducibility |
 | **011** | [Evaluation Metrics: Measure What Matters](./SEASON-01/DAY-011-EVALUATION-METRICS.md) | Confusion matrices, precision, recall, F1 and honest reporting |
 | **012** | [Pin, Verify and Reproduce Artifacts](./SEASON-01/DAY-012-PIN-VERIFY-REPRODUCE.md) | Full commit SHA, permissions, safe downloads and provenance |
+| **013** | [Dataset Versioning and Responsible Governance](./SEASON-01/DAY-013-DATASET-VERSIONING-AND-GOVERNANCE.md) | Dataset revisions, cards, licensing, privacy and release gates |
 
-These twelve classes are fully written with original explanations, Mermaid diagrams, safe practical tasks and checkpoint questions. The Day 007 fine-tuning lesson is a decision exercise; no training has been run.
+These thirteen classes are fully written with original explanations, Mermaid diagrams, safe practical tasks and checkpoint questions. The Day 007 fine-tuning lesson is a decision exercise; no training has been run.
 
 ## 01 · What is Hugging Face?
 
