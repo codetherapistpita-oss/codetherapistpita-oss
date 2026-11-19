@@ -6,7 +6,7 @@
 
 > **Purpose:** This is a dedicated study season about an AI platform and infrastructure, **not a sixteenth LLM model family**. It shows learners how to discover, assess and test AI resources safely.
 
-## Start reading: first thirteen days
+## Start reading: first fourteen days
 
 | Day | Class | Outcome |
 |---|---|---|
@@ -23,6 +23,7 @@
 | **011** | **[Evaluation Metrics: Measure What Matters](./DAY-011-EVALUATION-METRICS.md)** | Confusion matrices, precision, recall, F1 and error analysis |
 | **012** | **[Pin, Verify and Reproduce Artifacts](./DAY-012-PIN-VERIFY-REPRODUCE.md)** | Immutable revisions, security checks and provenance records |
 | **013** | **[Dataset Versioning and Responsible Governance](./DAY-013-DATASET-VERSIONING-AND-GOVERNANCE.md)** | Revision tracking, dataset cards, licensing and privacy checks |
+| **014** | **[Space Authentication and Secrets](./DAY-014-SPACE-AUTHENTICATION-AND-SECRETS.md)** | OAuth, roles, safe credential storage and security tests |
 
 ## Season flow
 
@@ -40,9 +41,10 @@ flowchart LR
  J --> K[Day 011: Evaluation metrics]
  K --> L[Day 012: Pin and verify revisions]
  L --> M[Day 013: Dataset governance]
+ M --> N[Day 014: OAuth and secrets]
 ```
 
-**Status:** Days 001–013 contain lessons and exercises. Later topics are planned rather than marked as complete.
+**Status:** Days 001–014 contain lessons and exercises. Later topics are planned rather than marked as complete.
 
 **Reliable references:** [Hugging Face Hub](https://huggingface.co/docs/hub/main/index) · [Model cards](https://huggingface.co/docs/hub/model-cards) · [Official learning portal](https://huggingface.co/learn)
 
