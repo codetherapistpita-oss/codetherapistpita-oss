@@ -10,6 +10,6 @@ _No notices yet._
 
 ## Latest publications
 
-_No posts yet._
+- **21 November 2026** · [Gadgets & Hardware Reviews · Season 01](../13-HARDWARE-AND-SYSTEMS/GADGETS/README.md) — PC buying guide, HP and ASUS comparison, and a five-day validation plan.
 
 Publish with clear date, source, usage license where relevant, and links back to the [Code Therapist profile](https://github.com/codetherapistpita-oss).

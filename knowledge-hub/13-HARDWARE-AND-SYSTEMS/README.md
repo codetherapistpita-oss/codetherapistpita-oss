@@ -16,6 +16,8 @@ Computers, CPUs, GPUs, storage, servers, operating systems and networking hardwa
 
 ## Published resources
 
+- **[Gadgets & Hardware Reviews · Season 01](./GADGETS/README.md)** — Learn how to read the specs before buying a PC, then compare two real laptops and use the test plan.
+
 _No completed articles in this category yet._
 
 All future reports will distinguish primary records, reporting, analysis and unresolved claims. Dates, relevant jurisdictions and source links must be documented; no unverified allegations will be presented as fact.

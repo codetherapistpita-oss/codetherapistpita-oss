@@ -61,6 +61,7 @@ Organized by **field, level, season and day**, with compact landscape SVG artwor
 | **[💳 FinTech & Banking](./11-FINTECH-AND-BANKING/README.md)** | Banks, mobile money, payments, financial technology |
 | **[🕰️ History of Computing](./12-COMPUTER-HISTORY/README.md)** | Computing generations, pioneers, operating systems and the internet |
 | **[🖥️ Hardware & Systems](./13-HARDWARE-AND-SYSTEMS/README.md)** | PCs, GPUs, servers, networking equipment and OS administration |
+| **[🧰 Gadgets & Hardware Reviews](./13-HARDWARE-AND-SYSTEMS/GADGETS/README.md)** | PC specifications, real device comparisons and hands-on validation |
 | **[☁️ Databases, Cloud & DevOps](./14-DATABASES-CLOUD-DEVOPS/README.md)** | SQL, NoSQL, deployment, CI/CD and infrastructure |
 | **[🎬 Design & Animation](./15-DESIGN-ANIMATION-GRAPHICS/README.md)** | UI design, CSS motion, 2D/3D and computer graphics |
 | **[🧠 Machine Learning & Data](./16-MACHINE-LEARNING-DATA/README.md)** | Data analysis, models, computer vision and evaluation |

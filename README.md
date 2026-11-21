@@ -15,6 +15,12 @@
 
 ---
 
+## 🧰 New — Gadgets & Hardware Reviews (21 November 2026)
+
+**[Start Season 01 · Understand PC Specs Before You Buy →](./knowledge-hub/13-HARDWARE-AND-SYSTEMS/GADGETS/README.md)**
+
+Read a PC spec sheet, compare the HP EliteBook and ASUS Zenbook, and test both across development, AI and gaming.
+
 ## 🎓 Featured — Learning Seasons & Illustrated Topic Advertisements (11 November 2026)
 
 **[Explore 4 learning seasons and 15 illustrated lessons →](./knowledge-hub/08-DOCUMENTATION/2026-11-11-LEARNING-SEASONS-SHOWCASE.md)**
@@ -79,6 +85,7 @@ Original cinematic write-ups and trustworthy references, arranged as a film rese
 | 💳 **[Banking & FinTech](./knowledge-hub/11-FINTECH-AND-BANKING/README.md)** | Financial services, banking innovations, payments and mobile money |
 | 🕰️ **[Computer History](./knowledge-hub/12-COMPUTER-HISTORY/README.md)** | Early computers, generations, pioneers and internet history |
 | 🖥️ **[Hardware & Systems](./knowledge-hub/13-HARDWARE-AND-SYSTEMS/README.md)** | PCs, servers, CPU/GPU hardware and computer systems |
+| 🧰 **[Gadgets & Hardware Reviews](./knowledge-hub/13-HARDWARE-AND-SYSTEMS/GADGETS/README.md)** | Season 01 explains PC specs, compares two real laptops and includes a five-day test plan |
 | ☁️ **[Databases, Cloud & DevOps](./knowledge-hub/14-DATABASES-CLOUD-DEVOPS/README.md)** | SQL, NoSQL, cloud deployments, infrastructure and CI/CD |
 | 🎬 **[Design & Animation](./knowledge-hub/15-DESIGN-ANIMATION-GRAPHICS/README.md)** | 2D/3D, UI/UX, motion design and computer graphics |
 | 🧠 **[Machine Learning & Data](./knowledge-hub/16-MACHINE-LEARNING-DATA/README.md)** | ML models, data science, computer vision and evaluation |
