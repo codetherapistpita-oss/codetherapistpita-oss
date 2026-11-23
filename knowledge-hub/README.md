@@ -66,7 +66,7 @@ Organized by **field, level, season and day**, with compact landscape SVG artwor
 | **[🎬 Design & Animation](./15-DESIGN-ANIMATION-GRAPHICS/README.md)** | UI design, CSS motion, 2D/3D and computer graphics |
 | **[🧠 Machine Learning & Data](./16-MACHINE-LEARNING-DATA/README.md)** | Data analysis, models, computer vision and evaluation |
 | **[🎓 KIU OneCard — IoT Smart Student Card](./17-IOT-SMART-STUDENT-CARD/README.md)** | Final-year IoT prototype design, system architecture, hardware, tests and Gantt chart |
-| **[🏢 ByteLab Uganda Product R&D](./18-BYTELAB-PROJECTS/README.md)** | Public-safe product research and architecture showcases, including ByteRent and Byte Buz |
+| **[🏢 ByteLab Uganda Product R&D](./18-BYTELAB-PROJECTS/README.md)** | Public-safe product research and architecture showcases, including ByteRent and Byte Buz |\n| **[📡 Byte IoT Project Family](./18-BYTELAB-PROJECTS/BYTE-IOT/README.md)** | NFC identity, ByteLab smart-card and ESP32 access prototypes with SRS, Gantt and quotations |
 | **[🛒 Byte Buz POS & Business Platform](./18-BYTELAB-PROJECTS/BYTE-BUZ/README.md)** | 20-screen POS design, modular workflows, technical architecture and proposed Gantt |
 | **[🪙 Africa Gold Marketplace — Ryan & Peter](./18-BYTELAB-PROJECTS/AFRICA-GOLD-MARKETPLACE/README.md)** | Gold buyer/seller discovery concept, compliant enquiry journeys, architecture, trust and proposed roadmap |
 
