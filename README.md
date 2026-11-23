@@ -88,6 +88,7 @@ Original cinematic write-ups and trustworthy references, arranged as a film rese
 | 🧰 **[Gadgets & Hardware Reviews](./knowledge-hub/13-HARDWARE-AND-SYSTEMS/GADGETS/README.md)** | Season 01 explains PC specs, compares two real laptops and includes a five-day test plan |
 | ☁️ **[Databases, Cloud & DevOps](./knowledge-hub/14-DATABASES-CLOUD-DEVOPS/README.md)** | SQL, NoSQL, cloud deployments, infrastructure and CI/CD |
 | 🎬 **[Design & Animation](./knowledge-hub/15-DESIGN-ANIMATION-GRAPHICS/README.md)** | 2D/3D, UI/UX, motion design and computer graphics |
+| 🎨 **[Byte Graphics](./knowledge-hub/15-DESIGN-ANIMATION-GRAPHICS/BYTE-GRAPHICS/README.md)** | Three seasons: graphics foundations, gaming/game development and KIU Blender campus project |
 | 🧠 **[Machine Learning & Data](./knowledge-hub/16-MACHINE-LEARNING-DATA/README.md)** | ML models, data science, computer vision and evaluation |
 | 💳 **[KIU OneCard — IoT Smart Student Card](./knowledge-hub/17-IOT-SMART-STUDENT-CARD/README.md)** | Final-year smart-campus prototype, architecture, terminals, budget and Gantt chart |
 | 🏢 **[ByteLab Product R&D](./knowledge-hub/18-BYTELAB-PROJECTS/README.md)** | Public project research, product concepts and engineering roadmaps |
