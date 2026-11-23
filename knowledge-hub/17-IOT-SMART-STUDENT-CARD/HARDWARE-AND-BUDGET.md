@@ -1,60 +1,91 @@
-# 🧰 KIU OneCard — Hardware, Wiring & Budget
+# 🧰 KIU OneCard — Hardware, Wiring & Updated Prototype Budget
 
 [← Project homepage](./README.md) · [Architecture](./ARCHITECTURE.md) · [Gantt](./GANTT-CHART.md)
+
+> [!IMPORTANT]
+> **Updated 23 November 2026.** This replaces the earlier October UGX 800,000 four-terminal planning quotation. The current purchasing baseline is a **three-terminal academic prototype** using personal/lab computers and existing laboratory tools where available. Prices are supplier benchmarks, not purchase receipts.
 
 ## Hardware chain
 
 ```mermaid
 flowchart LR
- C["💳 NFC test card"] --> P["PN532 reader"]
- P -->|SPI / I²C — verify board mode| E["ESP32 dev board"]
+ C["💳 DESFire / NFC test card"] --> P["PN532 reader"]
+ P -->|SPI / I²C| E["ESP32-WROOM-32 dev board"]
  E --> O["0.96-inch OLED"]
  E --> L["Status LEDs / buzzer"]
- E -->|Wi-Fi, TLS| S["Prototype server"]
- POW["Regulated supply"] --> E
+ E -->|Wi-Fi / hotspot / local LAN| S["Prototype service server"]
+ LAP["Personal/lab laptop"] --> S
 ```
 
-**Implementation note:** Verify the specific module's pins, board power requirements and switch configuration before connecting hardware. Do not infer safe voltage from a generic internet wiring diagram; ESP32 I/O is not universally 5V tolerant. Test one reader/controller pair before building four terminals.
+## Why ESP32-WROOM-32
 
-## Estimated bill of materials — October 2026 proposal
+The prototype requires Wi-Fi networking, local hotspot/LAN operation, sufficient GPIO for PN532 + display + feedback devices, and broad development-library support. A standard **ESP32-WROOM-32 development board** is therefore the baseline rather than an industrial IoT gateway.
 
-| # | Item | Qty | Estimated unit UGX | Estimated total UGX |
+## Updated three-terminal bill of materials
+
+| # | Item | Qty | Current benchmark unit UGX | Planned total UGX |
 |---|---|---:|---:|---:|
-| 1 | ESP32 Wi-Fi/Bluetooth development board | 4 | 35,000 | 140,000 |
-| 2 | PN532 RFID/NFC reader | 4 | 37,500 | 150,000 |
-| 3 | RFID/NFC test cards | 20 | 3,000 | 60,000 |
-| 4 | 0.96-inch OLED display | 4 | 15,000 | 60,000 |
-| 5 | Fingerprint modules (optional evaluation) | 2 | 45,000 | 90,000 |
-| 6 | Breadboards | 4 | 10,000 | 40,000 |
-| 7 | Jumper-wire sets | 4 | 8,000 | 32,000 |
-| 8 | 5V regulated power adapters | 4 | 10,000 | 40,000 |
-| 9 | USB data/power cables | 4 | 5,000 | 20,000 |
-| 10 | Enclosures/casings | 4 | 14,000 | 56,000 |
-| 11 | LEDs and buzzer packs | 4 | 5,000 | 20,000 |
-| 12 | Buttons, resistors and small parts | 1 | 12,000 | 12,000 |
-| 13 | Perfboards / prototype PCBs | 4 | 7,000 | 28,000 |
-| 14 | Pin headers, terminal blocks, connectors | 1 | 20,000 | 20,000 |
-| 15 | Soldering consumables | 1 | 20,000 | 20,000 |
-| 16 | Labels, sleeves and testing consumables | 1 | 12,000 | 12,000 |
-| | **Estimated prototype total** | | | **800,000** |
+| 1 | ESP32 ESP-32 WROOM development board | 3 | 60,000 | 180,000 |
+| 2 | PN532 NFC/RFID reader module | 3 | 30,000 | 90,000 |
+| 3 | MIFARE DESFire EV3 2K PVC cards | 5 | 20,000 | 100,000 |
+| 4 | 0.96-inch OLED display | 3 | 25,000 | 75,000 |
+| 5 | MB102 solderless breadboard | 3 | 15,000 | 45,000 |
+| 6 | Mixed jumper-wire allowance | 1 | 25,000 | 25,000 |
+| 7 | USB data/power cables | 3 | 10,000 | 30,000 |
+| 8 | Active buzzers | 3 | 4,000 | 12,000 |
+| 9 | LEDs | 6 | 1,000 | 6,000 |
+| 10 | Resistors / small connectors allowance | 1 | 10,000 | 10,000 |
+| | **Estimated demonstrable three-terminal total** | | | **573,000** |
+| | **10% contingency** | | | **57,300** |
+| | **Recommended procurement ceiling** | | | **630,300** |
 
-> **Budget provenance:** Values are reproduced from the team's October 2026 project funding quotation, not real-time supplier quotes. Does not include full-scale university implementation, software labor or production integration. Obtain fresh quotations before purchase.
+### Core hardware only
+If displays, breadboards, cables and small components are already available in the laboratory, the **core purchase** is:
+
+**3 ESP32 + 3 PN532 + 5 DESFire EV3 cards = UGX 370,000.**
+
+## Prototype terminal allocation
+
+| Terminal | Hardware |
+|---|---|
+| Library / Service Terminal A | ESP32 + PN532 + OLED + feedback |
+| Finance or Examination / Terminal B | ESP32 + PN532 + OLED + feedback |
+| Gate/Identification or rotating service demo / Terminal C | ESP32 + PN532 + OLED + feedback |
+
+The academic four-service concept remains valid, but the physical prototype can demonstrate it using **three configurable terminals** instead of buying four complete sets immediately.
+
+## Card strategy
+
+- **Final secure academic prototype:** MIFARE DESFire EV3 2K PVC cards.
+- **Cheap bench tests:** low-cost 13.56 MHz cards/tags may be used only to prove reader communication.
+- Do not present UID-only testing as strong authentication.
+
+## Supplier benchmarks checked 23 November 2026
+
+- Neriko Electronics — ESP32-WROOM-32: **UGX 60,000**
+- Neriko Electronics — PN532 V3: **UGX 30,000**
+- Neriko Electronics — 0.96-inch OLED: **UGX 25,000**
+- Neriko Electronics — MB102 breadboard: **UGX 15,000**
+- Neriko Electronics — jumper wires / USB / buzzer / LEDs: current local catalogue benchmarks
+- Bbiri Centre — MIFARE DESFire EV3 2K: **UGX 20,000**
+
+Sources:
+- https://nerikoelectronics.com/
+- https://www.bbiri-centre.com/product-page/mifare-desfire-ev3-2k-rfid-card
 
 ## Assembly plan
 
-1. Test one ESP32 board with USB power and serial output.
-2. Confirm PN532 interface mode and connect it using the **manufacturer-specific** circuit diagram.
-3. Read a test NFC card in a controlled setup; record only the test credential.
-4. Add OLED and status LED/buzzer, confirm power draw and pin assignments.
-5. Connect the ESP32 to an isolated test network and a local prototype API.
-6. Secure communication and perform negative authorization tests.
-7. Repeat for the other three terminals and label their intended roles.
-8. Move to suitable enclosures only after stable power, thermal and reliability tests.
+1. Verify one ESP32 board over USB serial.
+2. Verify one PN532 board, its supply requirements and interface mode.
+3. Read a development credential and document the exact card technology.
+4. Add OLED, LED and buzzer feedback.
+5. Connect to an isolated hotspot/local LAN and prototype API.
+6. Test online and bounded offline behavior.
+7. Repeat the verified wiring for the other two terminals.
+8. Add enclosures only after stable functional testing.
 
-## Vendor and technical references
+## Procurement rule
 
-- [Espressif official documentation](https://docs.espressif.com/projects/esp-idf/en/stable/esp32/)
-- [Adafruit PN532 technical guide](https://learn.adafruit.com/adafruit-pn532-rfid-nfc)
-- [Adafruit PN532 library](https://github.com/adafruit/Adafruit-PN532)
+Before paying, confirm the **exact board revision, card chip, stock status and final quotation** with the supplier. Do not substitute a generic RFID card for DESFire or a different ESP32 family solely because a listing is cheaper.
 
 [← Project homepage](./README.md)
