@@ -20,7 +20,7 @@ Public technical showcases for proposed products, structured project research, s
 |---|---|---|---|
 | 🏘️ **ByteRent Uganda** | National property, rental, short-stay, land, parking and location discovery | Research and concept designs | **[Explore ByteRent →](./BYTERENT-UGANDA/README.md)** |
 | 🛒 **Byte Buz** | Retail POS, inventory, suppliers, branches, analytics and business operations | Requirements and original concept UI; implementation not verified | **[Explore Byte Buz →](./BYTE-BUZ/README.md)** |
-| 🪙 **Africa Gold Marketplace** | Proposed compliance-gated gold buyer/seller discovery and quotation platform; Uganda pilot and Africa ambition | Public concept and research; not a trading service | **[Explore Gold Marketplace →](./AFRICA-GOLD-MARKETPLACE/README.md)** |
+| 🪙 **Africa Gold Marketplace** | Proposed compliance-gated gold buyer/seller discovery and quotation platform; Uganda pilot and Africa ambition | Public concept and research; not a trading service | **[Explore Gold Marketplace →](./AFRICA-GOLD-MARKETPLACE/README.md)** |\n| 📡 **Byte IoT** | NFC identity, smart cards and ESP32 connected-system experiments | Three documented prototype projects | **[Explore Byte IoT →](./BYTE-IOT/README.md)** |
 
 ### ByteRent highlights
 
@@ -43,6 +43,12 @@ Public technical showcases for proposed products, structured project research, s
 **[Project Overview](./AFRICA-GOLD-MARKETPLACE/README.md)** · [Business & UX Brief](./AFRICA-GOLD-MARKETPLACE/PROJECT-BRIEF.md) · [Workflows](./AFRICA-GOLD-MARKETPLACE/WORKFLOWS.md) · [System Architecture](./AFRICA-GOLD-MARKETPLACE/ARCHITECTURE.md) · [Gold Compliance](./AFRICA-GOLD-MARKETPLACE/COMPLIANCE-AND-TRUST.md) · [Proposed Roadmap](./AFRICA-GOLD-MARKETPLACE/ROADMAP.md)
 
 **Idea Lead:** Ryan · **Lead Application Developer:** Peter. This is a **concept for lawful screened enquiries**, not a licensed gold merchant, public trading offer or live checkout.
+
+### 📡 Byte IoT — connected hardware project family
+
+**[Byte IoT Family](./BYTE-IOT/README.md)** · [01 Byte IoT Tap](./BYTE-IOT/01-BYTE-IOT-TAP/README.md) · [02 ByteLab Smart Card](./BYTE-IOT/02-BYTELAB-SMART-CARD/README.md) · [03 Byte IoT Access](./BYTE-IOT/03-BYTE-IOT-ACCESS/README.md)
+
+Each project includes an SRS, architecture/workflow, Gantt roadmap and quotation.
 
 ## Publishing standard
 
