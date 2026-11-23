@@ -44,6 +44,12 @@ Organized by **field, level, season and day**, with compact landscape SVG artwor
 
 **[The Town](./07-SOCIAL-MEDIA/CINEMA-AND-TECH-FILMS/2026-11-10-FOUR-FILMS/01-THE-TOWN.md)** · **[Heart of the Beast](./07-SOCIAL-MEDIA/CINEMA-AND-TECH-FILMS/2026-11-10-FOUR-FILMS/02-HEART-OF-THE-BEAST.md)**
 
+## 🎨 New — Byte Graphics
+
+**[Open Byte Graphics](./15-DESIGN-ANIMATION-GRAPHICS/BYTE-GRAPHICS/README.md)** · [Season 01](./15-DESIGN-ANIMATION-GRAPHICS/BYTE-GRAPHICS/SEASON-01-GRAPHICS-FOUNDATIONS.md) · [Season 02](./15-DESIGN-ANIMATION-GRAPHICS/BYTE-GRAPHICS/SEASON-02-GAMING-AND-GAME-DEVELOPMENT.md) · [Season 03](./15-DESIGN-ANIMATION-GRAPHICS/BYTE-GRAPHICS/SEASON-03-KIU-CAMPUS-BLENDER-PROJECT.md)
+
+A professional graphics learning family covering computer-graphics foundations, current creative software, film/VFX study, Unity/C# and Unreal game development, gaming workstation decisions, and a documented KIU Main Campus Blender reconstruction workflow.
+
 ## Explore the library
 
 | Category | What you'll find |
@@ -64,9 +70,11 @@ Organized by **field, level, season and day**, with compact landscape SVG artwor
 | **[🧰 Gadgets & Hardware Reviews](./13-HARDWARE-AND-SYSTEMS/GADGETS/README.md)** | PC specifications, real device comparisons and hands-on validation |
 | **[☁️ Databases, Cloud & DevOps](./14-DATABASES-CLOUD-DEVOPS/README.md)** | SQL, NoSQL, deployment, CI/CD and infrastructure |
 | **[🎬 Design & Animation](./15-DESIGN-ANIMATION-GRAPHICS/README.md)** | UI design, CSS motion, 2D/3D and computer graphics |
+| **[🎨 Byte Graphics](./15-DESIGN-ANIMATION-GRAPHICS/BYTE-GRAPHICS/README.md)** | 3-season graphics, gaming, creative software and KIU Blender project workflow |
 | **[🧠 Machine Learning & Data](./16-MACHINE-LEARNING-DATA/README.md)** | Data analysis, models, computer vision and evaluation |
 | **[🎓 KIU OneCard — IoT Smart Student Card](./17-IOT-SMART-STUDENT-CARD/README.md)** | Final-year IoT prototype design, system architecture, hardware, tests and Gantt chart |
-| **[🏢 ByteLab Uganda Product R&D](./18-BYTELAB-PROJECTS/README.md)** | Public-safe product research and architecture showcases, including ByteRent and Byte Buz |\n| **[📡 Byte IoT Project Family](./18-BYTELAB-PROJECTS/BYTE-IOT/README.md)** | NFC identity, ByteLab smart-card and ESP32 access prototypes with SRS, Gantt and quotations |
+| **[🏢 ByteLab Uganda Product R&D](./18-BYTELAB-PROJECTS/README.md)** | Public-safe product research and architecture showcases, including ByteRent and Byte Buz |
+| **[📡 Byte IoT Project Family](./18-BYTELAB-PROJECTS/BYTE-IOT/README.md)** | NFC identity, ByteLab smart-card and ESP32 access prototypes with SRS, Gantt and quotations |
 | **[🛒 Byte Buz POS & Business Platform](./18-BYTELAB-PROJECTS/BYTE-BUZ/README.md)** | 20-screen POS design, modular workflows, technical architecture and proposed Gantt |
 | **[🪙 Africa Gold Marketplace — Ryan & Peter](./18-BYTELAB-PROJECTS/AFRICA-GOLD-MARKETPLACE/README.md)** | Gold buyer/seller discovery concept, compliant enquiry journeys, architecture, trust and proposed roadmap |
 
