@@ -37,7 +37,7 @@ The first demonstration targets **Identification, Library, Examination and Finan
 | **Core concept** | One student card across four simulated service terminals |
 | **Edge hardware** | ESP32 + PN532 NFC reader + OLED / feedback components |
 | **Central services** | Prototype API, sample database, scoped service rules and audit events |
-| **Estimated hardware budget** | **UGX 800,000** — historical October 2026 prototype quotation, not live pricing |
+| **Estimated hardware budget** | **UGX 573,000 demonstrable three-terminal baseline; UGX 630,300 with 10% contingency** — updated 23 Nov 2026 |
 | **Delivery planning** | 12-week illustrative baseline starting 9 November 2026, subject to approval |
 | **Implementation status** | Not represented as assembled, deployed or validated |
 
@@ -51,7 +51,7 @@ The project is organized as a research and engineering dossier. Each section lin
 | **02** | **[Requirements & Traceability](./REQUIREMENTS-AND-TRACEABILITY.md)** | Numbered functional/nonfunctional requirements, modules and proposed evidence |
 | **03** | **[System Architecture](./ARCHITECTURE.md)** | Hardware, central API, scan sequence, data model and failure conditions |
 | **04** | **[Four Service Terminals](./SERVICE-TERMINALS.md)** | Identification, Library, Examination and Finance use cases |
-| **05** | **[Hardware & Budget](./HARDWARE-AND-BUDGET.md)** | Parts inventory, safe assembly approach and estimated UGX 800,000 bill |
+| **05** | **[Hardware & Budget](./HARDWARE-AND-BUDGET.md)** | Updated three-terminal parts inventory, supplier benchmarks and procurement ceiling |
 | **06** | **[Security & Testing](./SECURITY-AND-TESTING.md)** | Threats, privacy boundaries, negative tests and evaluation metrics |
 | **07** | **[Demo & Operational Guide](./OPERATIONS-AND-DEMO.md)** | Demonstration script, expected outputs, results log and handover checklist |
 | **08** | **[Gantt Chart & Milestones](./GANTT-CHART.md)** | Proposed 12-week workstreams, acceptance gates and dependencies |
